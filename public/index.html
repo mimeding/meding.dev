@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Michael Meding</title>
+    <meta name="description" content="Michael Meding — software and local AI on Apple Silicon." />
+    <meta name="theme-color" content="#14120e" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="canonical" href="https://meding.dev/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #14120e;
+        --ink: #efe6d5;
+        --muted: #b7ad9a;
+        --rule: #3a342b;
+        --accent: #d36a2d;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        min-height: 100vh;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: Newsreader, "Iowan Old Style", Palatino, Georgia, serif;
+        font-size: 1.125rem;
+        line-height: 1.55;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      main {
+        max-width: 40rem;
+        margin: 0 auto;
+        padding: 18vh 1.5rem 4rem;
+      }
+
+      .mark {
+        font-family: "IBM Plex Mono", ui-monospace, monospace;
+        font-size: 0.75rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin: 0 0 1.25rem;
+      }
+
+      h1 {
+        font-size: clamp(2.6rem, 8vw, 4.4rem);
+        font-weight: 500;
+        letter-spacing: -0.03em;
+        line-height: 0.95;
+        margin: 0 0 1rem;
+      }
+
+      .lede {
+        color: var(--muted);
+        font-size: 1.25rem;
+        max-width: 28rem;
+        margin: 0 0 2.75rem;
+      }
+
+      h2 {
+        font-family: "IBM Plex Mono", ui-monospace, monospace;
+        font-size: 0.72rem;
+        font-weight: 500;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 0 0 0.85rem;
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        border-top: 1px solid var(--rule);
+      }
+
+      li {
+        border-bottom: 1px solid var(--rule);
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .row {
+        display: grid;
+        grid-template-columns: 10.5rem 1fr;
+        gap: 1rem;
+        padding: 0.95rem 0;
+        align-items: baseline;
+      }
+
+      .row:hover .name {
+        color: var(--accent);
+      }
+
+      .name {
+        font-family: "IBM Plex Mono", ui-monospace, monospace;
+        font-size: 0.88rem;
+        transition: color 160ms ease;
+      }
+
+      .desc {
+        color: var(--muted);
+        margin: 0;
+      }
+
+      footer {
+        margin-top: 3rem;
+        font-family: "IBM Plex Mono", ui-monospace, monospace;
+        font-size: 0.8rem;
+      }
+
+      footer a {
+        border-bottom: 1px solid var(--rule);
+      }
+
+      footer a:hover {
+        color: var(--accent);
+        border-bottom-color: var(--accent);
+      }
+
+      @media (max-width: 640px) {
+        main {
+          padding-top: 12vh;
+        }
+
+        .row {
+          grid-template-columns: 1fr;
+          gap: 0.25rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="mark">meding.dev</p>
+      <h1>Michael Meding</h1>
+      <p class="lede">Software and local AI on Apple Silicon. Building tools that stay on your machine.</p>
+
+      <h2>Selected work</h2>
+      <ul>
+        <li>
+          <a class="row" href="https://github.com/mimeding/osaurus">
+            <span class="name">osaurus</span>
+            <p class="desc">A native macOS harness for AI agents — any model, persistent memory, offline.</p>
+          </a>
+        </li>
+        <li>
+          <a class="row" href="https://github.com/mimeding/vmlx-swift">
+            <span class="name">vmlx-swift</span>
+            <p class="desc">Unified Swift MLX inference for fast local multimodal models.</p>
+          </a>
+        </li>
+        <li>
+          <a class="row" href="https://github.com/mimeding/book-to-skill">
+            <span class="name">book-to-skill</span>
+            <p class="desc">Turn a technical book PDF into a skill you can study and use while you work.</p>
+          </a>
+        </li>
+      </ul>
+
+      <footer>
+        <a href="https://github.com/mimeding">github.com/mimeding</a>
+      </footer>
+    </main>
+  </body>
+</html>
