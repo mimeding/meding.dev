@@ -79,6 +79,7 @@
         display: flex;
         justify-content: space-between;
         align-items: baseline;
+        gap: 1rem;
         font-size: 0.68rem;
         letter-spacing: 0.22em;
         text-transform: uppercase;
@@ -89,10 +90,10 @@
 
       .card {
         display: grid;
-        grid-template-columns: minmax(13rem, 18rem) 1fr;
-        gap: 3.5rem 4.5rem;
-        align-items: end;
-        padding: 4.5rem 0 3.25rem;
+        grid-template-columns: minmax(14rem, 19rem) 1fr;
+        gap: 3.25rem 4rem;
+        align-items: start;
+        padding: 3.75rem 0 3.25rem;
       }
 
       .portrait {
@@ -221,6 +222,10 @@
           padding: 1.25rem 1.15rem 3rem;
         }
 
+        header {
+          letter-spacing: 0.14em;
+        }
+
         .card {
           grid-template-columns: 1fr;
           gap: 1.75rem;
@@ -229,6 +234,10 @@
 
         .portrait {
           width: min(14rem, 62vw);
+        }
+
+        .lede {
+          overflow-wrap: break-word;
         }
 
         .facts li {
