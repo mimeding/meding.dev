@@ -4,23 +4,36 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Michael Meding</title>
-    <meta name="description" content="Michael Meding — software and local AI on Apple Silicon." />
-    <meta name="theme-color" content="#14120e" />
+    <meta
+      name="description"
+      content="Michael Meding — Managing Director, McEwen Copper. President, Los Azules. Lives between San Juan and Toronto."
+    />
+    <meta name="theme-color" content="#efe8db" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="canonical" href="https://meding.dev/" />
+    <meta property="og:title" content="Michael Meding" />
+    <meta
+      property="og:description"
+      content="Managing Director, McEwen Copper. President, Los Azules. San Juan and Toronto."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://meding.dev/" />
+    <meta property="og:image" content="https://meding.dev/images/washington-2026.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Outfit:wght@300;400;500&display=swap"
       rel="stylesheet"
     />
     <style>
       :root {
-        --bg: #14120e;
-        --ink: #efe6d5;
-        --muted: #b7ad9a;
-        --rule: #3a342b;
-        --accent: #d36a2d;
+        --paper: #efe8db;
+        --paper-2: #e7dfd0;
+        --ink: #1c1814;
+        --muted: #6d6559;
+        --rule: #cfc4b0;
+        --gold: #8d7349;
       }
 
       * {
@@ -35,63 +48,123 @@
 
       body {
         min-height: 100vh;
-        background: var(--bg);
+        background: var(--paper);
         color: var(--ink);
-        font-family: Newsreader, "Iowan Old Style", Palatino, Georgia, serif;
-        font-size: 1.125rem;
+        font-family: Outfit, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
         line-height: 1.55;
         -webkit-font-smoothing: antialiased;
       }
 
-      main {
-        max-width: 40rem;
-        margin: 0 auto;
-        padding: 18vh 1.5rem 4rem;
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: 2;
+        opacity: 0.045;
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
       }
 
-      .mark {
-        font-family: "IBM Plex Mono", ui-monospace, monospace;
-        font-size: 0.75rem;
-        letter-spacing: 0.14em;
+      .wrap {
+        position: relative;
+        z-index: 1;
+        max-width: 72rem;
+        margin: 0 auto;
+        padding: 1.75rem 1.5rem 4rem;
+      }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        font-size: 0.68rem;
+        letter-spacing: 0.22em;
         text-transform: uppercase;
-        color: var(--accent);
-        margin: 0 0 1.25rem;
+        color: var(--muted);
+        padding-bottom: 1.25rem;
+        border-bottom: 1px solid var(--rule);
+      }
+
+      .card {
+        display: grid;
+        grid-template-columns: minmax(13rem, 18rem) 1fr;
+        gap: 3.5rem 4.5rem;
+        align-items: end;
+        padding: 4.5rem 0 3.25rem;
+      }
+
+      .portrait {
+        width: 100%;
+        aspect-ratio: 1;
+        object-fit: cover;
+        display: block;
+        filter: contrast(1.02);
       }
 
       h1 {
-        font-size: clamp(2.6rem, 8vw, 4.4rem);
+        font-family: "Cormorant Garamond", "Times New Roman", Times, serif;
         font-weight: 500;
+        font-size: clamp(3.4rem, 8vw, 6.1rem);
         letter-spacing: -0.03em;
-        line-height: 0.95;
-        margin: 0 0 1rem;
+        line-height: 0.86;
+        margin: 0 0 1.15rem;
+      }
+
+      .role {
+        font-family: "Cormorant Garamond", "Times New Roman", Times, serif;
+        font-size: 1.35rem;
+        font-style: italic;
+        font-weight: 400;
+        color: var(--ink);
+        margin: 0 0 0.35rem;
+      }
+
+      .org {
+        margin: 0 0 2rem;
+        color: var(--muted);
+        font-size: 0.92rem;
+        letter-spacing: 0.02em;
       }
 
       .lede {
-        color: var(--muted);
-        font-size: 1.25rem;
-        max-width: 28rem;
-        margin: 0 0 2.75rem;
+        max-width: 34rem;
+        font-family: "Cormorant Garamond", "Times New Roman", Times, serif;
+        font-size: 1.35rem;
+        line-height: 1.4;
+        margin: 0 0 2.25rem;
       }
 
-      h2 {
-        font-family: "IBM Plex Mono", ui-monospace, monospace;
-        font-size: 0.72rem;
-        font-weight: 500;
-        letter-spacing: 0.16em;
-        text-transform: uppercase;
-        color: var(--muted);
-        margin: 0 0 0.85rem;
-      }
-
-      ul {
+      .facts {
         list-style: none;
-        margin: 0;
+        margin: 0 0 2.5rem;
         padding: 0;
-        border-top: 1px solid var(--rule);
+        display: grid;
+        gap: 0.55rem;
       }
 
-      li {
-        border-bottom: 1px solid var(--rule);
+      .facts li {
+        display: grid;
+        grid-template-columns: 7.5rem 1fr;
+        gap: 1rem;
+        font-size: 0.92rem;
+      }
+
+      .facts span {
+        color: var(--gold);
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        font-size: 0.64rem;
+        font-weight: 500;
+        padding-top: 0.28rem;
+      }
+
+      .contact {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.25rem 1.75rem;
+        font-size: 0.88rem;
       }
 
       a {
@@ -99,87 +172,148 @@
         text-decoration: none;
       }
 
-      .row {
-        display: grid;
-        grid-template-columns: 10.5rem 1fr;
-        gap: 1rem;
-        padding: 0.95rem 0;
-        align-items: baseline;
+      .contact a {
+        border-bottom: 1px solid var(--rule);
+        padding-bottom: 0.1rem;
       }
 
-      .row:hover .name {
-        color: var(--accent);
+      .contact a:hover {
+        border-bottom-color: var(--gold);
+        color: var(--gold);
       }
 
-      .name {
-        font-family: "IBM Plex Mono", ui-monospace, monospace;
-        font-size: 0.88rem;
-        transition: color 160ms ease;
-      }
-
-      .desc {
-        color: var(--muted);
+      figure {
         margin: 0;
       }
 
+      .plate {
+        width: 100%;
+        height: auto;
+        display: block;
+        border: 1px solid var(--rule);
+      }
+
+      figcaption {
+        display: flex;
+        justify-content: space-between;
+        gap: 1.5rem;
+        margin-top: 0.85rem;
+        color: var(--muted);
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+      }
+
       footer {
-        margin-top: 3rem;
-        font-family: "IBM Plex Mono", ui-monospace, monospace;
-        font-size: 0.8rem;
+        margin-top: 3.5rem;
+        padding-top: 1.1rem;
+        border-top: 1px solid var(--rule);
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        color: var(--muted);
+        font-size: 0.72rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
       }
 
-      footer a {
-        border-bottom: 1px solid var(--rule);
-      }
-
-      footer a:hover {
-        color: var(--accent);
-        border-bottom-color: var(--accent);
-      }
-
-      @media (max-width: 640px) {
-        main {
-          padding-top: 12vh;
+      @media (max-width: 800px) {
+        .wrap {
+          padding: 1.25rem 1.15rem 3rem;
         }
 
-        .row {
+        .card {
           grid-template-columns: 1fr;
+          gap: 1.75rem;
+          padding: 2.25rem 0 2.5rem;
+        }
+
+        .portrait {
+          width: min(14rem, 62vw);
+        }
+
+        .facts li {
+          grid-template-columns: 1fr;
+          gap: 0.15rem;
+        }
+
+        figcaption {
+          flex-direction: column;
           gap: 0.25rem;
+        }
+
+        footer {
+          flex-direction: column;
         }
       }
     </style>
   </head>
   <body>
-    <main>
-      <p class="mark">meding.dev</p>
-      <h1>Michael Meding</h1>
-      <p class="lede">Software and local AI on Apple Silicon. Building tools that stay on your machine.</p>
+    <div class="wrap">
+      <header>
+        <span>Meding</span>
+        <span>San Juan · Toronto</span>
+      </header>
 
-      <h2>Selected work</h2>
-      <ul>
-        <li>
-          <a class="row" href="https://github.com/mimeding/osaurus">
-            <span class="name">osaurus</span>
-            <p class="desc">A native macOS harness for AI agents — any model, persistent memory, offline.</p>
-          </a>
-        </li>
-        <li>
-          <a class="row" href="https://github.com/mimeding/vmlx-swift">
-            <span class="name">vmlx-swift</span>
-            <p class="desc">Unified Swift MLX inference for fast local multimodal models.</p>
-          </a>
-        </li>
-        <li>
-          <a class="row" href="https://github.com/mimeding/book-to-skill">
-            <span class="name">book-to-skill</span>
-            <p class="desc">Turn a technical book PDF into a skill you can study and use while you work.</p>
-          </a>
-        </li>
-      </ul>
+      <section class="card">
+        <img
+          class="portrait"
+          src="/images/michael-meding.jpg"
+          width="423"
+          height="424"
+          alt="Portrait of Michael Meding"
+        />
+
+        <div>
+          <h1>Michael<br />Meding</h1>
+          <p class="role">Managing Director, McEwen Copper</p>
+          <p class="org">President, Los Azules Copper Project</p>
+          <p class="lede">
+            A mining executive living between Argentina and Canada. Twenty-five years building companies in copper,
+            gold and the harder metals — and the places that host them.
+          </p>
+          <ul class="facts">
+            <li>
+              <span>Home</span>
+              San Juan &amp; Toronto
+            </li>
+            <li>
+              <span>Air</span>
+              Private pilot, SEL
+            </li>
+            <li>
+              <span>Water</span>
+              PADI scuba instructor
+            </li>
+            <li>
+              <span>Else</span>
+              Traveller. German, English, Spanish.
+            </li>
+          </ul>
+          <div class="contact">
+            <a href="mailto:m.meding@icloud.com">m.meding@icloud.com</a>
+            <a href="https://www.linkedin.com/in/michaelmeding">LinkedIn</a>
+          </div>
+        </div>
+      </section>
+
+      <figure>
+        <img
+          class="plate"
+          src="/images/washington-2026.jpg"
+          width="2000"
+          height="1333"
+          alt="Michael Meding presenting Los Azules at the Benchmark Minerals event in Washington, 2026"
+        />
+        <figcaption>
+          <span>Washington, 2026. Benchmark Minerals.</span>
+          <span>Los Azules — and the case for investing in Argentine copper.</span>
+        </figcaption>
+      </figure>
 
       <footer>
-        <a href="https://github.com/mimeding">github.com/mimeding</a>
+        <span>Mining Entrepreneur of the Year, Argentina · 2024 &amp; 2025</span>
+        <span>meding.dev</span>
       </footer>
-    </main>
+    </div>
   </body>
 </html>
