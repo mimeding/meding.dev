@@ -1,0 +1,521 @@
+html {
+  background: #efe8db;
+  color: #24251f;
+  color-scheme: light;
+}
+body {
+  margin: 0;
+}
+.skip-link {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  transform: translateY(-160%);
+  padding: 12px 16px;
+  background: #24251f;
+  color: #efe8db;
+  z-index: 5;
+  font:
+    400 16px/1.5 "Outfit",
+    sans-serif;
+}
+.skip-link:focus {
+  transform: translateY(0);
+}
+a:focus-visible {
+  outline: 2px solid #735937;
+  outline-offset: 5px;
+}
+#meding-site {
+  --md-paper: #efe8db;
+  --md-ink: #24251f;
+  --md-muted: #625d51;
+  --md-line: #c9beab;
+  --md-accent: #735937;
+  --md-serif: "Cormorant Garamond", Georgia, serif;
+  container-type: inline-size;
+  width: 100%;
+  max-width: 1152px;
+  margin: 0 auto;
+  background: var(--md-paper);
+  color: var(--md-ink);
+  font:
+    400 16px/1.6 "Outfit",
+    sans-serif;
+  color-scheme: light;
+}
+#meding-site * {
+  box-sizing: border-box;
+}
+#meding-site a {
+  color: inherit;
+  text-decoration: none;
+}
+#meding-site button {
+  font: inherit;
+}
+#meding-site .md-shell {
+  padding: 0 48px;
+}
+#meding-site .md-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 0;
+  border-bottom: 1px solid var(--md-line);
+  gap: 20px;
+}
+#meding-site .md-wordmark {
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+}
+#meding-site .md-nav {
+  display: flex;
+  gap: 27px;
+  font-size: 12px;
+}
+#meding-site .md-nav a {
+  padding: 7px 0;
+}
+#meding-site .md-nav a:last-child {
+  color: var(--md-accent);
+}
+#meding-site .md-hero {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 54px;
+  align-items: center;
+  padding: 63px 0 55px;
+}
+#meding-site .md-kicker {
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--md-accent);
+  margin: 0 0 22px;
+}
+#meding-site h1 {
+  font: 400 clamp(64px, 9cqw, 96px) / 0.86 var(--md-serif);
+  letter-spacing: -0.035em;
+  margin: 0 0 28px;
+}
+#meding-site .md-role {
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0;
+  color: var(--md-muted);
+}
+#meding-site .md-role strong {
+  font-weight: 500;
+  color: var(--md-ink);
+}
+#meding-site .md-intro {
+  max-width: 440px;
+  font-size: 16px;
+  line-height: 1.75;
+  margin: 24px 0;
+  color: var(--md-muted);
+}
+#meding-site .md-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 27px;
+  font-size: 13px;
+}
+#meding-site .md-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 30px;
+  background: var(--md-ink);
+  color: var(--md-paper);
+  padding: 12px 19px;
+}
+#meding-site .md-secondary {
+  border-bottom: 1px solid var(--md-line);
+  padding: 9px 0;
+}
+#meding-site .md-photo {
+  margin: 0;
+}
+#meding-site .md-portrait {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  display: block;
+}
+#meding-site .md-photo figcaption {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--md-muted);
+  margin-top: 14px;
+}
+#meding-site .md-dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background: var(--md-accent);
+  border-radius: 50%;
+}
+#meding-site .md-experience {
+  border-top: 1px solid var(--md-line);
+  border-bottom: 1px solid var(--md-line);
+  padding: 18px 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 20px;
+  color: var(--md-muted);
+  font-size: 12px;
+}
+#meding-site .md-experience strong {
+  font-weight: 400;
+  font: 400 25px/1 var(--md-serif);
+  color: var(--md-ink);
+  margin-right: 5px;
+}
+#meding-site .md-section {
+  padding: 48px 0;
+}
+#meding-site .md-section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 24px;
+}
+#meding-site h2 {
+  font: 400 38px/1.12 var(--md-serif);
+  letter-spacing: -0.025em;
+  margin: 0;
+}
+#meding-site .md-eyebrow {
+  color: var(--md-accent);
+  font-size: 11px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+#meding-site .md-work-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 27px;
+}
+#meding-site .md-story {
+  margin: 0;
+}
+#meding-site .md-story img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1.55;
+  object-fit: cover;
+  display: block;
+}
+#meding-site .md-story .md-eyebrow {
+  display: block;
+  margin: 17px 0 6px;
+  font-size: 10px;
+}
+#meding-site h3 {
+  font: 400 26px/1.15 var(--md-serif);
+  margin: 0 0 9px;
+  letter-spacing: -0.015em;
+}
+#meding-site .md-story p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--md-muted);
+  margin: 0;
+  max-width: 340px;
+}
+#meding-site .md-personal {
+  border-top: 1px solid var(--md-line);
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 36px;
+}
+#meding-site .md-personal h2 {
+  margin-top: 10px;
+}
+#meding-site .md-personal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 26px;
+}
+#meding-site .md-personal-grid p {
+  font-size: 13px;
+  color: var(--md-muted);
+  margin: 5px 0 0;
+  line-height: 1.7;
+}
+#meding-site .md-personal-grid h3 {
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+  color: var(--md-ink);
+  line-height: 1.5;
+  letter-spacing: 0;
+  margin: 0;
+  font-weight: 500;
+}
+#meding-site .md-close {
+  border-top: 1px solid var(--md-line);
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+}
+#meding-site .md-close h2 {
+  font-size: 33px;
+  margin-bottom: 9px;
+}
+#meding-site .md-mail {
+  font-size: 14px;
+  border-bottom: 1px solid var(--md-accent);
+  padding-bottom: 4px;
+}
+#meding-site .md-close-links {
+  display: flex;
+  gap: 20px;
+  font-size: 12px;
+}
+#meding-site .md-footer {
+  border-top: 1px solid var(--md-line);
+  padding: 19px 0 25px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  font-size: 10px;
+  color: var(--md-muted);
+  letter-spacing: 0.035em;
+}
+@container (max-width:700px) {
+  #meding-site .md-shell {
+    padding: 0 29px;
+  }
+  #meding-site .md-hero {
+    gap: 25px;
+    padding: 44px 0;
+  }
+  #meding-site h1 {
+    font-size: 68px;
+  }
+  #meding-site .md-kicker {
+    font-size: 10px;
+    letter-spacing: 0.08em;
+  }
+  #meding-site .md-experience {
+    font-size: 11px;
+    gap: 10px;
+  }
+  #meding-site .md-experience strong {
+    font-size: 21px;
+  }
+  #meding-site .md-personal {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+}
+@container (max-width:520px) {
+  #meding-site .md-shell {
+    padding: 0 23px;
+  }
+  #meding-site .md-header {
+    padding: 18px 0;
+  }
+  #meding-site .md-nav {
+    gap: 18px;
+    font-size: 11px;
+  }
+  #meding-site .md-nav a:first-child {
+    display: none;
+  }
+  #meding-site .md-hero {
+    grid-template-columns: 1fr;
+    padding: 36px 0;
+    gap: 30px;
+  }
+  #meding-site h1 {
+    font-size: 73px;
+    margin-bottom: 24px;
+  }
+  #meding-site .md-kicker {
+    font-size: 10px;
+    letter-spacing: 0.13em;
+    margin-bottom: 22px;
+  }
+  #meding-site .md-role {
+    font-size: 13px;
+  }
+  #meding-site .md-intro {
+    font-size: 14px;
+    margin: 20px 0;
+  }
+  #meding-site .md-actions {
+    margin-top: 22px;
+  }
+  #meding-site .md-photo {
+    display: flex;
+    gap: 17px;
+    align-items: center;
+  }
+  #meding-site .md-portrait {
+    width: 108px;
+    flex: none;
+  }
+  #meding-site .md-photo figcaption {
+    margin: 0;
+    display: block;
+    max-width: 135px;
+    line-height: 1.9;
+  }
+  #meding-site .md-dot {
+    margin-right: 5px;
+  }
+  #meding-site .md-experience {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 13px 23px;
+    padding: 17px 0;
+  }
+  #meding-site .md-experience span:last-child {
+    width: 100%;
+  }
+  #meding-site .md-section {
+    padding: 33px 0;
+  }
+  #meding-site h2 {
+    font-size: 34px;
+  }
+  #meding-site .md-section-heading {
+    display: block;
+  }
+  #meding-site .md-section-heading .md-eyebrow {
+    display: block;
+    margin-top: 9px;
+  }
+  #meding-site .md-work-grid {
+    grid-template-columns: 1fr;
+    gap: 29px;
+  }
+  #meding-site .md-personal-grid {
+    gap: 25px 19px;
+  }
+  #meding-site .md-close {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  #meding-site .md-footer {
+    flex-direction: column;
+    gap: 6px;
+  }
+}
+#meding-site .md-portrait {
+  clip-path: polygon(
+    26% 0,
+    73% 0,
+    76% 3%,
+    79% 7%,
+    82% 12%,
+    84% 17%,
+    85.5% 23%,
+    86.2% 29%,
+    86% 35%,
+    84.8% 40.5%,
+    86% 42.3%,
+    88% 42.6%,
+    89% 44%,
+    89.3% 48%,
+    88.5% 53%,
+    87% 59%,
+    85.2% 62%,
+    84% 66%,
+    81.7% 67.3%,
+    80.5% 72%,
+    79% 77%,
+    76.5% 82%,
+    74.5% 85.5%,
+    74.2% 89%,
+    75.5% 93%,
+    78% 97%,
+    80.5% 99%,
+    83% 100%,
+    0 100%,
+    0 98%,
+    5% 96.5%,
+    9% 95%,
+    12% 93%,
+    13.5% 90%,
+    15% 86.5%,
+    17.5% 84%,
+    19% 81.5%,
+    19% 78%,
+    17.5% 73%,
+    16.5% 68%,
+    16.3% 65%,
+    14.7% 64%,
+    14.1% 61%,
+    14% 58%,
+    12.6% 55%,
+    11.7% 51%,
+    11.2% 47%,
+    11.5% 43%,
+    12.1% 40.6%,
+    13.2% 39.5%,
+    14.6% 40.5%,
+    15.7% 39%,
+    15.5% 36%,
+    15.4% 31%,
+    15.5% 26%,
+    15.7% 22%,
+    16.5% 18%,
+    17.7% 14%,
+    19.5% 10%,
+    22% 5%
+  );
+  mask-image: linear-gradient(to bottom, #000 88%, transparent 100%);
+}
+/* The approved portrait uses a CSS contour and lower fade to blend into the paper. */
+#meding-site .md-photo {
+  max-width: 350px;
+  justify-self: center;
+  width: 100%;
+}
+@container (max-width:520px) {
+  #meding-site .md-photo {
+    max-width: none;
+  }
+  #meding-site .md-portrait {
+    width: 108px;
+  }
+}
+/* Keep the editorial metadata legible at every breakpoint. */
+#meding-site .md-kicker,
+#meding-site .md-eyebrow,
+#meding-site .md-photo figcaption,
+#meding-site .md-footer,
+#meding-site .md-story .md-eyebrow,
+#meding-site .md-experience {
+  font-size: 12px;
+}
+@container (max-width:520px) {
+  #meding-site .md-intro {
+    font-size: 16px;
+  }
+  #meding-site .md-nav {
+    font-size: 12px;
+  }
+  #meding-site .md-nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+  #meding-site .md-nav a:first-child {
+    display: none;
+  }
+}
