@@ -23,6 +23,6 @@ The page has no build step on the host. Fonts come from Google Fonts; there is n
 
 ## Previous site
 
-The personal card with the photo gallery, as live until 26 September 2026, is kept at tag `archive-2026-09-26-personal-card` and branch `archive/personal-card-2026-09`. To restore it, check out `public/` from that tag and push to `main`.
+The personal card with the photo gallery, as live until 26 September 2026, is kept on branch `archive/personal-card-2026-09`. To restore it, check out `public/` from that branch and push to `main`.
 
 Preview locally with `python3 -m http.server 8000 --directory public`.

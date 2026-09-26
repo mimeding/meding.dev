@@ -98,7 +98,7 @@ Do not commit tokens. Do not put the Global API Key in the repo.
 
 ## Site
 
-> Replaced on 26 September 2026 by the Open Record site described in README.md. The notes below describe the original personal card, kept at tag `archive-2026-09-26-personal-card`.
+> Replaced on 26 September 2026 by the Open Record site described in README.md. The notes below describe the original personal card, kept on branch `archive/personal-card-2026-09`.
 
 One static page. No framework. No CMS. Paper-colored, serif name, black-and-white plates.
 
