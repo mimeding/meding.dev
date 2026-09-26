@@ -6,16 +6,23 @@ Static files in `public/` deploy to Cloudflare Pages. Push to `main` to publish.
 
 How the domain, host, email, and page were set up: [SETUP.md](SETUP.md).
 
-The approved September 2026 design uses `public/index.html` and `public/styles.css`, with a responsive introduction, contact links, selected appearances, and personal interests. It has no framework or JavaScript dependency.
+## Current site: Open Record (September 2026)
 
-`public/images/michael-meding-cutout.webp` is the approved edited portrait. Its CSS contour and lower fade blend it into the cream background; the image itself is not a transparent cutout. The original photograph remains available as `michael-meding.jpg`.
+A reference entry on Michael Meding, the Los Azules copper project and McEwen Copper. Every fact carries a numbered citation to the page where it was published.
+
+- `public/index.html`: English page. `public/es/index.html`: Spanish page. Both carry both languages and switch in place.
+- `public/img/`: photographs used by the page, plus `og.jpg` (1200 × 630 share image).
+- `public/llms.txt`: plain-language summary with a source link on every line, for AI assistants.
+- `public/facts.json`: the same facts in English and Spanish as structured data.
+- `public/robots.txt`: allows search engines and AI crawlers. `public/sitemap.xml`: both language pages plus the two files above.
+- The schema.org JSON-LD graph (Person, Organization, Place, FAQPage, events) is inside each page.
+
+The page has no build step on the host. Fonts come from Google Fonts; there is no other external dependency.
+
+`public/images/` holds the photographs of the previous site. They stay published so existing links and social previews keep working.
+
+## Previous site
+
+The personal card with the photo gallery, as live until 26 September 2026, is kept at tag `archive-2026-09-26-personal-card` and branch `archive/personal-card-2026-09`. To restore it, check out `public/` from that tag and push to `main`.
 
 Preview locally with `python3 -m http.server 8000 --directory public`.
-
-## Photo gallery
-
-The September 2026 gallery adds nine supplied photographs under `public/images/`, with descriptive, URL-safe filenames. The original image bytes and aspect ratios are preserved. All gallery images load lazily and link to their full-size photograph; no JavaScript is required.
-
-Appearances cover Benchmark GIGA USA 2026, LA NACION’s Minería interview with José Del Río, Latin America Day 2025, and two views of Nordic Funds & Mines. The Nordic photographs and LA NACION interview have no confirmed year in their supplied filenames, so their captions omit a year.
-
-Recognition covers the personal Mining Entrepreneur of the Year award in 2025, McEwen Copper’s 2025 LIDE Argentina Premio INVERTIR in Mining, and two photographs of the 2023 Exploration Company of the Year award. Event descriptions follow the supplied filenames and visible event signage. The older Washington and Buenos Aires image assets remain available for existing links and social previews.

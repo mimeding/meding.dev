@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://meding.dev/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://meding.dev/</loc><lastmod>2026-09-26</lastmod><xhtml:link rel="alternate" hreflang="en" href="https://meding.dev/"/><xhtml:link rel="alternate" hreflang="es" href="https://meding.dev/es/"/></url>
+  <url><loc>https://meding.dev/es/</loc><lastmod>2026-09-26</lastmod><xhtml:link rel="alternate" hreflang="en" href="https://meding.dev/"/><xhtml:link rel="alternate" hreflang="es" href="https://meding.dev/es/"/></url>
+  <url><loc>https://meding.dev/llms.txt</loc><lastmod>2026-09-26</lastmod></url>
+  <url><loc>https://meding.dev/facts.json</loc><lastmod>2026-09-26</lastmod></url>
 </urlset>
