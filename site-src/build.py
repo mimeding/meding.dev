@@ -7,7 +7,7 @@ and data/refs.json (sources), and writes a ready-to-deploy site to ./public.
 Usage: python3 build.py [--preview]
   --preview  internal links point at explicit index.html files (for hosts without directory indexes)
 """
-import html, json, os, re, shutil, sys, datetime
+import hashlib, html, json, os, re, shutil, sys, datetime
 from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -24,6 +24,12 @@ LANG_CODE_LABEL = {'en': 'EN', 'es': 'ES', 'de': 'DE', 'ja': '日本語', 'zh': 
 PAGES = ['home', 'la', 'speaking', 'press']
 SLUG = {'home': '', 'la': 'los-azules/', 'speaking': 'speaking/', 'press': 'press/'}
 
+def _ver(name):
+    """Short content hash, appended to CSS and JS links so browsers and the CDN fetch a changed file at once."""
+    return hashlib.sha256(open(os.path.join(ASSETS, name), 'rb').read()).hexdigest()[:10]
+
+
+VER = {n: _ver(n) for n in ('site.css', 'site.js')}
 C = {l: json.load(open(os.path.join(ROOT, 'content', f'{l}.json'), encoding='utf-8')) for l in LANGS}
 X = json.load(open(os.path.join(ROOT, 'data', 'extracted.json'), encoding='utf-8'))
 REFS = json.load(open(os.path.join(ROOT, 'data', 'refs.json'), encoding='utf-8'))
@@ -225,7 +231,7 @@ def domain(u):
 IMG = {  # file: (width, height)
     'portrait.jpg': (1600, 1066), 'site-delegations.jpg': (1400, 1048), 'ifc-2025.jpg': (1400, 788),
     'entrepreneur-2025.jpg': (1167, 1600), 'diploma-2024.jpg': (1400, 785), 'new-york-2024.jpg': (1400, 1050),
-    'washington-2026.jpg': (1600, 1067),
+    'washington-2026-colour.jpg': (1600, 1067),
 }
 
 
@@ -278,10 +284,10 @@ def head(p, title, desc, jsonld, og_type='website'):
 <link rel="icon" href="{p.asset("favicon.svg")}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{p.asset("apple-touch-icon.png")}">
 <link rel="preload" href="{p.asset("fonts/source-serif-4-latin-opsz-normal.woff2")}" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="{p.asset("site.css")}">
+<link rel="stylesheet" href="{p.asset("site.css")}?v={VER["site.css"]}">
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False, separators=(",", ":"))}</script>
 </head>
-<body>
+<body><!--email_off-->
 '''
 
 
@@ -314,8 +320,8 @@ def footer(p):
 <p class="fl">{langs}</p>
 <p>© Michael Meding · San Juan · Toronto · <a href="mailto:michael@meding.dev">michael@meding.dev</a> · <a href="https://www.linkedin.com/in/michaelmeding" rel="me">LinkedIn</a> · <a href="https://x.com/mmeding" rel="me">X</a></p>
 </div></footer>
-<script src="{p.asset("site.js")}" defer></script>
-</body>
+<script src="{p.asset("site.js")}?v={VER["site.js"]}" defer></script>
+<!--/email_off--></body>
 </html>
 '''
 
@@ -755,7 +761,7 @@ def render_speaking(l):
     cta = esc(s['cta']).replace('michael@meding.dev', '<a href="mailto:michael@meding.dev">michael@meding.dev</a>')
     hero = f'<section class="hero hero-s"><div class="wrap"><h1>{esc(s["h1"])}</h1><p class="lead">{esc(s["sub"])}</p><p class="cred">{cta}</p></div></section>'
     figs = (f'<div class="figs2"><figure class="fig">{img(p, "new-york-2024.jpg", s["alt_ny"], "74% 32%", eager=True)}<figcaption>{esc(s["cap_ny"])}</figcaption></figure>'
-            f'<figure class="fig">{img(p, "washington-2026.jpg", s["alt_dc"], "71% 28%", eager="plain")}<figcaption>{esc(s["cap_dc"])}</figcaption></figure></div>')
+            f'<figure class="fig">{img(p, "washington-2026-colour.jpg", s["alt_dc"], "71% 28%", eager="plain")}<figcaption>{esc(s["cap_dc"])}</figcaption></figure></div>')
     years = ['2026', '2025', '2024', '2023', '2022']
     cnt = {y: sum(1 for r in X['speaking'] if r['year'] == y) for y in years}
     filt = (f'<div class="filt" data-filter-for="sp"><button type="button" data-f="all" aria-pressed="true">{esc(ui["all"])} <small>{len(X["speaking"])}</small></button>' +
@@ -795,7 +801,7 @@ def render_press(l):
            f'<h3>{esc(pr["h_photos"])}</h3><ul class="kitp">'
            f'<li><img src="{p.asset("img/michael-meding-headshot.jpg")}" alt="Michael Meding" width="423" height="423" loading="lazy"><span>{esc(pr["photo_headshot"])}</span><a href="{p.asset("img/michael-meding-headshot.jpg")}" download>{esc(pr["download"])}</a></li>'
            f'<li><img src="{p.asset("img/portrait-800.jpg")}" alt="{esc(c["home"]["card_photo_alt"])}" width="800" height="533" loading="lazy"><span>{esc(pr["photo_stage"])}</span><a href="{p.asset("img/portrait.jpg")}" download>{esc(pr["download"])}</a></li>'
-           f'<li><img src="{p.asset("img/washington-2026-800.jpg")}" alt="{esc(c["speaking"]["alt_dc"])}" width="800" height="534" loading="lazy"><span>{esc(pr["photo_dc"])}</span><a href="{p.asset("img/washington-2026.jpg")}" download>{esc(pr["download"])}</a></li></ul>'
+           f'<li><img src="{p.asset("img/washington-2026-colour-800.jpg")}" alt="{esc(c["speaking"]["alt_dc"])}" width="800" height="534" loading="lazy"><span>{esc(pr["photo_dc"])}</span><a href="{p.asset("img/washington-2026-colour.jpg")}" download>{esc(pr["download"])}</a></li></ul>'
            f'<h3>{esc(pr["h_data"])}</h3><p>{esc(pr["data_p"])}</p><ul class="mfiles"><li><a href="{p.asset("llms.txt")}">{esc(pr["data_llms"])}</a> · <a href="{p.asset("llms-full.txt")}">llms-full.txt</a></li><li><a href="{p.asset("facts.json")}">{esc(pr["data_facts"])}</a></li></ul>'
            f'<p class="kitc">{esc(pr["contact"])}: <a href="mailto:michael@meding.dev">michael@meding.dev</a></p>')
     secs.append(section('kit', esc(pr['h_kit']), kit, 's s-first'))
@@ -973,8 +979,8 @@ def facts_json():
 
 
 SITEMAP_IMGS = {'home': ['new-york-2024.jpg', 'portrait.jpg', 'michael-meding-headshot.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
-                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026.jpg'],
-                'press': ['michael-meding-headshot.jpg', 'portrait.jpg', 'washington-2026.jpg']}
+                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg'],
+                'press': ['michael-meding-headshot.jpg', 'portrait.jpg', 'washington-2026-colour.jpg']}
 
 
 def sitemap():

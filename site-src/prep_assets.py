@@ -7,9 +7,9 @@ if os.path.exists(A+'/images'): shutil.rmtree(A+'/images')
 shutil.copytree(SRC+'/images',A+'/images')
 for f in os.listdir(SRC+'/img'): shutil.copy(SRC+'/img/'+f, A+'/img/'+f)
 # colour original of the Washington 2026 photo replaces the monochrome version
-_w=Image.open(SRC+'/images/benchmark-giga-usa-2026.jpg').convert('RGB'); _w.resize((1600,round(_w.height*1600/_w.width)),Image.LANCZOS).save(A+'/img/washington-2026.jpg',quality=84,optimize=True,progressive=True)
+_w=Image.open(SRC+'/images/benchmark-giga-usa-2026.jpg').convert('RGB'); _w.resize((1600,round(_w.height*1600/_w.width)),Image.LANCZOS).save(A+'/img/washington-2026-colour.jpg',quality=84,optimize=True,progressive=True)
 shutil.copy(SRC+'/favicon.svg',A+'/favicon.svg')
-used=['portrait.jpg','site-delegations.jpg','ifc-2025.jpg','entrepreneur-2025.jpg','diploma-2024.jpg','new-york-2024.jpg','washington-2026.jpg']
+used=['portrait.jpg','site-delegations.jpg','ifc-2025.jpg','entrepreneur-2025.jpg','diploma-2024.jpg','new-york-2024.jpg','washington-2026-colour.jpg']
 for f in used:
     im=Image.open(A+'/img/'+f).convert('RGB'); w,h=im.size
     im.resize((800,round(h*800/w)),Image.LANCZOS).save(A+'/img/'+f[:-4]+'-800.jpg',quality=80,optimize=True,progressive=True)
