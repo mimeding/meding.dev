@@ -6,7 +6,7 @@ Static files in `public/` deploy to Cloudflare Pages. Push to `main` to publish.
 
 How the domain, host, email, and page were set up: [SETUP.md](SETUP.md).
 
-## Current site: Open Record (September 2026)
+## Current site (September 2026)
 
 A reference entry on Michael Meding, the Los Azules copper project and McEwen Copper. Every fact carries a numbered citation to the page where it was published.
 
