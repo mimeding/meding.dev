@@ -1,0 +1,1073 @@
+{
+  "_lang": "es",
+  "meta": {
+    "lang_name": "Español",
+    "og_locale": "es_AR",
+    "home_title": "Michael Meding · Director General, McEwen Copper · Los Azules",
+    "home_desc": "Michael Meding, ejecutivo minero alemán al frente del proyecto de cobre Los Azules, en San Juan, Argentina. Empresario Minero del Año 2024 y 2025.",
+    "la_title": "Los Azules, cobre en Argentina: reservas y financiamiento",
+    "la_desc": "Los Azules: 10.200 millones de lb de cobre en reservas, cátodo en el sitio, primer proyecto de cobre del RIGI, préstamo de US$240 millones en 2026.",
+    "speaking_title": "Michael Meding · Conferencias y paneles 2022–2026",
+    "speaking_desc": "Michael Meding: 57 participaciones en conferencias desde 2022 sobre Los Azules, el cobre y la minería argentina, en tres continentes.",
+    "press_title": "Michael Meding · Cobertura y kit de prensa",
+    "press_desc": "Cobertura de prensa sobre Michael Meding y Los Azules desde 2022, con biografías aprobadas, fotos y datos estructurados para periodistas.",
+    "notfound_title": "Página no encontrada · Michael Meding"
+  },
+  "ui": {
+    "skip": "Ir al contenido",
+    "nav_home": "Perfil",
+    "nav_la": "Los Azules",
+    "nav_speaking": "Escenarios",
+    "nav_press": "Prensa",
+    "lang_label": "Idioma",
+    "contents": "Contenido",
+    "refs": "Referencias",
+    "reviewed": "Revisado",
+    "footer_note": "Cada afirmación de este sitio remite a su fuente pública: presentaciones regulatorias y comunicados de las compañías, cobertura de prensa o publicaciones del propio Michael Meding.",
+    "footer_disclaimer": "Sitio web personal. No constituye una oferta de valores ni asesoramiento de inversión. Información oficial de la compañía: mcewenmining.com y los documentos que la compañía presenta ante la SEC y en SEDAR+.",
+    "source": "fuente",
+    "upcoming": "Próximo",
+    "target": "objetivo",
+    "all": "Todos",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "selected": "Seleccionado",
+    "open_la": "Datos, reservas y financiamiento del proyecto",
+    "open_speaking": "Lista completa de participaciones",
+    "open_press": "Toda la cobertura y el kit de prensa",
+    "th_year": "Año",
+    "th_date": "Fecha",
+    "th_city": "Ciudad",
+    "th_event": "Evento",
+    "th_role": "Participación",
+    "th_distinction": "Distinción",
+    "th_by": "Otorgada por",
+    "th_to": "Otorgada a",
+    "to_personal": "Personal",
+    "to_la": "Los Azules",
+    "th_category": "Categoría",
+    "th_tonnes": "Toneladas (Mt)",
+    "th_grade": "Ley de cobre (% Cu)",
+    "th_contained": "Cobre contenido",
+    "th_amount": "Monto",
+    "th_lender": "Prestamista",
+    "cat_ar": "Argentina",
+    "cat_intl": "Internacional",
+    "cat_de": "Alemania",
+    "cat_video": "Video",
+    "orig_lang_note": "Original",
+    "translation_note": "Traducción",
+    "lang_tag_en": "EN",
+    "lang_tag_es": "ES",
+    "lang_tag_de": "DE",
+    "notfound_h1": "Página no encontrada",
+    "notfound_p": "Esta dirección no existe. Abajo están los enlaces al perfil, a la página de Los Azules, a Escenarios y a Prensa.",
+    "stat_b_lb": "mil M lb",
+    "stat_b": "mil M",
+    "stat_m": "M",
+    "stat_st": ".er"
+  },
+  "home": {
+    "kicker": "Ejecutivo minero · Cobre · Argentina",
+    "roles": "Director General de McEwen Copper · Presidente y Gerente General de Andes Corporación Minera (Los Azules) · Presidente de GEMERA",
+    "lede": "Michael Meding es un ejecutivo minero alemán que conduce el proyecto de cobre Los Azules, en San Juan, Argentina, desde febrero de 2022 y es director general de McEwen Copper. Bajo su conducción el proyecto obtuvo su Declaración de Impacto Ambiental, publicó su estudio de factibilidad y se convirtió en el primer proyecto de cobre aprobado en el RIGI (Régimen de Incentivo para Grandes Inversiones). Fue elegido Empresario Minero del Año en 2024 y 2025 y preside GEMERA, la cámara de empresas de exploración minera de la Argentina.[[r:join,mux-bio,eia,fs,rigi-ln,fm-2024,fm-2025,gemera-ej]]",
+    "diagram_caption": "Cómo se conectan los datos",
+    "diagram_alt": "Diagrama. Michael Meding conduce Los Azules y es director general de McEwen Copper, dueña de Los Azules. Stellantis y Nuton (Rio Tinto) son accionistas; la IFC firmó un acuerdo de colaboración. Los Azules fue aprobado en el RIGI. Meding preside GEMERA y Argentina Cobre y es vicepresidente de CAEM. Panorama Minero lo eligió dos veces Empresario Minero del Año.",
+    "diagram": {
+      "leads": "conduce desde 2022",
+      "md": "Director General",
+      "owns": "es dueña de",
+      "approved": "aprobado en 2025",
+      "president": "Presidente",
+      "vp": "Vicepresidente",
+      "president26": "Presidente 2026",
+      "eoy": "Empresario del Año ×2",
+      "shareholder": "accionista",
+      "collab": "colaboración",
+      "calingasta": "Calingasta",
+      "sanjuan": "San Juan"
+    },
+    "stat_reserves": "de cobre en reservas probadas y probables",
+    "stat_npv": "VAN8 después de impuestos, estudio de factibilidad 2025",
+    "stat_loan": "préstamo a plazo cerrado en agosto de 2026",
+    "stat_rigi": "proyecto de cobre aprobado en el RIGI",
+    "stat_cathode": "objetivo para el primer cátodo comercial",
+    "h_overview": "Resumen",
+    "overview": [
+      "Michael Meding conduce Los Azules, un pórfido de cobre en la cordillera de Calingasta, San Juan, que según McEwen Copper ocupa el décimo lugar a nivel mundial por recursos minerales totales entre los pórfidos de cobre sin desarrollar. Se sumó a McEwen Copper en febrero de 2022 para conducir el proyecto, primero como vicepresidente y gerente general y, desde 2026, como director general. En su primer año el equipo pasó de 32 a 142 empleados directos, y en las tres temporadas de perforación previas al estudio de factibilidad perforó más de 120.000 metros. Desde entonces el proyecto publicó una evaluación económica preliminar actualizada y un estudio de factibilidad, obtuvo la Declaración de Impacto Ambiental para construcción y operación y se convirtió en el primer proyecto de cobre admitido en el RIGI. Stellantis y Nuton, de Rio Tinto, ingresaron como inversores estratégicos, la IFC firmó un acuerdo de colaboración, Société Générale fue designado asesor financiero para el financiamiento con deuda del proyecto y en agosto de 2026 McEwen Copper cerró un préstamo a plazo de US$240 millones. La decisión final de inversión está prevista para mediados de 2027 y el objetivo para el primer cátodo comercial es 2030.[[r:fs,join,li-team,eia,rigi-ln,stellantis,nuton35,ifc,sg,loan-pr]]",
+      "Nació en Düsseldorf y terminó el colegio en la Alfred Krupp Schule de Essen, en el Ruhr, donde su abuelo trabajó bajo tierra como minero del carbón. Empezó en PwC, que lo envió a Suiza, donde se quedó siete años y se sumó a Novartis a través de su programa de desarrollo de CFO. Con el traslado a Chile comenzaron más de quince años en América Latina, con cargos de CFO en empresas multinacionales en Chile y la Argentina. Llegó a la minería en 2010, en el área de finanzas de las operaciones argentinas de Barrick Gold, donde tuvo un rol clave en la recuperación y la extensión de la vida útil de Veladero y en la alianza estratégica con Shandong Gold. En Trafigura fue CFAO de una operación minera polimetálica. Trabajó en ocho países de Europa y de América del Norte, Central y del Sur, y vive entre San Juan y Toronto.[[r:li-abitur,li-ruhr,tsj2023,mp2014,mux-bio]]",
+      "Es el primer extranjero en presidir GEMERA, vicepresidente de CAEM por Andes Corporación Minera e integrante de la comisión directiva de la Cámara Minera de San Juan. Presidió Argentina Cobre, la conferencia del cobre del país, como presidente honorario en 2025 y como presidente en 2026. Es licenciado (BSc) por la Ruhr-Universität Bochum, tiene sendos MBA de HHL Leipzig y de Indiana University of Pennsylvania, cursa la Maestría en Gestión del Negocio Minero en la Universidad Católica de Cuyo y es primer autor de un estudio de 2026 sobre la licencia social para operar en la minería latinoamericana, publicado en Veredas do Direito.[[r:gemera-ej,handelsblatt,cmsj,li-cobre25,la-cobre26,veredas]]"
+    ],
+    "h_latest": "Novedad: préstamo a plazo de US$240 millones",
+    "latest": "El 27 de agosto de 2026 McEwen Copper cerró un préstamo senior garantizado a plazo de US$240 millones. Los fondos financian la ingeniería y las obras tempranas de Los Azules en el camino hacia la decisión final de inversión, prevista para mediados de 2027.[[r:loan-pr]]",
+    "latest_quote_attr": "Michael Meding, director general de McEwen Copper, en el anuncio de la compañía",
+    "latest_more": "Condiciones del préstamo, prestamistas e historial completo de financiamiento",
+    "h_caps": "Trayectoria",
+    "caps_sub": "Cada punto remite a su fuente pública.",
+    "caps": [
+      {
+        "t": "Capital para una mina nueva",
+        "c": "Inversores estratégicos, un acuerdo de colaboración con la IFC, un asesor para la deuda del proyecto y un préstamo a plazo de US$240 millones para un proyecto de cobre sin desarrollar.",
+        "e": [
+          "“Con Meding a bordo, la compañía captó US$453 millones, con inversiones de” Stellantis y Rio Tinto.[[r:fastmarkets]]",
+          "Nuton, de Rio Tinto, invirtió US$100 millones en total; Stellantis ingresó como accionista estratégico.[[r:li-champ]]",
+          "Acuerdo de colaboración con la IFC, septiembre de 2025.[[r:ifc]]",
+          "Société Générale designado asesor financiero para la deuda del proyecto, mayo de 2026.[[r:sg]]",
+          "Préstamo senior garantizado a plazo de US$240 millones cerrado en agosto de 2026.[[r:loan-pr]]"
+        ]
+      },
+      {
+        "t": "Permisos y políticas públicas",
+        "c": "Los Azules obtuvo su Declaración de Impacto Ambiental y se convirtió en el primer proyecto de cobre admitido en el RIGI.",
+        "e": [
+          "Declaración de Impacto Ambiental para construcción y operación otorgada en diciembre de 2024; la evaluación técnica provincial se completó en menos de un año.[[r:dia-md]]",
+          "La Resolución 1553/2025 admite Los Azules en el RIGI con un plan de US$2.672 millones.[[r:rigi-bo]]",
+          "LA NACION: el primer emprendimiento de minería de cobre aprobado en el régimen.[[r:rigi-ln]]",
+          "En sus palabras: “Estructuramos y ejecutamos la solicitud de adhesión al RIGI”.[[r:li-champ]]"
+        ]
+      },
+      {
+        "t": "Del recurso al estudio de factibilidad",
+        "c": "Entregó una evaluación económica preliminar actualizada y un estudio de factibilidad, y llevó el proyecto a la ingeniería de detalle.",
+        "e": [
+          "Estudio de factibilidad, octubre de 2025: VAN8 después de impuestos US$2.900 millones, TIR 19,8%.[[r:fs]]",
+          "Perforación de factibilidad completada con 70.000 metros en la temporada 2023/24.[[r:li-drill]]",
+          "2T 2026: “Están adjudicados los principales paquetes de proceso: la planta SX-EW, la planta de ácido sulfúrico y el sistema de trituración”.[[r:q2call]]"
+        ]
+      },
+      {
+        "t": "Un equipo sanjuanino",
+        "c": "Una organización del proyecto arraigada en la provincia.",
+        "e": [
+          "32 empleados en diciembre de 2021, 142 empleados directos en diciembre de 2022.[[r:li-team]]",
+          "2023: una gerencia “99% integrada por sanjuaninos”.[[r:tsj2023]]",
+          "Abril de 2026: pico de 512 trabajadores, 87% de San Juan; 73,5% de la facturación de proveedores a empresas sanjuaninas.[[r:local]]"
+        ]
+      },
+      {
+        "t": "Liderazgo sectorial",
+        "c": "Representa a la exploración y al cobre argentinos en el país y en el exterior.",
+        "e": [
+          "Presidente de GEMERA desde 2024, el primer extranjero en el cargo.[[r:handelsblatt]]",
+          "Presidente de Argentina Cobre 2026; presidente honorario en 2025.[[r:la-cobre26]]",
+          "57 participaciones como orador desde 2022 en América del Sur, América del Norte y Europa, detalladas en la página Escenarios."
+        ]
+      },
+      {
+        "t": "Finanzas mineras desde adentro",
+        "c": "Dos décadas en finanzas corporativas y mineras antes de Los Azules.",
+        "e": [
+          "Barrick Gold, Veladero: rol clave en la recuperación, la extensión de la vida útil y la alianza con Shandong Gold.[[r:mux-bio]]",
+          "También PwC, Novartis y Trafigura, en Europa y América Latina.[[r:mux-bio]]"
+        ]
+      },
+      {
+        "t": "La IA en el negocio",
+        "c": "Los geólogos de Los Azules trabajan con IA y machine learning, y todo el equipo se capacitó en IA en 2026.",
+        "e": [
+          "“Todos mis geólogos están trabajando hoy tanto con IA como con machine learning”.[[r:forbes-ai]]",
+          "Forbes Argentina, 2026: cómo el equipo de Los Azules aplica la IA a la exploración.[[r:forbes-ai]]",
+          "Todo el equipo de Los Azules se capacitó en IA en 2026.[[r:li-ai]]"
+        ]
+      },
+      {
+        "t": "Investigación",
+        "c": "Publica investigaciones sobre la licencia social para operar en la minería latinoamericana.",
+        "e": [
+          "Primer autor de “The Legitimacy Trilemma”, Veredas do Direito, 2026.[[r:veredas]]",
+          "Coautor de un estudio bibliométrico sobre la licencia social para operar en la minería, SSRN, 2025.[[r:ssrn]]"
+        ]
+      }
+    ],
+    "h_la": "Los Azules en síntesis",
+    "la_brief": "Los Azules es un pórfido de cobre en la cordillera de Calingasta, San Juan. El estudio de factibilidad de octubre de 2025 diseña una mina a cielo abierto, con lixiviación en pilas y SX-EW, que produciría cátodo de cobre de 99,99% en el sitio, sin despacho de concentrado, sin dique de colas y con energía 100% renovable. Las reservas probadas y probables contienen 10.200 millones de libras de cobre (fecha efectiva: 3 de septiembre de 2025) y sustentan una vida de la mina de 21 años en el caso base. Fue el primer proyecto de cobre admitido en el RIGI. Los recursos que no forman parte de las reservas y las oportunidades de crecimiento más allá del estudio se detallan, con sus advertencias, en la página de Los Azules.[[r:fs,ypf,rigi-ln]]",
+    "h_milestones": "Hitos de Los Azules, 2022–2030",
+    "milestones_sub": "Los Azules desde que asumió su conducción en febrero de 2022. Las dos últimas líneas son objetivos.[[r:join,li-team,stellantis,eia,ypf,ifc,rigi-bo,fs,sg,loan-pr]]",
+    "milestones": [
+      {
+        "y": "2022",
+        "m": 2,
+        "t": "Se suma a McEwen Copper para conducir Los Azules"
+      },
+      {
+        "y": "2022",
+        "m": 8,
+        "t": "Nuton, de Rio Tinto, ingresa como inversor estratégico"
+      },
+      {
+        "y": "2022",
+        "m": 12,
+        "t": "El equipo pasa de 32 a 142 empleados directos en un año"
+      },
+      {
+        "y": "2023",
+        "m": 2,
+        "t": "Stellantis ingresa como accionista estratégico"
+      },
+      {
+        "y": "2023",
+        "m": 6,
+        "t": "Evaluación económica preliminar actualizada"
+      },
+      {
+        "y": "2023",
+        "m": 11,
+        "t": "Mejor Exploradora del Año"
+      },
+      {
+        "y": "2024",
+        "m": 5,
+        "t": "Perforación de factibilidad completada: 70.000 metros en la temporada, tras 39.000 metros en 2022/23"
+      },
+      {
+        "y": "2024",
+        "m": 8,
+        "t": "Memorando de entendimiento con YPF Luz para energía 100% renovable"
+      },
+      {
+        "y": "2024",
+        "m": 12,
+        "t": "Declaración de Impacto Ambiental para construcción y operación"
+      },
+      {
+        "y": "2025",
+        "m": 6,
+        "t": "Primeros cátodos de cobre con mineral de Los Azules, a escala de laboratorio"
+      },
+      {
+        "y": "2025",
+        "m": 9,
+        "t": "Acuerdo de colaboración con la IFC; aprobación en el RIGI de un plan de inversión de US$2.670 millones, la primera para un proyecto de cobre"
+      },
+      {
+        "y": "2025",
+        "m": 10,
+        "t": "Estudio de factibilidad publicado"
+      },
+      {
+        "y": "2026",
+        "m": 3,
+        "t": "Los Azules recibe un reconocimiento de AmCham Argentina en Argentina Week, en Nueva York"
+      },
+      {
+        "y": "2026",
+        "m": 5,
+        "t": "Société Générale es designado asesor financiero para el financiamiento con deuda del proyecto"
+      },
+      {
+        "y": "2026",
+        "m": 8,
+        "t": "Cierre del préstamo senior garantizado a plazo de US$240 millones con Sprott, Rob McEwen y otros prestamistas"
+      },
+      {
+        "y": "2027",
+        "m": null,
+        "mid": true,
+        "t": "Decisión final de inversión y financiamiento completo del proyecto",
+        "target": true
+      },
+      {
+        "y": "2030",
+        "m": null,
+        "t": "Primer cátodo de cobre comercial",
+        "target": true
+      }
+    ],
+    "mid_year": "med.",
+    "h_honours": "Distinciones",
+    "honours_cap_1": "Empresario Minero del Año, Buenos Aires, diciembre de 2025.",
+    "honours_cap_2": "Diploma Migrante destacado, San Juan, 4 de septiembre de 2024.",
+    "honours_alt_1": "Michael Meding recibe la distinción Empresario Minero del Año 2025",
+    "honours_alt_2": "Michael Meding con el Diploma Migrante destacado, San Juan, septiembre de 2024",
+    "honours": [
+      {
+        "y": "2025",
+        "n": "Empresario Minero del Año",
+        "d": "La Noche de las Distinciones, Argentina: Oro, Plata y Cobre, Buenos Aires, diciembre de 2025.",
+        "by": "Panorama Minero",
+        "to": "personal",
+        "url": "https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html"
+      },
+      {
+        "y": "2024",
+        "n": "Empresario Minero del Año",
+        "d": "Elegido por el comité de Panorama Minero por combinar “una visión estratégica con una sólida capacidad técnica”. Buenos Aires, diciembre de 2024.",
+        "by": "Panorama Minero",
+        "to": "personal",
+        "url": "https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano"
+      },
+      {
+        "y": "2024",
+        "n": "Migrante Destacado",
+        "d": "“Diploma Migrante destacado” de la Dirección Nacional de Migraciones, entregado en el Día del Inmigrante en el acto oficial de San Juan del 4 de septiembre de 2024, por su aporte al desarrollo de la Argentina y a su pluralidad cultural.",
+        "by": "Dirección Nacional de Migraciones",
+        "to": "personal",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7237125204592730112/"
+      },
+      {
+        "y": "2026",
+        "n": "Mención especial, Argentina Week",
+        "d": "AmCham Argentina reconoció a Andes Corporación Minera por su compromiso con la inversión productiva en el marco del RIGI. La entregó en Nueva York el ministro de Economía, Luis Caputo, al cierre de Argentina Week, en marzo de 2026; la recibió junto a Rob McEwen.",
+        "by": "AmCham Argentina",
+        "to": "la",
+        "url": "https://www.diariodecuyo.com.ar/cuyo-minero/los-azules-fue-reconocido-argentina-week-2026-su-compromiso-la-inversion-productiva-n6568044"
+      },
+      {
+        "y": "2026",
+        "n": "Empresa Minera Destacada en RSE",
+        "d": "Premios Argentina Mining, Salta, septiembre de 2026.",
+        "by": "Argentina Mining",
+        "to": "la",
+        "url": "https://www.losandes.com.ar/empresas-y-negocios/argentina-mining-2026-mas-12200-personas-participaron-del-encuentro-que-reunio-al-sector-minero-salta-n6005433"
+      },
+      {
+        "y": "2026",
+        "n": "Sello Compromiso por la Alfabetización",
+        "d": "Por acompañar el plan provincial de alfabetización Comprendo y Aprendo. San Juan, julio de 2026.",
+        "by": "Gobierno de San Juan",
+        "to": "la",
+        "url": "https://www.panorama-minero.com/es/news/los-azules-recibio-el-sello-compromiso-por-la-alfabetizacion"
+      },
+      {
+        "y": "2025",
+        "n": "Premio INVERTIR, Minería",
+        "d": "Recibido en nombre de McEwen Copper en el XIII Fórum Empresarial de Buenos Aires, diciembre de 2025.",
+        "by": "LIDE Argentina",
+        "to": "la",
+        "url": "https://lideargentina.com/lide-argentina-cerro-su-agenda-2025-con-el-xiii-forum-empresarial-y-la-entrega-del-premio-invertir/"
+      },
+      {
+        "y": "2023",
+        "n": "Mejor Exploradora del Año",
+        "d": "Por la campaña de exploración 2022–23 en Calingasta. Buenos Aires, noviembre de 2023.",
+        "by": "Panorama Minero",
+        "to": "la",
+        "url": "https://www.sanjuan8.com/san-juan/los-azules-recibio-el-premio-mejor-exploradora-minera-del-ano-n1257040"
+      }
+    ],
+    "h_roles": "Cargos y carrera",
+    "h_current": "Cargos actuales",
+    "current": [
+      {
+        "role": "Director General",
+        "o": "McEwen Copper",
+        "x": "al frente de Los Azules desde febrero de 2022"
+      },
+      {
+        "role": "Presidente y Gerente General",
+        "o": "Andes Corporación Minera (Los Azules)",
+        "x": ""
+      },
+      {
+        "role": "Presidente",
+        "o": "GEMERA",
+        "x": "desde 2024 · primer extranjero en el cargo"
+      },
+      {
+        "role": "Vicepresidente",
+        "o": "CAEM",
+        "x": "2025–2027 · por Andes Corporación Minera"
+      },
+      {
+        "role": "Vocal titular",
+        "o": "Cámara Minera de San Juan",
+        "x": "2025–2027"
+      },
+      {
+        "role": "Presidente",
+        "o": "Argentina Cobre",
+        "x": "2026 · presidente honorario en 2025"
+      },
+      {
+        "role": "Presidente Honorario",
+        "o": "Expo San Juan Minera 2026",
+        "x": ""
+      }
+    ],
+    "h_career": "Carrera",
+    "career": [
+      {
+        "o": "PwC",
+        "d": "Consultoría en producción y finanzas; siete años en Suiza",
+        "p": "Suiza"
+      },
+      {
+        "o": "Novartis",
+        "d": "Programa de desarrollo de CFO; responsable de finanzas de una unidad de negocio internacional; luego Chile",
+        "p": "Suiza · Chile"
+      },
+      {
+        "o": "Multinacionales",
+        "d": "Cargos de CFO en Chile y la Argentina",
+        "p": "Chile · Argentina"
+      },
+      {
+        "o": "Barrick Gold",
+        "d": "Finanzas de las operaciones argentinas desde 2010: recuperación de Veladero, extensión de la vida útil, alianza con Shandong Gold",
+        "p": "San Juan"
+      },
+      {
+        "o": "Trafigura",
+        "d": "CFAO de una operación minera polimetálica",
+        "p": "América Latina"
+      },
+      {
+        "o": "McEwen Copper",
+        "d": "Conduce Los Azules desde febrero de 2022; director general",
+        "p": "San Juan · Toronto"
+      }
+    ],
+    "h_education": "Formación",
+    "education": [
+      "BSc, Ruhr-Universität Bochum",
+      "MBA, HHL Leipzig Graduate School of Management",
+      "MBA, Indiana University of Pennsylvania",
+      "Maestría en Gestión del Negocio Minero (en curso), Universidad Católica de Cuyo"
+    ],
+    "h_research": "Investigación",
+    "h_quotes": "En sus palabras",
+    "h_sel_speaking": "Escenarios recientes",
+    "h_sel_press": "Cobertura reciente",
+    "h_faq": "Preguntas y respuestas",
+    "faq": [
+      {
+        "q": "¿Quién es Michael Meding?",
+        "a": "Un ejecutivo minero alemán que conduce el proyecto de cobre Los Azules, en San Juan, Argentina, desde febrero de 2022 y es director general de McEwen Copper. Preside GEMERA y fue elegido Empresario Minero del Año en 2024 y 2025.[[r:join,mux-bio,fm-2024,fm-2025]]"
+      },
+      {
+        "q": "¿Qué logró en Los Azules?",
+        "a": "Bajo su conducción el proyecto obtuvo su Declaración de Impacto Ambiental (diciembre de 2024), publicó su estudio de factibilidad (octubre de 2025), fue el primer proyecto de cobre aprobado en el RIGI y cerró un préstamo a plazo de US$240 millones (agosto de 2026). Stellantis y Nuton, de Rio Tinto, ingresaron como accionistas estratégicos y la IFC firmó un acuerdo de colaboración.[[r:eia,fs,rigi-ln,loan-pr,stellantis,ifc]]"
+      },
+      {
+        "q": "¿Qué distinciones recibió Michael Meding?",
+        "a": "Empresario Minero del Año 2024 y 2025 (Panorama Minero) y el Diploma Migrante destacado de la Dirección Nacional de Migraciones en 2024. Bajo su conducción Los Azules recibió Mejor Exploradora del Año 2023, el Premio INVERTIR de LIDE en Minería 2025, una mención especial de AmCham Argentina en 2026 y otras distinciones.[[r:fm-2024,fm-2025,li-dnm,li-champ]]"
+      },
+      {
+        "q": "¿Qué es GEMERA?",
+        "a": "El Grupo de Empresas Mineras Exploradoras de la República Argentina, la cámara que reúne a las empresas de exploración. Meding lo preside desde 2024, como primer extranjero en el cargo, y sostiene que la Argentina debe triplicar su inversión en exploración.[[r:gemera-ej,handelsblatt,gemera-ambito]]"
+      },
+      {
+        "q": "¿Cuál es su trayectoria profesional?",
+        "a": "Finanzas corporativas y mineras: PwC y Novartis en Suiza, cargos de CFO en multinacionales en Chile y la Argentina, finanzas de las operaciones argentinas de Barrick Gold desde 2010, incluida Veladero, y CFAO de una operación polimetálica de Trafigura.[[r:mux-bio,mp2014]]"
+      },
+      {
+        "q": "¿Dónde vive Michael Meding?",
+        "a": "Entre San Juan, Argentina, donde se gestiona Los Azules, y Toronto, donde está la oficina central de McEwen Copper.[[r:fy24]]"
+      },
+      {
+        "q": "¿Qué idiomas habla?",
+        "a": "Alemán, inglés y español.[[r:mux-bio]]"
+      }
+    ],
+    "card_role": "Cargo",
+    "card_role_v": "Director General, McEwen Copper",
+    "card_leads": "Conduce",
+    "card_leads_v": "Proyecto de cobre Los Azules, desde feb. 2022",
+    "card_also": "Además",
+    "card_also_v": "Presidente de GEMERA · Vicepresidente de CAEM · Presidente de Argentina Cobre",
+    "card_born": "Nació en",
+    "card_born_v": "Düsseldorf",
+    "card_based": "Vive en",
+    "card_based_v": "San Juan, Argentina · Toronto, Canadá",
+    "card_langs": "Idiomas",
+    "card_langs_v": "Alemán, inglés, español",
+    "card_honours": "Distinciones",
+    "card_honours_v": "Empresario Minero del Año 2024, 2025",
+    "card_edu": "Formación",
+    "card_edu_v": "BSc Bochum · MBA HHL Leipzig · MBA IUP",
+    "card_contact": "Contacto de prensa",
+    "card_photo_cap": "Estocolmo, octubre de 2025",
+    "card_photo_alt": "Michael Meding presenta Los Azules en Nordic Funds and Mines, en Estocolmo",
+    "card_born_r": "tsj2023",
+    "hero_lede": "Michael Meding es un ejecutivo minero alemán que conduce el proyecto de cobre Los Azules, en San Juan, Argentina, desde febrero de 2022 y es director general de McEwen Copper. Llegó a la minería desde las finanzas corporativas: PwC y Novartis en Suiza, más de quince años en América Latina y luego Barrick Gold y Trafigura. Bajo su conducción Los Azules obtuvo su Declaración de Impacto Ambiental, publicó su estudio de factibilidad, se convirtió en el primer proyecto de cobre aprobado en el RIGI (Régimen de Incentivo para Grandes Inversiones) y cerró un préstamo a plazo de US$240 millones.[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
+    "rail": [
+      "Incorporación a McEwen Copper",
+      "Declaración de Impacto Ambiental",
+      "Aprobación en el RIGI y estudio de factibilidad",
+      "Préstamo a plazo de US$240 millones",
+      "Decisión final de inversión",
+      "Primer cátodo comercial"
+    ],
+    "rail_today": "Hoy",
+    "partners": [
+      {
+        "k": "Accionistas estratégicos",
+        "v": "Stellantis · Nuton (Rio Tinto)",
+        "r": "stellantis,nuton35"
+      },
+      {
+        "k": "Acuerdo de colaboración",
+        "v": "IFC",
+        "r": "ifc"
+      },
+      {
+        "k": "Asesor para la deuda del proyecto",
+        "v": "Société Générale",
+        "r": "sg"
+      },
+      {
+        "k": "Préstamo a plazo, 2026",
+        "v": "Sprott, Rob McEwen y otros prestamistas",
+        "r": "loan-pr"
+      }
+    ],
+    "hero_cred": "Empresario Minero del Año 2024 y 2025 · Presidente de GEMERA, la cámara de empresas de exploración minera de la Argentina[[r:fm-2024,fm-2025,gemera-ej]]",
+    "h_partners": "Socios y financiamiento",
+    "stat_placements": "captados en colocaciones privadas desde 2021, incluidas las de Stellantis y Nuton",
+    "stats_note": "Las cifras del estudio de factibilidad, los objetivos, las personas calificadas y las advertencias figuran en la página de Los Azules."
+  },
+  "la": {
+    "kicker": "San Juan, Argentina · Cátodo de cobre · Estudio de factibilidad 2025",
+    "h1": "Proyecto de cobre Los Azules",
+    "lede": "Los Azules es un pórfido de cobre en la cordillera de Calingasta, San Juan, Argentina, propiedad de McEwen Copper y conducido por Michael Meding. El estudio de factibilidad de octubre de 2025 diseña una mina a cielo abierto, con lixiviación en pilas y SX-EW, que produciría cátodo de cobre de 99,99% en el sitio, sin dique de colas y con energía 100% renovable. Fue el primer proyecto de cobre admitido en el RIGI (Régimen de Incentivo para Grandes Inversiones). La decisión final de inversión está prevista para mediados de 2027 y el objetivo es iniciar la producción comercial de cátodo en 2030.[[r:fs,mux-bio,ypf,rigi-ln,loan-pr]]",
+    "stat_reserves": "de cobre en reservas probadas y probables",
+    "stat_output": "de cátodo de cobre por año, años 1 a 5",
+    "stat_capex": "capital inicial",
+    "stat_npv": "VAN8 después de impuestos a US$4,35/lb",
+    "stat_irr": "TIR después de impuestos",
+    "stat_kt": "kt",
+    "h_facts": "Datos del proyecto",
+    "facts": [
+      {
+        "k": "Ubicación",
+        "v": "Calingasta, San Juan, Argentina; a unos 3.500 m s. n. m., aproximadamente 80 km al oeste-noroeste de Calingasta y 6 km al este de la frontera con Chile",
+        "r": "mux-la"
+      },
+      {
+        "k": "Titular",
+        "v": "McEwen Copper Inc., a través de Andes Corporación Minera S.A.",
+        "r": "fy25"
+      },
+      {
+        "k": "Conducción",
+        "v": "Michael Meding, director general de McEwen Copper; conduce Los Azules desde febrero de 2022",
+        "r": "join,mux-bio"
+      },
+      {
+        "k": "Yacimiento",
+        "v": "Pórfido de cobre andino con zona de enriquecimiento supergénico",
+        "r": "fs"
+      },
+      {
+        "k": "Proceso",
+        "v": "Mina a cielo abierto, lixiviación en pilas y SX-EW; cátodo de cobre grado A de la LME, de 99,99%, que se prevé producir en el sitio",
+        "r": "fs"
+      },
+      {
+        "k": "Producción",
+        "v": "204.800 t por año en los años 1 a 5; 148.200 t por año en una vida útil de 21 años",
+        "r": "fs"
+      },
+      {
+        "k": "Costos",
+        "v": "C1 US$1,71/lb; AISC US$2,11/lb",
+        "r": "fs"
+      },
+      {
+        "k": "Agua",
+        "v": "74% menos que una planta concentradora convencional; 158 L/s de promedio en la vida de la mina",
+        "r": "fs"
+      },
+      {
+        "k": "Carbono",
+        "v": "1.082 kg CO2-e por tonelada de cobre (alcances 1 y 2) frente a un promedio estimado de la industria de 4.026 (Skarn Associates); meta de neutralidad de carbono para 2038",
+        "r": "fs"
+      },
+      {
+        "k": "Energía",
+        "v": "Prevista 100% renovable, mediante una línea de alta tensión que YPF Luz construirá a su propio costo",
+        "r": "ypf,fs"
+      },
+      {
+        "k": "Relaves",
+        "v": "Sin dique de colas",
+        "r": "fs"
+      },
+      {
+        "k": "Declaración de Impacto Ambiental",
+        "v": "Otorgada en diciembre de 2024 para construcción y operación",
+        "r": "eia,dia-md"
+      },
+      {
+        "k": "RIGI",
+        "v": "Resolución 1553/2025: plan de US$2.672 millones; primer proyecto de cobre aprobado; 61,1% del gasto en proveedores, bienes y obras comprometido con proveedores locales",
+        "r": "rigi-bo,rigi-ln"
+      },
+      {
+        "k": "Posición",
+        "v": "Según McEwen Copper, ocupa el décimo lugar a nivel mundial por recursos minerales totales entre los pórfidos de cobre sin desarrollar; con datos de S&P Global de 2024, su producción proyectada lo ubicaría en el puesto 26 entre 423 productores una vez en operación",
+        "r": "fs"
+      },
+      {
+        "k": "Potencial",
+        "v": "Fuera del estudio de factibilidad, McEwen Copper identificó que procesar los sulfuros primarios con lixiviación Nuton o con un concentrador convencional podría extender la vida de la mina 30 años o más. Esto no forma parte del caso base y se basa en parte en recursos minerales inferidos",
+        "r": "fs"
+      },
+      {
+        "k": "Próximos pasos",
+        "v": "Decisión final de inversión y financiamiento completo del proyecto previstos para mediados de 2027; objetivo de producción comercial de cátodo en 2030",
+        "r": "loan-pr"
+      }
+    ],
+    "fig_alt": "Delegaciones empresariales de Japón y Alemania con el equipo de Los Azules en el sitio del proyecto",
+    "fig_cap": "Delegaciones empresariales de Japón y Alemania en el sitio de Los Azules, noviembre de 2025.",
+    "h_reserves": "Reservas y recursos minerales",
+    "reserves_intro": "Estimaciones del estudio de factibilidad de octubre de 2025, con fecha efectiva 3 de septiembre de 2025.[[r:fs,trs]]",
+    "h_res_table": "Reservas minerales (probadas y probables)",
+    "res_proven": "Probadas",
+    "res_probable": "Probables",
+    "res_total": "Total probadas y probables",
+    "res_note": "Precio del cobre utilizado para las reservas: US$4,25/lb. Valor de corte variable de US$4,79 a US$7,23 por tonelada, en términos de NSR. Las reservas se informan sobre una base del 100%.",
+    "h_resources_table": "Recursos minerales, excluidas las reservas",
+    "rs_mi": "Medidos e indicados",
+    "rs_inf": "Inferidos",
+    "resources_note": "Precio del cobre utilizado para los recursos: US$4,80/lb (oro: US$2.500/oz; plata: US$32/oz). Los recursos se informan excluidas las reservas minerales y no se suman a ellas. La mayor parte de estos recursos, incluida la totalidad de los recursos inferidos, se informa para su procesamiento mediante molienda o lixiviación avanzada, como Nuton, procesos que el caso base del estudio de factibilidad no incluye.",
+    "unit_mlb": "M lb",
+    "unit_blb": "miles de millones de lb",
+    "h_econ": "Indicadores económicos del estudio de factibilidad",
+    "econ": [
+      {
+        "k": "Capital inicial",
+        "v": "US$3.168 millones"
+      },
+      {
+        "k": "VAN después de impuestos (8%)",
+        "v": "US$2.940 millones"
+      },
+      {
+        "k": "TIR después de impuestos",
+        "v": "19,8%"
+      },
+      {
+        "k": "Período de repago",
+        "v": "3,9 años"
+      },
+      {
+        "k": "Vida de la mina",
+        "v": "21 años"
+      },
+      {
+        "k": "Precio del cobre, caso base",
+        "v": "US$4,35/lb"
+      },
+      {
+        "k": "Capital de sostenimiento, vida de la mina",
+        "v": "US$2.131 millones"
+      }
+    ],
+    "econ_note": "Caso base del estudio de factibilidad anunciado el 7 de octubre de 2025.[[r:fs]]",
+    "h_fin": "Financiamiento",
+    "h_loan": "Préstamo a plazo de US$240 millones, agosto de 2026",
+    "loan_intro": "El 27 de agosto de 2026 McEwen Copper cerró un préstamo senior garantizado a plazo de US$240 millones para seguir avanzando con la ingeniería y las obras tempranas de Los Azules, y para fines corporativos generales.[[r:loan-pr,loan]]",
+    "loan_terms": [
+      {
+        "k": "Monto",
+        "v": "US$240 millones, senior garantizado"
+      },
+      {
+        "k": "Plazo",
+        "v": "4 años"
+      },
+      {
+        "k": "Interés",
+        "v": "12,0% anual, pagadero mensualmente"
+      },
+      {
+        "k": "Warrants",
+        "v": "15.000 warrants a cinco años para la compra de acciones ordinarias de McEwen Copper por cada US$1 millón de capital, con un precio de ejercicio de US$40 por acción"
+      },
+      {
+        "k": "Destino de los fondos",
+        "v": "Ingeniería y obras tempranas en Los Azules; fines corporativos generales"
+      }
+    ],
+    "lenders": [
+      {
+        "k": "Sprott Natural Resource Investment Partners",
+        "v": "US$112 millones"
+      },
+      {
+        "k": "Rob McEwen",
+        "v": "US$85 millones"
+      },
+      {
+        "k": "Otros prestamistas",
+        "v": "US$43 millones"
+      }
+    ],
+    "loan_quote_attr": "Michael Meding, director general de McEwen Copper",
+    "h_fin_record": "Historial de financiamiento",
+    "fin_record": [
+      {
+        "k": "2021",
+        "v": "Se crea McEwen Copper para desarrollar Los Azules, con una colocación privada Serie B de US$80 millones",
+        "r": "create"
+      },
+      {
+        "k": "Desde 2021",
+        "v": "US$453 millones captados en total en colocaciones privadas, incluida la Serie B de 2021, con Stellantis y Nuton, de Rio Tinto, como inversores estratégicos",
+        "r": "mux-la"
+      },
+      {
+        "k": "sep 2025",
+        "v": "Acuerdo de colaboración con la IFC para alinear Los Azules con los estándares ambientales, sociales y de gobernanza de la IFC con vistas a un posible financiamiento futuro de deuda y capital",
+        "r": "ifc"
+      },
+      {
+        "k": "sep–oct 2025",
+        "v": "Admisión en el RIGI con un plan de inversión de US$2.672 millones",
+        "r": "rigi-bo"
+      },
+      {
+        "k": "may 2026",
+        "v": "Société Générale designado asesor financiero exclusivo para el financiamiento con deuda del proyecto",
+        "r": "sg"
+      },
+      {
+        "k": "ago 2026",
+        "v": "Cierre del préstamo senior garantizado a plazo de US$240 millones",
+        "r": "loan-pr"
+      },
+      {
+        "k": "Plan",
+        "v": "En la conferencia de resultados del segundo trimestre de 2026 de McEwen Inc., Michael Meding afirmó que McEwen Copper busca un paquete de financiamiento total de unos US$4.000 millones, que cubra la inversión de capital, el capital de trabajo, los intereses y una línea para sobrecostos. Este financiamiento aún no está comprometido.",
+        "r": "q2call"
+      }
+    ],
+    "h_mcewen": "McEwen Copper",
+    "mcewen": [
+      {
+        "k": "Compañía",
+        "v": "McEwen Copper Inc., sociedad registrada en Alberta, creada por McEwen Mining en julio de 2021 para desarrollar Los Azules",
+        "r": "create,fy25"
+      },
+      {
+        "k": "Oficina central",
+        "v": "150 King Street West, Toronto",
+        "r": "fy24"
+      },
+      {
+        "k": "Activos",
+        "v": "Los Azules (a través de Andes Corporación Minera S.A.) y la propiedad Elder Creek, en Nevada",
+        "r": "fy25"
+      },
+      {
+        "k": "Director General",
+        "v": "Michael Meding",
+        "r": "mux-bio"
+      }
+    ],
+    "h_shareholders": "Accionistas",
+    "shareholders_src": "Página del proyecto de McEwen Inc., consultada el 26 de septiembre de 2026.[[r:mux-la]]",
+    "sh_mux": "McEwen Inc.",
+    "sh_stellantis": "Stellantis",
+    "sh_nuton": "Nuton / Rio Tinto",
+    "sh_rob": "Rob McEwen",
+    "sh_vsg": "Victor Smorgon Group",
+    "sh_other": "Otros",
+    "ifc_alt": "Michael Meding firma el acuerdo de colaboración con la IFC",
+    "ifc_cap": "Firma del acuerdo de colaboración con la IFC, septiembre de 2025.",
+    "h_argentina": "La Argentina y el cobre",
+    "argentina": [
+      "La Argentina no produce cobre a gran escala desde que cerró Bajo de la Alumbrera, en 2018.[[r:alumbrera]]",
+      "Un informe de la Secretaría de Minería de la Nación proyecta que la producción podría superar 1,5 millones de toneladas anuales hacia 2035.[[r:pipeline]]",
+      "El RIGI (Ley 27.742) ofrece una garantía de estabilidad de 30 años sobre sus incentivos para inversiones de más de US$200 millones.[[r:rigi-gob]]",
+      "S&P Global proyecta una demanda de cobre de 42 millones de toneladas en 2040, un 50% más que los niveles actuales.[[r:sp]]",
+      "La AIE prevé que el cobre registre el mayor crecimiento de demanda en volumen, con unos 7 millones de toneladas más hacia 2040.[[r:iea]]"
+    ],
+    "h_tech": "Información técnica y personas calificadas",
+    "tech_p1": "La información científica y técnica de esta página proviene del estudio de factibilidad de Los Azules anunciado por McEwen Inc. el 7 de octubre de 2025 (fecha efectiva: 3 de septiembre de 2025) y del Technical Report Summary S-K 1300 presentado ante la Comisión de Bolsa y Valores de los Estados Unidos (SEC) como anexo al informe anual 2025 de McEwen Inc. (fecha del informe: 31 de diciembre de 2025). Las personas calificadas que se mencionan a continuación revisaron y verificaron el anuncio de octubre de 2025 conforme al NI 43-101. Esta página no agrega información científica ni técnica a la contenida en esos documentos.[[r:fs,trs]]",
+    "tech_p2": "El estudio de factibilidad y la información asociada divulgada en el anuncio de McEwen Inc. del 7 de octubre de 2025 fueron revisados y verificados conforme al NI 43-101 por las siguientes personas calificadas: James L. Sorensen, FAusIMM, Samuel Engineering (ejecución del proyecto, desarrollo y otra información, excepto la información sobre recursos minerales); W. David Tyler, SME Registered Member, director de proyecto de McEwen Copper, que no es independiente del emisor (información de McEwen y otra información, excepto la información sobre recursos minerales); Michael McGlynn, SME Registered Member, Samuel Engineering (metalurgia y procesos); Jeff Sullivan, FAusIMM, CRM-SA, LLC (estimación de recursos minerales); Gordon Zurowski, P.Eng., AGP Mining Consultants (minería y estimación de reservas minerales); y Steve Pozder, P.E., Samuel Engineering (modelización financiera).[[r:fs]]",
+    "tech_p3": "Los recursos minerales que no son reservas minerales no tienen viabilidad económica demostrada. La estimación de los recursos minerales puede verse afectada de manera significativa por factores ambientales, de permisos, legales, de titularidad, sociopolíticos, de comercialización u otros factores relevantes. Se considera que los recursos minerales inferidos son geológicamente demasiado especulativos como para aplicarles consideraciones económicas que permitan clasificarlos como reservas minerales; no han sido objeto de exploración suficiente para clasificarse como recursos indicados o medidos, y no existe certeza de que una mayor exploración permita elevarlos de categoría.[[r:fs]]",
+    "tech_p4": "Las afirmaciones de esta página sobre hechos futuros constituyen declaraciones prospectivas. Entre ellas figuran la decisión final de inversión y el financiamiento completo del proyecto previstos para mediados de 2027, la producción comercial de cátodo fijada como objetivo para 2030, la meta de neutralidad de carbono para 2038, las posibles extensiones de la vida de la mina y el plan de financiamiento. Reflejan las expectativas actuales de McEwen Copper, no constituyen garantías y dependen del financiamiento, la ingeniería, los permisos, los precios de los metales, las condiciones en la Argentina y los demás riesgos descritos en los documentos presentados por McEwen Inc. ante la SEC y en SEDAR+. Los resultados reales podrían diferir de manera significativa. Los supuestos clave, los parámetros y los métodos de estimación se detallan en el anuncio del estudio de factibilidad y en el informe técnico.",
+    "tech_translation_note": "Esta traducción se ofrece solo para comodidad del lector; ante cualquier discrepancia, prevalece la versión en inglés de la información técnica y de las advertencias.",
+    "h_faq": "Preguntas y respuestas",
+    "faq": [
+      {
+        "q": "¿Qué es Los Azules?",
+        "a": "Un proyecto de pórfido de cobre en la cordillera de Calingasta, San Juan, propiedad de McEwen Copper. Su estudio de factibilidad de octubre de 2025 prevé una operación a cielo abierto con lixiviación en pilas y SX-EW que produce cátodo de cobre de 99,99% en el sitio, con un promedio de 204.800 toneladas anuales en los primeros cinco años.[[r:fs]]"
+      },
+      {
+        "q": "¿Dónde está exactamente Los Azules?",
+        "a": "En el departamento Calingasta, provincia de San Juan, a unos 3.500 metros de altura, aproximadamente 80 km al oeste-noroeste de Calingasta y 6 km al este de la frontera con Chile.[[r:mux-la]]"
+      },
+      {
+        "q": "¿Quién conduce Los Azules?",
+        "a": "Michael Meding, director general de McEwen Copper, conduce el proyecto desde febrero de 2022.[[r:join,mux-bio]]"
+      },
+      {
+        "q": "¿Quiénes son los dueños de McEwen Copper?",
+        "a": "McEwen Inc. 46,3%, Stellantis 18,2%, Nuton (de Rio Tinto) 17,2%, Rob McEwen 13,0%, Victor Smorgon Group 3,0% y otros accionistas 2,3%.[[r:mux-la]]"
+      },
+      {
+        "q": "¿Cuándo producirá cobre Los Azules?",
+        "a": "McEwen Copper prevé la decisión final de inversión y el financiamiento completo del proyecto para mediados de 2027, y tiene como objetivo la producción comercial de cátodo de cobre en 2030. Se trata de objetivos prospectivos que dependen del financiamiento, los permisos y otros riesgos.[[r:loan-pr]]"
+      },
+      {
+        "q": "¿Qué distingue al diseño de Los Azules?",
+        "a": "El diseño produciría cátodo de cobre terminado en la mina en lugar de concentrado, sin dique de colas, con energía 100% renovable, un 74% menos de agua que una planta concentradora convencional y una intensidad de carbono de 1.082 kg CO2-e por tonelada frente a un promedio estimado de la industria de 4.026.[[r:fs,ypf]]"
+      },
+      {
+        "q": "¿Los Azules está aprobado en el RIGI?",
+        "a": "Sí. La Resolución 1553/2025, publicada el 14 de octubre de 2025, admitió Los Azules con un plan de inversión de US$2.672 millones. Fue el primer proyecto de cobre aprobado en el régimen.[[r:rigi-bo,rigi-ln]]"
+      },
+      {
+        "q": "¿Qué tamaño tiene Los Azules?",
+        "a": "El estudio de factibilidad informa reservas probadas y probables que contienen 10.200 millones de libras de cobre (1.023 millones de toneladas con una ley de 0,453% Cu), con fecha efectiva 3 de septiembre de 2025. Por separado, y excluidas esas reservas, informa recursos medidos e indicados que contienen 5.400 millones de libras y recursos inferidos que contienen 20.000 millones de libras. Los recursos minerales que no son reservas minerales no tienen viabilidad económica demostrada, los recursos inferidos conllevan una alta incertidumbre geológica y las categorías no deben sumarse entre sí.[[r:fs]]"
+      },
+      {
+        "q": "¿Cuánto tiempo podría operar Los Azules?",
+        "a": "El caso base del estudio de factibilidad prevé una vida de la mina de 21 años sobre la base de las reservas probadas y probables. Fuera del estudio, McEwen Copper identificó que procesar los sulfuros primarios con la tecnología Nuton de Rio Tinto o con un concentrador convencional podría extender la vida de la mina 30 años o más. Ese potencial no forma parte del caso base, se basa en parte en recursos minerales inferidos y requeriría nuevos estudios, permisos y financiamiento.[[r:fs]]"
+      },
+      {
+        "q": "¿Qué es el préstamo a plazo de US$240 millones?",
+        "a": "Un préstamo senior garantizado a cuatro años, al 12,0% anual, que McEwen Copper cerró el 27 de agosto de 2026 con Sprott Natural Resource Investment Partners (US$112 millones), Rob McEwen (US$85 millones) y otros prestamistas (US$43 millones). Financia la ingeniería y las obras tempranas hacia la decisión final de inversión.[[r:loan-pr]]"
+      },
+      {
+        "q": "¿Cómo se financia el proyecto?",
+        "a": "McEwen Copper captó US$453 millones en colocaciones privadas desde 2021, incluidas las de Stellantis y Nuton, y cerró un préstamo a plazo de US$240 millones en agosto de 2026. Designó a Société Générale como asesor financiero exclusivo para el financiamiento con deuda del proyecto y firmó un acuerdo de colaboración con la IFC para alinear el proyecto con los estándares de la IFC con vistas a un posible financiamiento futuro. McEwen Copper indicó que busca un paquete de financiamiento total de unos US$4.000 millones, que aún no está comprometido.[[r:mux-la,loan-pr,sg,ifc,q2call]]"
+      }
+    ],
+    "loan_quote": "This financing reflects our lenders' confidence in Los Azules and in the progress Argentina has made over the past two and a half years. The initiatives of President Javier Milei have helped make Argentina an increasingly attractive destination for large-scale foreign investment. Economic stabilization, stronger credit ratings, lower country risk and the RIGI are bringing long-term capital back to the country. San Juan continues to demonstrate the qualities of a dependable mining jurisdiction, supported by strong institutions, rigorous processes and sound governance. We are proud to be building Los Azules here.",
+    "loan_quote_tr": "Este financiamiento refleja la confianza de nuestros prestamistas en Los Azules y en los avances que la Argentina logró en los últimos dos años y medio. Las iniciativas del presidente Javier Milei contribuyeron a convertir a la Argentina en un destino cada vez más atractivo para la inversión extranjera de gran escala. La estabilización económica, las mejores calificaciones crediticias, el menor riesgo país y el RIGI están haciendo que el capital de largo plazo vuelva al país. San Juan sigue demostrando las cualidades de una jurisdicción minera confiable, respaldada por instituciones sólidas, procesos rigurosos y una buena gobernanza. Estamos orgullosos de construir Los Azules aquí.",
+    "loan_quote_note": "Traducción de la declaración original en inglés",
+    "stat_mi": "de cobre en recursos medidos e indicados, sin incluir reservas",
+    "stat_inf": "de cobre en recursos inferidos, sin incluir reservas",
+    "stat_lom": "de vida de la mina en el caso base del estudio de factibilidad",
+    "stat_upside": "de extensión potencial en el escenario de crecimiento",
+    "h_life": "Un plan minero de 21 años, con margen para crecer",
+    "life_p": "El caso base del estudio de factibilidad prevé una vida de la mina de 21 años sobre la base de las reservas probadas y probables. McEwen Copper también identificó oportunidades de crecimiento fuera del estudio de factibilidad. La tecnología de lixiviación Nuton de Rio Tinto podría permitir procesar los sulfuros primarios con la infraestructura existente, o bien un concentrador convencional podría lograr mayores recuperaciones de cobre y recuperar además oro y plata. McEwen Copper indicó que cualquiera de las dos vías podría extender la vida de la mina 30 años o más. Ninguna de estas oportunidades está incluida en el caso base del estudio de factibilidad.[[r:fs]]",
+    "life_base": "Caso base del estudio de factibilidad: 21 años",
+    "life_up": "Extensión potencial fuera del estudio: 30 años o más",
+    "life_opts": "Lixiviación Nuton o concentrador convencional; no incluido en el caso base; se basa en parte en recursos inferidos",
+    "life_axis": "Años",
+    "life_note": "Esta extensión potencial surge de trabajos de planificación estratégica que consideran recursos minerales inferidos. Los recursos minerales inferidos son geológicamente demasiado especulativos como para aplicarles consideraciones económicas, y no existe certeza de que alguna vez se conviertan en reservas minerales. Todavía no existe ningún acuerdo comercial con Nuton. A diferencia del diseño de lixiviación en pilas del caso base, un concentrador requeriría almacenamiento de relaves y usaría más agua. Cualquiera de las dos vías requeriría nuevos estudios, permisos y financiamiento.",
+    "h_inventory": "Cobre en reservas y recursos",
+    "inventory_note": "Cada categoría se muestra por separado y no debe sumarse a las demás. Los recursos minerales que no son reservas no tienen viabilidad económica demostrada, y los recursos inferidos conllevan una alta incertidumbre geológica.",
+    "inv_reserves": "Reservas probadas y probables",
+    "inv_mi": "Recursos medidos e indicados",
+    "inv_inf": "Recursos inferidos",
+    "la_notice": "Sitio web personal de Michael Meding. Esta página resume información publicada por McEwen Inc. y McEwen Copper y no es emitida por ninguna de las dos compañías. Información oficial: mcewenmining.com, SEDAR+ y EDGAR.",
+    "stats_note": "Caso base del estudio de factibilidad, con fecha efectiva 3 de septiembre de 2025. Véanse más abajo la información técnica y las advertencias.",
+    "h_inv_res": "Recursos, excluidas las reservas",
+    "loan_quote_short_tr": "Este financiamiento refleja la confianza de nuestros prestamistas en Los Azules y en los avances que la Argentina logró en los últimos dos años y medio. […] Estamos orgullosos de construir Los Azules aquí.",
+    "loan_quote_short": "This financing reflects our lenders' confidence in Los Azules and in the progress Argentina has made over the past two and a half years. […] We are proud to be building Los Azules here."
+  },
+  "speaking": {
+    "h1": "Escenarios",
+    "sub": "57 participaciones desde 2022, más una confirmada: 27 en América del Sur, 17 en América del Norte, 11 en Europa y 2 en línea. Fuentes: organizadores, prensa y sus publicaciones.",
+    "cap_ny": "Nueva York, Benchmark World Tour, con Bloomberg Intelligence como anfitrión, octubre de 2024.",
+    "alt_ny": "Michael Meding presenta Los Azules en el evento de Benchmark con Bloomberg como anfitrión, en Nueva York",
+    "cap_dc": "Washington, DC, Benchmark Giga US, junio de 2026.",
+    "alt_dc": "Michael Meding en el atril de Benchmark Giga US, en Washington",
+    "cities": {
+      "Argentina": "Argentina",
+      "Beaver Creek": "Beaver Creek",
+      "Berlin": "Berlín",
+      "Boca Raton": "Boca Raton",
+      "Brussels": "Bruselas",
+      "Buenos Aires": "Buenos Aires",
+      "Buenos Aires (virtual)": "Buenos Aires (virtual)",
+      "Buenos Aires · Mendoza": "Buenos Aires · Mendoza",
+      "Canada": "Canadá",
+      "Cologne": "Colonia",
+      "Hamburg": "Hamburgo",
+      "London": "Londres",
+      "Mendoza": "Mendoza",
+      "Munich": "Múnich",
+      "New York": "Nueva York",
+      "San Juan": "San Juan",
+      "Santiago de Chile": "Santiago de Chile",
+      "Stockholm": "Estocolmo",
+      "Toronto": "Toronto",
+      "Virtual": "En línea",
+      "Washington, DC": "Washington, DC",
+      "Zurich": "Zúrich"
+    },
+    "roles": {
+      "s01": "Orador confirmado",
+      "s02": "Entrevista con Investing News Network",
+      "s03": "“Minerales críticos y desarrollo federal”, junto a los gobernadores de San Juan, Jujuy y Catamarca",
+      "s04": "“En Foco”, en el escenario con Fernando Heredia",
+      "s05": "“Perspectivas de la Minería en la Región”, con las autoridades mineras de ambos países",
+      "s06": "En diálogo con José Del Rio",
+      "s07": "Diálogo de alto nivel sobre la demanda de cobre",
+      "s08": "Conferencia central sobre cobre: McEwen Copper",
+      "s09": "Bullpen Q&A, moderado por The Northern Miner",
+      "s10": "Presidente de las sesiones; conferencia central; mano a mano con Santiago Spaltro",
+      "s11": "Distritos mineros y nuevo atractivo geológico",
+      "s12": "Harnessing Argentina's mining sector",
+      "s13": "Panel sobre cobre con el ministro de Desarrollo Económico de Ontario",
+      "s14": "Presentación de Los Azules; perspectivas de exploración de GEMERA",
+      "s15": "Panorama de la exploración en la minería argentina",
+      "s16": "Presentación de Los Azules",
+      "s17": "Panel de exploración, como presidente de GEMERA",
+      "s18": "Presentación de Los Azules junto a Rob McEwen",
+      "s19": "Presentación de Los Azules",
+      "s20": "Presentación junto a Rob McEwen",
+      "s21": "Smart Mining, Smart Partnerships: soluciones alemanas para la próxima era minera en los Andes",
+      "s22": "Panel “La nueva era del cobre”",
+      "s23": "Presentaciones a inversores junto a Rob McEwen",
+      "s24": "Panel sobre liderazgo empresarial sostenible",
+      "s25": "Presidente Honorario; sesión de apertura junto a cinco gobernadores",
+      "s26": "Presentación de Los Azules junto a Rob McEwen",
+      "s27": "Tecnología, innovación y talento como motores de la competitividad minera",
+      "s28": "Cobre, la hora del despegue",
+      "s29": "Los Azules: minería inteligente y cobre verde en la nueva era argentina",
+      "s30": "Presentación de Los Azules",
+      "s31": "Uno de los oradores principales; reuniones bilaterales con el BEI, el BID y KfW IPEX",
+      "s32": "Panel sobre 2024 y lo que viene; indicadores de exploración como presidente de GEMERA",
+      "s33": "Panel de CEOs",
+      "s34": "Presentaciones a inversores junto a Rob McEwen",
+      "s35": "Presentación de Los Azules; mesa redonda sobre cadenas de suministro de minerales críticos",
+      "s36": "Panel “Infrastructure for Growth: Energy, Logistics & Mining”",
+      "s37": "Panel minero, con los gobernadores de San Juan, Mendoza y Jujuy entre el público",
+      "s38": "Panel “Mining the Energy Transition”; presentación de Los Azules",
+      "s39": "Junto a Rob McEwen",
+      "s40": "Treinta presentaciones a inversores junto a Rob McEwen",
+      "s41": "Presentación a inversores",
+      "s42": "Presentación a inversores",
+      "s43": "En el escenario con Fernando Heredia",
+      "s44": "“Grandes proyectos de inversión que transforman la Argentina”",
+      "s45": "Copresidió la Conferencia Internacional del Cobre con el embajador de Canadá; panel del sector privado",
+      "s46": "Presentación de McEwen Copper",
+      "s47": "Orador del sector privado en la Embajada de la Argentina",
+      "s48": "Presentaciones a inversores junto a Rob McEwen",
+      "s49": "Transición energética y sostenibilidad",
+      "s50": "Presentaciones a inversores junto a Rob McEwen",
+      "s51": "Presentación de Los Azules",
+      "s52": "“Los Azules, Portal for Copper Development in San Juan”, junto a Rob McEwen",
+      "s53": "Panel sobre sostenibilidad y comunicación con la sociedad; presentación de Los Azules",
+      "s54": "Seminario San Juan Tierra Minera: avances de Los Azules",
+      "s55": "Más de 25 presentaciones a inversores junto a Rob McEwen",
+      "s56": "Presentación de Los Azules",
+      "s57": "McEwen Copper y Los Azules",
+      "s58": "McEwen Copper y Los Azules"
+    },
+    "cta": "Solicitudes para participar como orador: michael@meding.dev"
+  },
+  "press": {
+    "h1": "Prensa",
+    "sub": "Cobertura sobre Michael Meding y Los Azules desde 2022 en medios argentinos, internacionales y alemanes. Los titulares se muestran en su idioma original.",
+    "h_kit": "Kit de prensa",
+    "kit_sub": "Textos e imágenes aprobados por Michael Meding para editores y organizadores de eventos. De uso libre, citando la fuente.",
+    "h_bio_short": "Biografía breve (unas 60 palabras)",
+    "bio_short": "Michael Meding es director general de McEwen Copper y conduce desde febrero de 2022 el proyecto de cobre Los Azules, en San Juan, Argentina. En ese período el proyecto obtuvo su Declaración de Impacto Ambiental, publicó su estudio de factibilidad, se convirtió en el primer proyecto de cobre aprobado en el RIGI y cerró un préstamo a plazo de US$240 millones. Preside GEMERA y fue elegido Empresario Minero del Año en 2024 y 2025.",
+    "h_bio_long": "Biografía extensa (unas 150 palabras)",
+    "bio_long": "Michael Meding es un ejecutivo minero alemán y director general de McEwen Copper. Desde febrero de 2022 conduce Los Azules, un proyecto de cobre en San Juan, Argentina, que según McEwen Copper ocupa el décimo lugar a nivel mundial por recursos minerales totales entre los pórfidos de cobre sin desarrollar. Bajo su conducción el proyecto obtuvo su Declaración de Impacto Ambiental, publicó un estudio de factibilidad, se convirtió en el primer proyecto de cobre aprobado en el RIGI (Régimen de Incentivo para Grandes Inversiones) y cerró en 2026 un préstamo a plazo de US$240 millones. Stellantis y Nuton, de Rio Tinto, ingresaron como accionistas estratégicos. Antes de Los Azules trabajó en finanzas corporativas y mineras en PwC, Novartis, Barrick Gold y Trafigura, en Europa y América Latina. Preside GEMERA, es vicepresidente de CAEM y fue elegido Empresario Minero del Año en 2024 y 2025. Es licenciado (BSc) por la Ruhr-Universität Bochum y tiene sendos MBA de HHL Leipzig y de Indiana University of Pennsylvania.",
+    "h_photos": "Fotografías",
+    "photo_headshot": "Retrato, cuadrado, 423 × 423 px",
+    "photo_stage": "En el escenario, Estocolmo 2025, 1600 × 1066 px",
+    "photo_dc": "Benchmark Giga US, Washington 2026, 1600 × 1066 px",
+    "download": "Descargar",
+    "h_data": "Datos para editores y asistentes de IA",
+    "data_p": "Los mismos datos en formato legible por máquinas, cada uno con su fuente.",
+    "data_llms": "llms.txt: resumen en lenguaje sencillo",
+    "data_facts": "facts.json: datos estructurados en cinco idiomas",
+    "h_video": "Video",
+    "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper",
+    "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots",
+    "h_coverage": "Cobertura",
+    "contact": "Contacto de prensa"
+  },
+  "quotes_reference_do_not_translate": [
+    {
+      "orig_lang": "en",
+      "text": "I’ve learned how to get things done in Argentina. Sometimes it is a matter of persistence, other times it is more about relationships than about formalities.",
+      "source": "Fastmarkets, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Me enamoré de su gente, de sus paisajes, de su cultura, de cómo ha ido creciendo con la minería.",
+      "source": "Tiempo de San Juan, 2023"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Argentina no se va a convertir en Suiza de la noche a la mañana. Para ser exitoso en la Argentina, necesitás un buen equipo acostumbrado a manejar aguas turbulentas.",
+      "source": "Forbes Argentina, 2023"
+    },
+    {
+      "orig_lang": "en",
+      "text": "We believe in the future of Argentina. It’s in a good spot geopolitically and has what the world needs.",
+      "source": "Bloomberg, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Queremos ser un buen vecino y que digan que somos un ejemplo de cómo se debería hacer minería.",
+      "source": "Ámbito, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Cuando uno quiere liderar equipos en Argentina tiene que conectarse personalmente, emocionalmente, con el personal, con los pares, para ser reconocido como un líder que la gente sigue.",
+      "source": "Tiempo de San Juan, 2023"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Hasta diciembre del 2023, todo el mundo decía qué lástima que el proyecto está en Argentina. Hoy la respuesta es la opuesta: qué interesante que está en Argentina.",
+      "source": "Forbes Argentina, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Todos mis geólogos están trabajando hoy tanto con IA como con machine learning para multiplicar sus capacidades de análisis.",
+      "source": "Forbes Argentina, 2026"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Cuando trabajas en minería, te das cuenta que es absolutamente necesario el apoyo de la comunidad donde estás operando.",
+      "source": "elDiarioAR, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Nada funciona sin minería: los zapatos, el celular, el saco, el micro.",
+      "source": "LA NACION, 2026"
+    },
+    {
+      "orig_lang": "en",
+      "text": "Our main challenge isn’t engineering … it’s mobilizing the necessary funding so we can move at the pace we’d like.",
+      "source": "Reuters, 2025"
+    },
+    {
+      "orig_lang": "de",
+      "text": "Es gibt in Argentinien eine große Übereinstimmung zwischen allen großen politischen Kräften. […] Das ist nicht in allen Ländern so.",
+      "source": "ZDFheute, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Es una joya en la montaña. No solo buscaremos minimizar los impactos sino también ver qué podemos hacer para crear más biodiversidad.",
+      "source": "Reuters, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "La confianza se gana en gramos y se pierde en kilos.",
+      "source": "Editorial RN, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Tenemos una oportunidad muy grande de desarrollar cuatro o cinco proyectos de gran escala en los próximos diez años.",
+      "source": "Los Andes, 2026"
+    },
+    {
+      "orig_lang": "es",
+      "text": "San Juan ya juega en la Champions League, pero todavía tiene que creérsela un poco más.",
+      "source": "Canal 13 San Juan, 2025"
+    }
+  ],
+  "quotes_tr": [
+    "Aprendí a sacar las cosas adelante en la Argentina. A veces es cuestión de persistencia; otras, más de relaciones que de formalidades.",
+    "",
+    "",
+    "Creemos en el futuro de la Argentina. Está bien posicionada geopolíticamente y tiene lo que el mundo necesita.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Nuestro principal desafío no es la ingeniería … es movilizar el financiamiento necesario para avanzar al ritmo que nos gustaría.",
+    "En la Argentina hay un gran consenso entre todas las grandes fuerzas políticas. […] Eso no ocurre en todos los países.",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,226 +1,43 @@
 # Michael Meding
 
-> Michael Meding is a German mining executive who has led the Los Azules copper project in San Juan, Argentina, since February 2022. As Managing Director of McEwen Copper he took the project through its environmental permit, its feasibility study and admission to Argentina's RIGI investment regime, the first copper project approved under it. He was named Mining Entrepreneur of the Year in 2024 and 2025 and is president of GEMERA, Argentina's chamber of exploration companies.
+> Michael Meding is a German mining executive who has led the Los Azules copper project in San Juan, Argentina, since February 2022 and is Managing Director of McEwen Copper. Under his leadership the project received its environmental permit, published its feasibility study and became the first copper project approved under Argentina's RIGI investment regime. He was named Mining Entrepreneur of the Year in 2024 and 2025 and is president of GEMERA, Argentina's chamber of exploration companies.
 
-This file summarises verified public facts about Michael Meding, the Los Azules copper project and McEwen Copper, with a source link for each. Reviewed 26 September 2026.
+Notice: meding.dev is the personal website of Michael Meding. It is not issued by McEwen Inc. or McEwen Copper and is not an offer or solicitation to buy or sell securities. Official disclosure: https://www.mcewenmining.com/, SEDAR+ and EDGAR. Feasibility study figures are from the NI 43-101 / S-K 1300 technical reports; targets and upside cases are forward-looking and may not be achieved.
 
-## Michael Meding
+Reviewed 27 September 2026. Full text: https://meding.dev/llms-full.txt. Structured facts with sources: https://meding.dev/facts.json
 
-- Michael Meding leads Los Azules, a copper porphyry in the Andes of Calingasta, San Juan, that ranks among the ten largest undeveloped copper deposits in the world by resource size. He joined McEwen Copper in February 2022. In his first year the team grew from 32 to 142 direct employees, and more than two thirds of all the drilling ever done at Los Azules has been completed on his watch. Since then the project has published an updated preliminary economic assessment and a feasibility study, received its environmental permit for construction and operation, and became the first copper project admitted to Argentina's RIGI. Stellantis and Rio Tinto's Nuton came in as strategic investors, the IFC signed a collaboration agreement, Société Générale was appointed to arrange project debt, and in August 2026 McEwen Copper closed a US$240 million term loan. The final investment decision is targeted for mid-2027 and first commercial cathode for 2030.
-- He was born in Düsseldorf and finished school at the Alfred Krupp Schule in Essen, in the Ruhr, where his grandfather worked underground as a coal miner. He began at PwC, which sent him to Switzerland, where he stayed seven years and joined Novartis through its CFO development programme. The move to Chile opened more than fifteen years in Latin America, with CFO roles at multinational companies in Chile and Argentina. He came to mining in 2010 in finance at Barrick Gold's Argentine operations, where he played a key role in the turnaround and mine life extension of Veladero and the strategic partnership with Shandong Gold. At Trafigura he was CFAO of a polymetallic mining operation. He has worked in eight countries in Europe and in North, Central and South America, and lives between San Juan and Toronto.
-- He is president of GEMERA, the first foreigner in that role, vice president of CAEM for Andes Corporación Minera, and a board member of the Cámara Minera de San Juan. He presided over Argentina Cobre, the country's copper conference, as honorary president in 2025 and as president in 2026. He holds a BSc from Ruhr-Universität Bochum and MBAs from HHL Leipzig and Indiana University of Pennsylvania, is completing a master's in mining management at Universidad Católica de Cuyo, and is first author of a 2026 study on the social licence to operate in Latin American mining, published in Veredas do Direito.
+## Key facts
 
-## Los Azules
+- Role: Managing Director, McEwen Copper; President and General Manager, Andes Corporación Minera; leads the Los Azules copper project (San Juan, Argentina) since February 2022.
+- Los Azules feasibility study (effective 3 September 2025): proven and probable reserves 1,023.1 Mt at 0.453% Cu (10.2 billion lb Cu); 21-year mine life; after-tax NPV8 US$2.9 billion and IRR 19.8% at US$4.35/lb; initial capital US$3.17 billion. Source: https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx
+- Resources exclusive of reserves: measured and indicated 5.4 billion lb Cu; inferred 20.0 billion lb Cu. Categories must not be added together; inferred resources are too speculative to have economic considerations applied.
+- First copper project approved under Argentina's RIGI investment regime (Resolución 1553/2025, published 14 October 2025). Source: https://www.boletinoficial.gob.ar/detalleAviso/primera/332807/20251014
+- US$240 million senior secured term loan closed 27 August 2026. Source: https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Completes-US240-Million-Term-Loan-to-Advance-Los-Azules-Toward-Final-Investment-Decision/default.aspx
+- Honours: Mining Entrepreneur of the Year 2024 and 2025 (Panorama Minero). President of GEMERA since 2024.
 
-- Location: Calingasta, San Juan, Argentina; about 3,500 m above sea level, 6 km east of the Chilean border ([source](https://www.mcewenmining.com/operations/los-azules/default.aspx))
-- Deposit: Andean porphyry copper deposit with a supergene enriched zone ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Reserves: 10.2 billion lb copper (1.02 billion t at 0.45% Cu), proven and probable ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Further resources: 5.4 billion lb measured and indicated, 20.0 billion lb inferred, exclusive of reserves ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Process: Open pit, heap leach and SX-EW; 99.99% LME Grade A copper cathode made at site ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Output: 204,800 t a year in years 1 to 5; 148,200 t a year over a 21-year life ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Capital and returns: Initial capital US$3.17 billion; after-tax NPV8 US$2.9 billion, IRR 19.8%, payback 3.9 years at US$4.35/lb ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Costs: C1 US$1.71/lb; AISC US$2.11/lb ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Water: 74% less than conventional milling; 158 L/s life-of-mine average ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Carbon: 1,082 kg CO2-e per tonne of copper (Scopes 1 and 2) against an industry average of 4,026; carbon-neutral goal by 2038 ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Power: 100% renewable, through a high-voltage line developed and financed by YPF Luz ([source](https://www.ypfluz.com/Noticias/NoticiaCompleta/176))
-- Tailings: No tailings dam ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Environmental permit: Granted December 2024 for construction and operation ([source](https://www.mineriaydesarrollo.com/noticias/2024/12/03/17213-el-proyecto-de-cobre-los-azules-en-san-juan-obtuvo-luz-verde-para-su-explotacion))
-- RIGI: Resolución 1553/2025: US$2,672 million plan; first copper project approved; 61.1% of supplier spend committed to local suppliers ([source](https://www.boletinoficial.gob.ar/detalleAviso/primera/332807/20251014))
-- Rank: Top 10 largest undeveloped copper deposits (Mining Intelligence, 2022); would rank 26th of 423 producers on S&P Global 2024 data ([source](https://www.mining.com/featured-article/ranked-worlds-top-10-copper-mining-projects-2022/), [source](https://www.sec.gov/Archives/edgar/data/314203/000110465924125949/tm2430312d1_ex99-1.htm), [source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Upside: Treating primary sulphides with Nuton or other technology could extend mine life by 30 years or more ([source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx))
-- Next: Final investment decision targeted mid-2027; first commercial cathode 2030 ([source](https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/tm2624401d1_ex99-1.htm))
+## Pages
 
-## McEwen Copper
+- English: [Profile](https://meding.dev/), [Los Azules](https://meding.dev/los-azules/), [Speaking](https://meding.dev/speaking/), [Press and press kit](https://meding.dev/press/)
+- Español: [Profile](https://meding.dev/es/), [Los Azules](https://meding.dev/es/los-azules/), [Speaking](https://meding.dev/es/speaking/), [Press and press kit](https://meding.dev/es/press/)
+- Deutsch: [Profile](https://meding.dev/de/), [Los Azules](https://meding.dev/de/los-azules/), [Speaking](https://meding.dev/de/speaking/), [Press and press kit](https://meding.dev/de/press/)
+- 日本語: [Profile](https://meding.dev/ja/), [Los Azules](https://meding.dev/ja/los-azules/), [Speaking](https://meding.dev/ja/speaking/), [Press and press kit](https://meding.dev/ja/press/)
+- 简体中文: [Profile](https://meding.dev/zh/), [Los Azules](https://meding.dev/zh/los-azules/), [Speaking](https://meding.dev/zh/speaking/), [Press and press kit](https://meding.dev/zh/press/)
 
-- Company: McEwen Copper Inc., an Alberta corporation created in July 2021 to advance Los Azules ([source](https://www.globenewswire.com/news-release/2021/07/06/2258019/37420/en/MUX-Creates-McEwen-Copper-Which-Announces-80-Million-Series-B-Private-Placement-to-Advance-the-Los-Azules-Copper-Project.html))
-- Head office: 150 King Street West, Toronto ([source](https://www.sec.gov/Archives/edgar/data/314203/000155837025006193/mux-20241231xex99d1.htm))
-- Assets: Los Azules (through Andes Corporación Minera S.A.) and the Elder Creek property in Nevada ([source](https://www.sec.gov/Archives/edgar/data/314203/000110465926064573/mux-20251231xex99d1.htm))
-- Shareholders: McEwen Inc. 46.3% · Stellantis 18.2% · Nuton/Rio Tinto 17.2% · Rob McEwen 13.0% · Victor Smorgon Group 3.0% · others 2.3% ([source](https://www.mcewenmining.com/operations/los-azules/default.aspx))
-- Financing to date: US$453 million in private placements; US$240 million term loan (2026); Société Générale as debt advisor; IFC collaboration ([source](https://www.mcewenmining.com/operations/los-azules/default.aspx), [source](https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/tm2624401d1_ex99-1.htm), [source](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Appoints-Societe-Generale-as-Financial-Advisor-for-Project-Debt-Financing-of-Los-Azules/default.aspx), [source](https://www.ifc.org/en/pressroom/2025/ifc-supports-mcewen-copper-on-sustainable-financing-for-los-azules))
-- Plan: About US$4 billion total financing package including capex, working capital and interest; a public listing is being prepared ([source](https://www.fool.com/earnings/call-transcripts/2026/08/13/mcewen-mux-q2-2026-earnings-call-transcript/), [source](https://www.kitco.com/news/off-the-wire/2026-03-18/mcewen-copper-plans-300m-ipo-finance-argentina-project-executive-says))
+## Machine-readable
 
-## Argentina and copper
+- [llms-full.txt](https://meding.dev/llms-full.txt): full English text with sources
+- [facts.json](https://meding.dev/facts.json): structured facts, FAQ in five languages, speaking and press lists
+- [sitemap.xml](https://meding.dev/sitemap.xml)
 
-- Argentina has not produced copper at scale since Bajo de la Alumbrera closed in 2018. ([source](https://www.mining.com/web/vicuna-could-double-investment-in-argentina-copper-project-to-800m-in-2026-executive-says/))
-- A national Mining Secretariat report projects that output could exceed 1.5 million tonnes a year by 2035. ([source](https://www.panorama-minero.com/es/news/cobre-cartera-de-proyectos-en-argentina-podria-superar-1-5-millones-de-toneladas-de-produccion-hacia-2035))
-- RIGI (Law 27,742, 2024) offers a 30-year stability guarantee on its incentives for investments above US$200 million. ([source](https://www.argentina.gob.ar/economia/rigi/que-es))
-- Los Azules was the first copper project approved under the RIGI. ([source](https://www.lanacion.com.ar/economia/negocios/el-gobierno-aprobo-un-nuevo-proyecto-rigi-una-minera-invertira-us2700-millones-en-san-juan-nid26092025/))
-- S&P Global projects copper demand of 42 million tonnes by 2040, a 50% increase from current levels. ([source](https://press.spglobal.com/2026-01-08-Substantial-Shortfall-in-Copper-Supply-Widens-as-the-Race-for-AI-and-Growing-Defense-Spending-Add-to-Accelerating-Demand,-New-S-P-Global-Study-Finds))
-- The IEA expects copper to record the largest volume growth in demand, adding about 7 million tonnes to 2040. ([source](https://www.iea.org/reports/global-critical-minerals-outlook-2026/outlook))
+## Official sources
 
-## Honours
-
-- 2025: Mining Entrepreneur of the Year, Panorama Minero. La Noche de las Distinciones, Argentina: Oro, Plata y Cobre, Buenos Aires, December 2025. (https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html)
-- 2024: Mining Entrepreneur of the Year, Panorama Minero. Chosen by the Panorama Minero committee for combining “a strategic vision with solid technical capability”. Buenos Aires, December 2024. (https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano)
-- 2024: Outstanding Migrant, Dirección Nacional de Migraciones. “Diploma Migrante destacado” from Argentina's National Directorate of Migration, presented on Immigrant's Day at the official act in San Juan on 4 September 2024, for his contribution to the development of Argentina and its cultural plurality. (https://www.linkedin.com/feed/update/urn:li:activity:7237125204592730112/)
-- 2026: RIGI Champion, Argentina Week, AmCham Argentina. Los Azules named one of ten RIGI Champions for large-scale investment in Argentina. Presented in New York by Economy Minister Luis Caputo at the close of Argentina Week; accepted with Rob McEwen. (https://www.diariodecuyo.com.ar/cuyo-minero/los-azules-fue-reconocido-argentina-week-2026-su-compromiso-la-inversion-productiva-n6568044)
-- 2026: Outstanding Mining Company in CSR, Argentina Mining. Premios Argentina Mining, Salta, September 2026. In his words, for the environmental policies, how the team is treated, and the work with the communities of Calingasta and San Juan. (https://www.losandes.com.ar/empresas-y-negocios/argentina-mining-2026-mas-12200-personas-participaron-del-encuentro-que-reunio-al-sector-minero-salta-n6005433)
-- 2026: Commitment to Literacy Seal, Government of San Juan. For supporting the province's literacy plan, Comprendo y Aprendo, from its start. (https://www.panorama-minero.com/es/news/los-azules-recibio-el-sello-compromiso-por-la-alfabetizacion)
-- 2025: Premio INVERTIR, Mining, LIDE Argentina. Received for McEwen Copper at the XIII Fórum Empresarial de Buenos Aires, December 2025. (https://lideargentina.com/lide-argentina-cerro-su-agenda-2025-con-el-xiii-forum-empresarial-y-la-entrega-del-premio-invertir/)
-- 2023: Exploration Company of the Year, Panorama Minero. For the 2022–23 exploration campaign in Calingasta. Buenos Aires, November 2023. (https://www.sanjuan8.com/san-juan/los-azules-recibio-el-premio-mejor-exploradora-minera-del-ano-n1257040)
-
-## Questions and answers
-
-### Who is Michael Meding?
-A German mining executive, Managing Director of McEwen Copper and leader of the Los Azules copper project in San Juan, Argentina, since February 2022. He is president of GEMERA and was named Mining Entrepreneur of the Year in 2024 and 2025. Sources: https://www.mcewenmining.com/about-us/management-team/management-details/default.aspx?ItemId=14f233db-6a66-4b48-b6d6-6ae6426ec645, https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano, https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html
-
-### What is Los Azules?
-A copper porphyry project in the Andes of Calingasta, San Juan, owned by McEwen Copper. Its October 2025 feasibility study plans an open pit, heap leach and SX-EW operation producing 99.99% copper cathode at site, averaging 204,800 tonnes a year in its first five years. Sources: https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx
-
-### Where exactly is Los Azules?
-In the department of Calingasta, San Juan province, at about 3,500 metres, roughly 80 km west-northwest of Calingasta and 6 km east of the Chilean border. Sources: https://www.mcewenmining.com/operations/los-azules/default.aspx
-
-### Who owns McEwen Copper?
-McEwen Inc. 46.3%, Stellantis 18.2%, Nuton (a Rio Tinto venture) 17.2%, Rob McEwen 13.0%, Victor Smorgon Group 3.0% and other shareholders 2.3%. Sources: https://www.mcewenmining.com/operations/los-azules/default.aspx
-
-### When will Los Azules produce copper?
-McEwen Copper expects a final investment decision and full project financing in mid-2027, with commercial copper cathode production in 2030. Sources: https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/tm2624401d1_ex99-1.htm
-
-### Why is the Los Azules design different?
-It makes finished copper cathode at the mine instead of concentrate, with no tailings dam, 100% renewable power, 74% less water than conventional milling and a carbon intensity of 1,082 kg CO2-e per tonne against an industry average of 4,026. Sources: https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx, https://www.ypfluz.com/Noticias/NoticiaCompleta/176
-
-### Is Los Azules approved under Argentina's RIGI?
-Yes. Resolución 1553/2025, published on 14 October 2025, admitted Los Azules with an investment plan of US$2,672 million. It was the first copper project approved under the regime. Sources: https://www.boletinoficial.gob.ar/detalleAviso/primera/332807/20251014, https://www.lanacion.com.ar/economia/negocios/el-gobierno-aprobo-un-nuevo-proyecto-rigi-una-minera-invertira-us2700-millones-en-san-juan-nid26092025/
-
-### How large is Los Azules?
-Proven and probable reserves of 10.2 billion pounds of copper, plus 5.4 billion pounds measured and indicated and 20.0 billion pounds inferred. Mining Intelligence ranked it among the ten largest undeveloped copper deposits in 2022. Sources: https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx, https://www.mining.com/featured-article/ranked-worlds-top-10-copper-mining-projects-2022/
-
-### How is the project being financed?
-McEwen Copper raised US$453 million in private placements, including from Stellantis and Nuton, closed a US$240 million term loan in August 2026, appointed Société Générale as debt advisor and signed a collaboration agreement with the IFC. The total package under discussion is about US$4 billion. Sources: https://www.mcewenmining.com/operations/los-azules/default.aspx, https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/tm2624401d1_ex99-1.htm, https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Appoints-Societe-Generale-as-Financial-Advisor-for-Project-Debt-Financing-of-Los-Azules/default.aspx, https://www.ifc.org/en/pressroom/2025/ifc-supports-mcewen-copper-on-sustainable-financing-for-los-azules, https://www.fool.com/earnings/call-transcripts/2026/08/13/mcewen-mux-q2-2026-earnings-call-transcript/
-
-### What awards has Michael Meding received?
-Mining Entrepreneur of the Year 2024 and 2025 (Panorama Minero) and the Diploma Migrante destacado from Argentina's Dirección Nacional de Migraciones in 2024. Under his leadership Los Azules received Exploration Company of the Year 2023, the LIDE INVERTIR mining award 2025, AmCham's RIGI Champion 2026 and other distinctions. Sources: https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano, https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html, https://www.linkedin.com/feed/update/urn:li:activity:7237125204592730112/, https://www.linkedin.com/feed/update/urn:li:activity:7437921959902023681/
-
-### What is GEMERA?
-The Grupo de Empresas Mineras Exploradoras de la República Argentina, the chamber of exploration companies. Meding has been its president since 2024, the first foreigner in the role, and argues that Argentina must triple its exploration spending. Sources: https://econojournal.com.ar/2024/10/michael-meding-nuevo-presidente-de-gemera-el-rigi-es-significativo-pero-el-desafio-de-la-mineria-es-el-desarrollo-de-infraestructura/, https://www.handelsblatt.com/politik/international/global-risk-das-erwartet-investoren-in-mileis-argentinien-01/100092576.html, https://www.ambito.com/energia/gemera-advirtio-que-argentina-desconoce-el-80-sus-recursos-mineros-y-reclamo-triplicar-la-inversion-exploracion-n6276735
-
-### Where is Michael Meding based?
-Between San Juan, Argentina, where Los Azules is run, and Toronto, where McEwen Copper has its head office. Sources: https://www.sec.gov/Archives/edgar/data/314203/000155837025006193/mux-20241231xex99d1.htm
-
-### Why does Argentina matter for copper?
-Argentina has not produced copper at scale since 2018, yet its project pipeline could exceed 1.5 million tonnes a year by 2035 while global demand is projected to reach 42 million tonnes by 2040. Sources: https://www.mining.com/web/vicuna-could-double-investment-in-argentina-copper-project-to-800m-in-2026-executive-says/, https://www.panorama-minero.com/es/news/cobre-cartera-de-proyectos-en-argentina-podria-superar-1-5-millones-de-toneladas-de-produccion-hacia-2035, https://press.spglobal.com/2026-01-08-Substantial-Shortfall-in-Copper-Supply-Widens-as-the-Race-for-AI-and-Growing-Defense-Spending-Add-to-Accelerating-Demand,-New-S-P-Global-Study-Finds
-
-## Press coverage
-
-- 2026-09-03 · Forbes Argentina: [Con el uso de IA, Los Azules espera descubrir nuevos recursos y aumentar la vida útil del proyecto](https://www.forbesargentina.com/summit/con-uso-ia-azules-espera-descubrir-nuevos-recursos-aumentar-vida-util-proyecto-n97156)
-- 2026-08-18 · Bloomberg: [McEwen Copper in talks with Rio Tinto as it seeks $4 billion financing](https://www.mining.com/web/mcewen-copper-in-talks-with-rio-tinto-as-it-seeks-4-billion-financing/)
-- 2026-08-05 · LA NACION: [Michael Meding: “La Argentina podría estar entre los cinco mayores productores de cobre del mundo”](https://www.lanacion.com.ar/economia/negocios/michael-meding-la-argentina-podria-estar-entre-los-cinco-mayores-productores-de-cobre-del-mundo-nid05082026/)
-- 2026-07-07 · Forbes Argentina: [Sale a la bolsa el primer proyecto de cobre argentino: cómo se podrá invertir y cuánto esperan recaudar](https://www.forbesargentina.com/negocios/sale-bolsa-primer-proyecto-cobre-argentino-como-podra-invertir-cuanto-esperan-recaudar-n93495)
-- 2026-06-11 · Benchmark Source: [Los Azules Copper Project](https://source.benchmarkminerals.com/video/watch/los-azules-copper-project)
-- 2026-05-12 · Reuters: [Cobre y cerveza: ejecutivo minero alemán abre fábrica en Argentina para saciar su sed](https://gbm.com/media/noticia/cobre-y-cerveza-ejecutivo-minero-aleman-abre-en-fabrica-en-argentina-para-saciar-su-sed)
-- 2026-05-12 · Bloomberg Línea: [Exclusiva: las vías de financiamiento que evalúa McEwen para el desarrollo del cobre en Argentina](https://www.bloomberglinea.com/latinoamerica/argentina/exclusiva-las-vias-de-financiamiento-que-evalua-mcewen-para-el-desarrollo-del-cobre-en-argentina/)
-- 2026-05-11 · El Cronista: [Los Azules acelera: salida a la bolsa, el sí de un fondo del exterior y ventas internas](https://www.cronista.com/negocios/el-plan-del-proyecto-de-cobre-mas-avanzado-para-empujar-la-mineria-la-marea-alta-sube-todos-los-barcos/)
-- 2026-05-11 · MDZ: [Los Azules acelera hacia 2027: los detalles del plan de inversión de US$ 4.000 millones](https://www.mdzol.com/dinero/los-azules-acelera-2027-los-detalles-del-plan-inversion-us-4000-millones-n1517848)
-- 2026-05-06 · EconoJournal: [Los Azules acelera su financiamiento y apuesta a una 'marea alta' para destrabar inversiones en San Juan](https://econojournal.com.ar/2026/05/los-azules-acelera-su-financiamiento-y-apuesta-a-una-marea-alta-para-destrabar-inversiones-en-san-juan/)
-- 2026-04-15 · Reporte Minero (Chile): [Los Azules apunta a iniciar construcción a fines de 2026 y refuerza atractivo del cobre argentino](https://www.reporteminero.cl/noticia/noticias/2026/04/los-azules-busca-iniciar-construccion-2026-proyecto-cobre-san-juan)
-- 2026-04-14 · Los Andes: [Los Andes en Chile: Para Los Azules, Argentina puede convertirse en un polo clave de cobre a nivel global](https://www.losandes.com.ar/economia/los-andes-chile-los-azules-argentina-puede-convertirse-un-polo-clave-cobre-nivel-global-n5987609)
-- 2026-04-07 · MINING.COM: [McEwen Copper seeks $4B to advance Los Azules](https://www.mining.com/mcewen-copper-seeks-4b-to-advance-los-azules/)
-- 2026-03-18 · Reuters: [McEwen Copper plans $300M IPO to finance Argentina project, executive says](https://www.kitco.com/news/off-the-wire/2026-03-18/mcewen-copper-plans-300m-ipo-finance-argentina-project-executive-says)
-- 2026-03-02 · Forbes Argentina: [Michael Meding: “El interés por la inversión en minerales es enorme y Argentina tiene una velocidad de desarrollo envidiable”](https://www.forbesargentina.com/negocios/michael-meding-el-interes-inversion-minerales-enorme-argentina-tiene-una-velocidad-desarrollo-envidiable-n87079)
-- 2026-03-02 · EconoJournal: [PDAC 2026. Mike Meding, CEO de Los Azules: “Cuando uno recomienda la construcción de la mina tiene que tener los fondos y en eso estamos trabajando”](https://econojournal.com.ar/mineria/mike-meding-ceo-de-los-azules/)
-- 2026-03-01 · Diario de Cuyo: [DIARIO DE CUYO en Canadá: Los Azules busca un socio estratégico para iniciar su construcción en 2027](https://www.diariodecuyo.com.ar/cuyo-minero/diario-cuyo-canada-los-azules-busca-un-socio-estrategico-iniciar-su-construccion-2027-n6567107)
-- 2025-12-26 · Panorama Minero: [Los Azules: Large-scale construction expected to begin in 2027](https://www.panorama-minero.com/en/news/los-azules-large-scale-construction-expected-to-begin-in-2027)
-- 2025-12-07 · elDiarioAR: [Michael Meding, CEO de la mina de cobre Los Azules: “Hay que ver la contribución de cada glaciar al sistema hídrico”](https://www.eldiarioar.com/economia/michael-meding-ceo-mina-cobre-azules-hay-ver-contribucion-glaciar-sistema-hidrico_1_12825924.html)
-- 2025-12-04 · Diario de Cuyo: [El vicepresidente de McEwen Copper, Michael Meding, fue elegido como “Empresario Minero del Año 2025”](https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html)
-- 2025-11-11 · The Wall Street Journal: [Milei Wants to Turn Argentina Into a Mining Powerhouse](https://nationalsecurity.arizona.edu/news/milei-wants-turn-argentina-mining-powerhouse)
-- 2025-11-04 · Forbes Argentina: [Un RIGI para la exploración, el pedido del CEO de Los Azules para tener una segunda ola de proyectos mineros](https://es-us.noticias.yahoo.com/rigi-exploraci%C3%B3n-pedido-ceo-azules-102800825.html)
-- 2025-10-08 · Bloomberg: [McEwen sees copper investors resisting latest Argentina woes](https://www.mining.com/web/mcewen-sees-copper-investors-resisting-latest-argentina-woes/)
-- 2025-10-08 · Mining Weekly: [Los Azules feasibility study a blueprint for future copper mining, says McEwen](https://www.miningweekly.com/article/los-azules-feasibility-study-a-blueprint-for-future-copper-mining-says-mcewen-2025-10-08)
-- 2025-10-08 · El Economista: [Por qué esta mina en San Juan promete cambiar la minería en América Latina](https://eleconomista.com.ar/energia/por-esta-mina-san-juan-promete-cambiar-mineria-america-latina-n89414)
-- 2025-08-12 · ARIVA.DE: [Kupfer-Goldrausch in den Anden: Das Megaprojekt, das Argentinien verändern könnte](https://www.ariva.de/aktien/barrick-mining-corp-aktie/news/kupfer-goldrausch-in-den-anden-das-megaprojekt-das-11722174)
-- 2025-08-06 · Forbes Argentina: [Los Azules ya tiene ofertas de financiamiento y busca ser el primer proyecto RIGI de cobre en aprobarse](https://es-us.noticias.yahoo.com/azules-ofertas-financiamiento-busca-ser-103300716.html)
-- 2025-08-04 · Reuters: [McEwen Mining to complete Argentina mine feasibility study in two months](https://www.mining.com/web/mcewen-mining-to-complete-argentina-mine-feasibility-study-in-two-months/)
-- 2025-08-04 · Ámbito: [Michael Meding consiguió interés de u$s1.000 millones para Los Azules y va por más financiamiento](https://www.ambito.com/energia/michael-meding-consiguio-interes-us1000-millones-los-azules-y-va-mas-financiamiento-n6173747)
-- 2025-06-07 · ZDFheute: [Rohstoff-Hype in Argentinien: Umweltschützer kritisieren Bergbau](https://www.zdfheute.de/politik/ausland/argentinien-wirtschaft-bergbau-rohstoffe-gold-100.html)
-- 2025-06-03 · Fastmarkets: [Goldcorp founder Rob McEwen bets big on Argentine copper](https://www.fastmarkets.com/insights/goldcorp-founder-rob-mcewen-bets-big-on-argentine-copper/)
-- 2025-05-20 · Forbes Argentina: [Los Azules: el megaproyecto que busca posicionar a la Argentina como potencia de cobre](https://www.forbesargentina.com/summit/los-azules-megaproyecto-busca-posicionar-argentina-como-potencia-cobre-n72539)
-- 2025-05-20 · Infobae / EFE: [Canadiense McEwen prevé invertir 3.000 millones de dólares en mina de cobre en Argentina](https://www.infobae.com/america/agencias/2025/05/20/canadiense-mcewen-preve-invertir-3000-millones-de-dolares-en-mina-de-cobre-en-argentina/)
-- 2025-04-21 · Canal 13 San Juan: [Michael Meding: “Somos una provincia que el mundo está mirando”](https://www.canal13sanjuan.com/san-juan/michael-meding---somos-una-provincia-que-el-mundo-esta-mirando-_a68062a09a559725e1a232a50)
-- 2025-04-21 · Futuro Sustentable: [Michael Meding: “Sin un ambiente propicio, no hay inversiones mineras posibles”](https://futurosustentable.com.ar/michael-meding-sin-un-ambiente-propicio-no-hay-inversiones-mineras-posibles/)
-- 2024-12-18 · LA NACION: [Así será la primera mina de “cobre verde” de la Argentina](https://www.lanacion.com.ar/economia/negocios/asi-sera-la-primera-mina-de-cobre-verde-de-la-argentina-nid18122024/)
-- 2024-12-10 · Handelsblatt: [Global Risk: Das erwartet Investoren in Mileis Argentinien](https://www.handelsblatt.com/politik/international/global-risk-das-erwartet-investoren-in-mileis-argentinien-01/100092576.html)
-- 2024-12-10 · Reporte Minero (Chile): [Argentina: Michael Meding, Gerente General de Los Azules, fue elegido empresario minero del año](https://www.reporteminero.cl/noticia/noticias/2024/12/michael-meding-empresario-minero-ano)
-- 2024-12-05 · Forbes Argentina: [Cómo sigue el mega proyecto de cobre sanjuanino luego de conseguir la aprobación ambiental](https://www.forbesargentina.com/money/como-sigue-mega-proyecto-cobre-sanjuanino-luego-conseguir-aprobacion-ambiental-n63883)
-- 2024-11-24 · Infobae: [El metal rojo, en modo verde: uno de los proyectos de cobre de la Argentina, en proceso de adhesión al RIGI](https://www.infobae.com/economia/2024/11/24/el-metal-rojo-en-modo-verde-uno-de-los-proyectos-de-cobre-de-la-argentina-en-proceso-de-adhesion-al-rigi/)
-- 2024-10-07 · EconoJournal: [Michael Meding, nuevo presidente de Gemera: “El RIGI es significativo, pero el desafío de la minería es el desarrollo de infraestructura”](https://econojournal.com.ar/2024/10/michael-meding-nuevo-presidente-de-gemera-el-rigi-es-significativo-pero-el-desafio-de-la-mineria-es-el-desarrollo-de-infraestructura/)
-- 2024-09-24 · Editorial RN: [Los Azules, el cobre verde y el RIGI. Entrevista a Michael Meding](https://editorialrn.com.ar/los-azules-el-cobre-verde-y-el-rigi-entrevista-a-michael-meding-vp-de-mcewen-copper-y-gerente-general-del-proyecto-los-azules/)
-- 2024-06-25 · Dialogue Earth: [Argentina's copper mining revival sparks environmental tensions](https://dialogue.earth/en/energy/argentinas-copper-mining-revival-sparks-environmental-tensions/)
-- 2024-06-05 · Investing News Network: [McEwen, Meding: Gold Sector Poised to Move, Copper Crunch Keeps Building](https://investingnews.com/rob-mcewen-michael-meding-gold-forecast/)
-- 2024-05-23 · Bloomberg: [Copper frenzy draws mining giants to Argentina after Milei's reforms](https://www.batimes.com.ar/news/economy/copper-frenzy-draws-mining-giants-to-argentina-after-mileis-reforms.phtml)
-- 2024-01-31 · Bloomberg (Mining Weekly): [Rob McEwen seeks $100m for Argentina copper mine as Milei boosts prospects](https://www.miningweekly.com/article/rob-mcewen-seeks-100m-for-argentina-copper-mine-as-milei-boosts-prospects-2024-01-31)
-- 2023-12-15 · Forbes Argentina: [La industria minera en alerta por la suba de retenciones: “así ningún proyecto es viable”](https://www.forbesargentina.com/money/la-industria-minera-alerta-suba-retenciones-asi-ningun-proyecto-viable-n45136)
-- 2023-05-07 · Tiempo de San Juan: [Cómo piensa, qué hace y los secretos del gerente de Los Azules, la mina de cobre que esperanza a San Juan](https://www.tiempodesanjuan.com/economia/como-piensa-que-hace-y-los-secretos-del-gerente-los-azules-la-mina-cobre-que-esperanza-san-juan-n349156)
-- 2023-03-07 · Investing News Network: [McEwen, Meding: Copper Outlook Strong, Carmaker Stellantis Taking Note](https://investingnews.com/rob-mcewen-michael-meding-copper-forecast/)
-- 2023-02-28 · Bloomberg: [Carmaker, Rio Tinto investments give McEwen Copper more time to go public](https://www.bnnbloomberg.ca/carmaker-rio-tinto-investments-give-mcewen-copper-more-time-to-go-public-1.1889212)
-- 2023-02-03 · CLUBminero: [Podcast con Michael Meding (McEwen Copper): Los Azules Top10 del cobre verde y su amor por San Juan](https://clubminero.com/contenido/2993/podcast-con-michael-meding-los-azules-top10-del-cobre-verde-y-su-amor-por-san-ju)
-- 2023-01-07 · El Cronista (Apertura): [La nueva era del cobre en Argentina: los 8 proyectos en los que se invertirán u$s 22.000 millones](https://www.cronista.com/apertura/empresas/la-nueva-era-del-cobre-en-argentina-los-8-proyectos-en-los-que-se-invertiran-us-22000-millones/)
-- 2022-12-07 · Bloomberg: [McEwen Mining Lines Up Copper IPO as Argentina Project Advances](https://www.bnnbloomberg.ca/mcewen-mining-lines-up-copper-ipo-as-argentina-project-advances-1.1856236)
-- 2022-11-09 · MDZ: [En menos de seis meses el proyecto minero Los Azules aumenta más del 50% su personal](https://www.mdzol.com/dinero/2022/11/9/en-menos-de-seis-meses-el-proyecto-minero-los-azules-aumenta-mas-del-50-su-personal-289850.html)
-- 2022-05-12 · Cámara Minera de San Juan: [Los Azules va tomando cuerpo](https://camaraminerasj.com.ar/los-azules-va-tomando-cuerpo/)
-
-## Speaking, 2022–2026
-
-- 2026 Oct 28–30 · Buenos Aires · Mendoza · 5th Argentina Critical Minerals Summit: Confirmed speaker (upcoming)
-- 2026 Sep 23 · Beaver Creek · Precious Metals Summit: Interview with the Investing News Network
-- 2026 Sep · Buenos Aires · X Foro PYMES Italia–América Latina: “Minerales críticos y desarrollo federal”, with the governors of San Juan, Jujuy and Catamarca
-- 2026 Sep · Argentina · Forbes Mining Summit: “En Foco”, on stage with Fernando Heredia
-- 2026  · Santiago de Chile · Argentine Embassy in Chile: “Perspectivas de la Minería en la Región”, with the mining authorities of both countries
-- 2026 Aug · Buenos Aires · LA NACION, Minería: In conversation with José Del Rio
-- 2026  · Buenos Aires · S&P Global, Argentina Market Briefing: High-level dialogue on copper demand
-- 2026 Jun 9 · Washington, DC · Benchmark Giga US 26: Copper keynote: McEwen Copper
-- 2026 Jun 4 · Toronto · McEwen Annual Meeting: Bullpen Q&A, moderated by The Northern Miner
-- 2026 May 6–8 · San Juan · Expo San Juan Minera · Argentina Cobre Sessions: President of the sessions; keynote; conversation with Santiago Spaltro
-- 2026 Apr · Santiago de Chile · CESCO Week: Mining districts and new geological attractiveness
-- 2026 Apr 7 · Buenos Aires (virtual) · Atlantic Council: Harnessing Argentina's mining sector
-- 2026 Mar · Buenos Aires · IEFA LatAm Forum: Copper panel with Ontario's economic development minister
-- 2026 Mar 1 · Toronto · PDAC · Argentina Mining Day: Los Azules presentation; GEMERA exploration outlook
-- 2025 Dec · Buenos Aires · Argentina: Oro, Plata y Cobre: The state of exploration in Argentine mining
-- 2025 Nov 12 · Buenos Aires · 4th LATAM & Argentina Critical Minerals Summit: Los Azules presentation
-- 2025 Oct 31 · Mendoza · Argentina Mining Cuyo: Exploration panel, as president of GEMERA
-- 2025 Oct · London · Benchmark Mineral Intelligence · LME Week: Los Azules presentation with Rob McEwen
-- 2025 Oct · London · LME Metals Seminar: Los Azules presentation
-- 2025 Oct · Stockholm · Nordic Funds & Mines: Presentation with Rob McEwen
-- 2025 Oct 1 · Cologne · 76. Lateinamerika-Tag: Smart Mining, Smart Partnerships: German solutions for the next mining era in the Andes
-- 2025 Sep · Argentina · Ámbito Debate: “La nueva era del cobre” panel
-- 2025 Sep · Beaver Creek · Precious Metals Summit: Investor presentations with Rob McEwen
-- 2025 Aug · Mendoza · UN Global Compact Argentina, Federal Tour: Panel on sustainable business leadership
-- 2025 Aug 4–5 · San Juan · Argentina Cobre 2025: Honorary President; opening session with five governors
-- 2025 Jul · Boca Raton · Rule Symposium: Los Azules presentation with Rob McEwen
-- 2025 May 20 · Buenos Aires · ArMinera · IDEA and CAEM: Technology, innovation and talent as drivers of mining competitiveness
-- 2025 May · Argentina · Forbes Mining Summit: Copper, time for take-off
-- 2025 Apr 8 · Munich · bauma: Los Azules: Smart Mining & Green Copper in Argentina's New Era
-- 2025 Mar 2 · Toronto · PDAC · Argentina Mining: Los Azules presentation
-- 2024 Dec 10–11 · Brussels · EU Raw Materials Week: Key speaker; bilateral meetings with EIB, IDB and KfW IPEX
-- 2024 Dec 4–5 · Buenos Aires · Argentina: Oro, Plata y Cobre: Panel on 2024 and what comes next; exploration indicators as president of GEMERA
-- 2024 Nov · Argentina · Ámbito Debate · Cita de CEOs: CEO panel
-- 2024 Nov · Zurich · Precious Metals Summit: Investor presentations with Rob McEwen
-- 2024 Nov · Hamburg · 75. Lateinamerika-Tag: Los Azules presentation; roundtable on critical-mineral supply chains
-- 2024 Oct 29 · Buenos Aires · Argentine Investment Forum: Panel “Infrastructure for Growth: Energy, Logistics & Mining”
-- 2024 Oct · San Juan · Fundación Pensar, regional meeting: Mining panel with governors of San Juan, Mendoza and Jujuy in the audience
-- 2024 Oct 9 · New York · Benchmark World Tour, hosted by Bloomberg Intelligence: Panel “Mining the Energy Transition”; Los Azules presentation
-- 2024 Oct · Toronto · RBC Copper Developer Summit: With Rob McEwen
-- 2024 Sep 10 · Beaver Creek · Precious Metals Summit: Thirty investor presentations with Rob McEwen
-- 2024 Sep 9 · New York · H.C. Wainwright Global Investment Conference: Investor presentation
-- 2024 Sep 4 · New York · Jefferies Global Metals & Mining Conference: Investor presentation
-- 2024 Aug · Argentina · Forbes Minería Summit: On stage with Fernando Heredia
-- 2024 Jul 3 · Argentina · CAI and the Argentine Investment Agency: “Grandes proyectos de inversión que transforman la Argentina”
-- 2024 May · San Juan · Argentina Cobre, first edition: Co-chaired the International Copper Conference with Canada's ambassador; private-sector panel
-- 2024 Mar 3 · Toronto · PDAC · Argentine Day: McEwen Copper presentation
-- 2024 Jan · Berlin · Unlocking Synergies, Argentina–Germany: Private-sector speaker at the Embassy of Argentina
-- 2023 Nov 14 · Zurich · Precious Metals Summit: Investor presentations with Rob McEwen
-- 2023 Sep · Argentina · IADEM: Energy transition and sustainability
-- 2023 Sep 12–15 · Beaver Creek · Precious Metals Summit: Investor presentations with Rob McEwen
-- 2023 May 23 · Buenos Aires · ArMinera: Los Azules presentation
-- 2023 Mar 7 · Toronto · PDAC · Argentina Mining: “Los Azules, Portal for Copper Development in San Juan”, with Rob McEwen
-- 2022 Dec 15–16 · Argentina · Argentina: Oro, Plata y Cobre: Panel on sustainability and communication with society; Los Azules presentation
-- 2022 Oct · San Juan · Expo San Juan Minera: San Juan Tierra Minera seminar: progress at Los Azules
-- 2022 Sep 13–16 · Beaver Creek · Precious Metals Summit: More than 25 investor presentations with Rob McEwen
-- 2022 Jul 7 · Virtual · McEwen Mining Annual Meeting: Los Azules presentation
-- 2022 Jun 22 · London · Hannam & Partners, Future Copper Giants: McEwen Copper and Los Azules
-- 2022 Jun · Canada · MSTA Canada: McEwen Copper and Los Azules
+- [McEwen Inc., Los Azules](https://www.mcewenmining.com/operations/los-azules/default.aspx)
+- [Feasibility study announcement](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx)
+- [S-K 1300 technical report summary](https://www.sec.gov/Archives/edgar/data/314203/000110465926028705/mux-20251231xex96.htm)
+- [Term loan announcement](https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Completes-US240-Million-Term-Loan-to-Advance-Los-Azules-Toward-Final-Investment-Decision/default.aspx)
 
 ## Contact
 
-- Email: michael@meding.dev
-- LinkedIn: https://www.linkedin.com/in/michaelmeding
-- X: https://x.com/mmeding
+- michael@meding.dev
+- https://www.linkedin.com/in/michaelmeding
+- https://x.com/mmeding

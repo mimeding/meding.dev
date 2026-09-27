@@ -1,0 +1,1073 @@
+{
+  "_lang": "zh",
+  "meta": {
+    "lang_name": "简体中文",
+    "og_locale": "zh_CN",
+    "home_title": "迈克尔·梅丁 Michael Meding｜麦克尤恩铜业董事总经理·Los Azules",
+    "home_desc": "迈克尔·梅丁（Michael Meding），德国矿业高管，领导阿根廷圣胡安省Los Azules铜矿项目，2024年、2025年两度获评年度矿业企业家。",
+    "la_title": "Los Azules铜矿项目（阿根廷圣胡安）：概况、储量与融资",
+    "la_desc": "Los Azules铜矿：证实及概略储量102亿磅铜，现场产出阴极铜，阿根廷首个纳入RIGI的铜矿项目，2026年获2.4亿美元定期贷款。",
+    "speaking_title": "迈克尔·梅丁 Michael Meding｜演讲活动 2022–2026",
+    "speaking_desc": "迈克尔·梅丁自2022年起在三大洲57场会议上发言，主题涵盖Los Azules、铜及阿根廷矿业。",
+    "press_title": "迈克尔·梅丁 Michael Meding｜媒体报道与新闻资料",
+    "press_desc": "2022年以来有关迈克尔·梅丁和Los Azules的媒体报道，附供记者使用的审定简介、照片和结构化事实。",
+    "notfound_title": "页面未找到 · 迈克尔·梅丁 Michael Meding"
+  },
+  "ui": {
+    "skip": "跳至正文",
+    "nav_home": "简介",
+    "nav_la": "Los Azules",
+    "nav_speaking": "演讲",
+    "nav_press": "媒体",
+    "lang_label": "语言",
+    "contents": "目录",
+    "refs": "参考资料",
+    "reviewed": "审核日期",
+    "footer_note": "本网站每一项陈述均链接至其公开来源：公司监管文件及新闻稿、媒体报道或他本人公开发布的帖文。",
+    "footer_disclaimer": "个人网站，不构成证券要约，亦不构成投资建议。公司官方信息请参阅mcewenmining.com及公司向SEC和SEDAR+提交的文件。",
+    "source": "来源",
+    "upcoming": "即将举行",
+    "target": "目标",
+    "all": "全部",
+    "copy": "复制",
+    "copied": "已复制",
+    "selected": "精选",
+    "open_la": "项目概况、储量与融资",
+    "open_speaking": "全部活动列表",
+    "open_press": "全部报道及新闻资料",
+    "th_year": "年份",
+    "th_date": "日期",
+    "th_city": "城市",
+    "th_event": "活动",
+    "th_role": "角色",
+    "th_distinction": "荣誉",
+    "th_by": "授予方",
+    "th_to": "授予对象",
+    "to_personal": "个人",
+    "to_la": "Los Azules",
+    "th_category": "类别",
+    "th_tonnes": "矿石量（百万吨）",
+    "th_grade": "铜品位（% Cu）",
+    "th_contained": "铜金属量",
+    "th_amount": "金额",
+    "th_lender": "贷款方",
+    "cat_ar": "阿根廷",
+    "cat_intl": "国际",
+    "cat_de": "德国",
+    "cat_video": "视频",
+    "orig_lang_note": "原文",
+    "translation_note": "译文",
+    "lang_tag_en": "EN",
+    "lang_tag_es": "ES",
+    "lang_tag_de": "DE",
+    "notfound_h1": "页面未找到",
+    "notfound_p": "该地址不存在。个人简介、Los Azules项目、演讲和媒体页面的链接见下方。",
+    "stat_b_lb": "十亿磅",
+    "stat_b": "十亿",
+    "stat_m": "百万",
+    "stat_st": ""
+  },
+  "home": {
+    "kicker": "矿业高管 · 铜 · 阿根廷",
+    "roles": "麦克尤恩铜业（McEwen Copper）董事总经理 · Andes Corporación Minera（Los Azules）总裁兼总经理 · GEMERA会长",
+    "lede": "迈克尔·梅丁（Michael Meding）是德国矿业高管，自2022年2月起领导位于阿根廷圣胡安省（San Juan）的洛斯阿苏莱斯（Los Azules）铜矿项目，并担任麦克尤恩铜业（McEwen Copper）董事总经理。在他的领导下，项目取得环境许可，发布可行性研究，并成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目。他于2024年和2025年两度获评“年度矿业企业家”，现任阿根廷矿业勘探企业商会GEMERA会长。[[r:join,mux-bio,eia,fs,rigi-ln,fm-2024,fm-2025,gemera-ej]]",
+    "diagram_caption": "事实关系图",
+    "diagram_alt": "关系图。迈克尔·梅丁领导Los Azules项目，并担任麦克尤恩铜业董事总经理，Los Azules由麦克尤恩铜业持有。Stellantis和Nuton（力拓）为股东；国际金融公司（IFC）签署了合作协议。Los Azules已获RIGI批准。他担任GEMERA会长、Argentina Cobre大会主席和CAEM副会长。Panorama Minero两度评选他为年度矿业企业家。",
+    "diagram": {
+      "leads": "2022年起领导",
+      "md": "董事总经理",
+      "owns": "持有",
+      "approved": "2025年获批",
+      "president": "会长",
+      "vp": "副会长",
+      "president26": "2026年主席",
+      "eoy": "年度企业家 ×2",
+      "shareholder": "股东",
+      "collab": "合作",
+      "calingasta": "卡林加斯塔",
+      "sanjuan": "圣胡安"
+    },
+    "stat_reserves": "证实及概略储量所含铜金属量",
+    "stat_npv": "税后净现值（NPV8），2025年可行性研究",
+    "stat_loan": "2026年8月完成定期贷款",
+    "stat_rigi": "首个获RIGI批准的铜矿项目",
+    "stat_cathode": "首批商业阴极铜目标年份",
+    "h_overview": "概述",
+    "overview": [
+      "梅丁领导的洛斯阿苏莱斯（Los Azules）是一座位于圣胡安省卡林加斯塔（Calingasta）安第斯山区的斑岩型铜矿。据麦克尤恩铜业（McEwen Copper）披露，按矿产资源总量计，该项目在全球未开发斑岩型铜矿床中位列第十。他于2022年2月加入麦克尤恩铜业领导该项目，先任副总裁兼总经理，自2026年起任董事总经理。上任第一年，团队直接雇员由32人增至142人；在可行性研究之前的三个钻探季中，团队完成钻探进尺逾12万米。此后，项目先后发布更新版初步经济评估和可行性研究，取得建设及运营环境许可，并成为首个纳入阿根廷大型投资激励制度（RIGI）的铜矿项目。Stellantis集团和力拓（Rio Tinto）旗下的Nuton作为战略投资者入股，国际金融公司（IFC）签署合作协议，法国兴业银行（Société Générale）受聘担任项目债务融资财务顾问；2026年8月，麦克尤恩铜业完成2.4亿美元定期贷款。项目预计于2027年年中作出最终投资决定，目标于2030年产出首批商业阴极铜。[[r:fs,join,li-team,eia,rigi-ln,stellantis,nuton35,ifc,sg,loan-pr]]",
+      "他出生于杜塞尔多夫，在鲁尔区埃森市的Alfred Krupp Schule完成中学学业，他的祖父曾是当地的井下煤矿工人。他的职业生涯始于普华永道（PwC），被派往瑞士后在当地工作七年，其间通过首席财务官培养计划加入诺华（Novartis）。转赴智利后，他开启了在拉丁美洲逾十五年的职业经历，先后在智利和阿根廷的跨国公司担任首席财务官。2010年，他进入矿业，在巴里克黄金（Barrick Gold）阿根廷业务从事财务工作，在贝拉德罗（Veladero）金矿扭转颓势、延长矿山服务年限以及与山东黄金（Shandong Gold）建立战略合作的过程中发挥了关键作用。在托克（Trafigura），他担任一座多金属矿山的首席财务与行政官（CFAO）。他曾在欧洲以及北美、中美和南美的八个国家工作，现往返于圣胡安和多伦多两地。[[r:li-abitur,li-ruhr,tsj2023,mp2014,mux-bio]]",
+      "他是GEMERA首位外籍会长，代表Andes Corporación Minera出任阿根廷矿业企业家商会（CAEM）副会长，并担任Cámara Minera de San Juan（圣胡安矿业商会）理事。他于2025年担任阿根廷全国铜业大会Argentina Cobre名誉主席，2026年出任大会主席。他拥有Ruhr-Universität Bochum（波鸿鲁尔大学）理学学士学位，以及HHL Leipzig（莱比锡管理研究生院）和Indiana University of Pennsylvania（宾夕法尼亚印第安纳大学）的MBA学位，目前正在Universidad Católica de Cuyo（库约天主教大学）攻读矿业管理硕士学位。2026年，他以第一作者身份在《Veredas do Direito》发表一项关于拉丁美洲矿业社会经营许可的研究。[[r:gemera-ej,handelsblatt,cmsj,li-cobre25,la-cobre26,veredas]]"
+    ],
+    "h_latest": "最新动态：2.4亿美元定期贷款",
+    "latest": "2026年8月27日，麦克尤恩铜业（McEwen Copper）完成2.4亿美元优先有担保定期贷款。所得资金将用于Los Azules的工程设计和早期工程，为计划于2027年年中作出的最终投资决定做准备。[[r:loan-pr]]",
+    "latest_quote_attr": "麦克尤恩铜业董事总经理迈克尔·梅丁，引自公司公告",
+    "latest_more": "贷款条款、贷款方及完整融资记录",
+    "h_caps": "业绩记录",
+    "caps_sub": "每一项均链接至相应的公开来源。",
+    "caps": [
+      {
+        "t": "为绿地矿山筹集资本",
+        "c": "一个未开发铜矿项目迎来战略投资者，与国际金融公司（IFC）签署合作协议，聘请项目债务融资顾问，并获得2.4亿美元定期贷款。",
+        "e": [
+          "“梅丁加盟后，公司募资4.53亿美元”，引入了Stellantis和力拓的投资。[[r:fastmarkets]]",
+          "力拓旗下企业Nuton累计投资1亿美元；Stellantis成为战略股东。[[r:li-champ]]",
+          "2025年9月，与国际金融公司（IFC）签署合作协议。[[r:ifc]]",
+          "2026年5月，法国兴业银行（Société Générale）受聘担任项目债务融资财务顾问。[[r:sg]]",
+          "2026年8月，完成2.4亿美元优先有担保定期贷款。[[r:loan-pr]]"
+        ]
+      },
+      {
+        "t": "许可审批与公共政策",
+        "c": "Los Azules取得环境许可，并成为首个纳入RIGI的铜矿项目。",
+        "e": [
+          "2024年12月取得建设及运营环境许可；省级技术评估用时不到一年。[[r:dia-md]]",
+          "Resolución 1553/2025批准Los Azules纳入RIGI，投资计划金额为26.72亿美元。[[r:rigi-bo]]",
+          "LA NACION：该制度下获批的首个铜矿项目。[[r:rigi-ln]]",
+          "用他自己的话说：“RIGI申请由我们设计并执行。”[[r:li-champ]]"
+        ]
+      },
+      {
+        "t": "从资源到可行性研究",
+        "c": "完成更新版初步经济评估和可行性研究，并推动项目进入详细工程设计阶段。",
+        "e": [
+          "2025年10月可行性研究：税后净现值（NPV8）29亿美元，内部收益率19.8%。[[r:fs]]",
+          "可行性研究钻探于2023/24勘探季完成，进尺7万米。[[r:li-drill]]",
+          "2026年第二季度：“主要工艺包均已授标，包括SX-EW厂、硫酸厂和破碎系统。”[[r:q2call]]"
+        ]
+      },
+      {
+        "t": "扎根圣胡安的团队",
+        "c": "一支植根于圣胡安省的项目团队。",
+        "e": [
+          "员工人数由2021年12月的32人增至2022年12月的142名直接雇员。[[r:li-team]]",
+          "2023年：管理层“99% integrada por sanjuaninos”（99%为圣胡安本地人）。[[r:tsj2023]]",
+          "2026年4月：用工高峰期达512人，其中87%来自圣胡安；供应商结算金额的73.5%流向圣胡安本地企业。[[r:local]]"
+        ]
+      },
+      {
+        "t": "行业领导力",
+        "c": "在国内外代表阿根廷勘探业和铜业发声。",
+        "e": [
+          "2024年起任GEMERA会长，为该职位首位外籍人士。[[r:handelsblatt]]",
+          "2026年任Argentina Cobre大会主席；2025年任名誉主席。[[r:la-cobre26]]",
+          "2022年以来在南美洲、北美洲和欧洲登台演讲57场，详见演讲页面。"
+        ]
+      },
+      {
+        "t": "深谙矿业金融",
+        "c": "加入Los Azules之前，在企业财务和矿业金融领域工作二十年。",
+        "e": [
+          "巴里克黄金（Barrick Gold）贝拉德罗（Veladero）金矿：在扭转颓势、延长矿山服务年限及与山东黄金建立合作中发挥关键作用。[[r:mux-bio]]",
+          "此外曾在欧洲和拉丁美洲任职于普华永道（PwC）、诺华（Novartis）和托克（Trafigura）。[[r:mux-bio]]"
+        ]
+      },
+      {
+        "t": "人工智能在业务中的应用",
+        "c": "Los Azules的地质学家运用人工智能和机器学习开展工作，2026年全体团队成员接受了人工智能培训。",
+        "e": [
+          "“Todos mis geólogos están trabajando hoy tanto con IA como con machine learning”（我的所有地质学家如今都在运用人工智能和机器学习）。[[r:forbes-ai]]",
+          "Forbes Argentina，2026年：Los Azules团队如何将人工智能应用于勘探。[[r:forbes-ai]]",
+          "2026年，Los Azules全体团队成员接受了人工智能培训。[[r:li-ai]]"
+        ]
+      },
+      {
+        "t": "学术研究",
+        "c": "发表关于拉丁美洲矿业社会经营许可的研究成果。",
+        "e": [
+          "《The Legitimacy Trilemma》第一作者，《Veredas do Direito》，2026年。[[r:veredas]]",
+          "矿业社会经营许可文献计量研究合著者，SSRN，2025年。[[r:ssrn]]"
+        ]
+      }
+    ],
+    "h_la": "Los Azules项目简介",
+    "la_brief": "洛斯阿苏莱斯（Los Azules）是位于圣胡安省卡林加斯塔（Calingasta）安第斯山区的一座斑岩型铜矿。根据2025年10月的可行性研究，项目设计采用露天开采、堆浸及溶剂萃取-电积（SX-EW）工艺，拟在矿山现场产出纯度99.99%的阴极铜，不外运精矿，不建尾矿坝，全部使用可再生能源电力。证实及概略储量含铜102亿磅（生效日期为2025年9月3日），可支撑基准情景下21年的矿山服务年限。该项目是首个纳入阿根廷RIGI的铜矿项目。储量以外的资源量及可行性研究范围以外的增长机会，连同相应的警示性说明，详见Los Azules页面。[[r:fs,ypf,rigi-ln]]",
+    "h_milestones": "Los Azules里程碑，2022–2030年",
+    "milestones_sub": "梅丁于2022年2月掌舵以来Los Azules的历程。最后两项为目标。[[r:join,li-team,stellantis,eia,ypf,ifc,rigi-bo,fs,sg,loan-pr]]",
+    "milestones": [
+      {
+        "y": "2022",
+        "m": 2,
+        "t": "加入麦克尤恩铜业，领导Los Azules项目"
+      },
+      {
+        "y": "2022",
+        "m": 8,
+        "t": "力拓旗下Nuton成为战略投资者"
+      },
+      {
+        "y": "2022",
+        "m": 12,
+        "t": "团队直接雇员一年内由32人增至142人"
+      },
+      {
+        "y": "2023",
+        "m": 2,
+        "t": "Stellantis成为战略股东"
+      },
+      {
+        "y": "2023",
+        "m": 6,
+        "t": "发布更新版初步经济评估"
+      },
+      {
+        "y": "2023",
+        "m": 11,
+        "t": "获评年度勘探企业"
+      },
+      {
+        "y": "2024",
+        "m": 5,
+        "t": "可行性研究钻探完成：继2022/23勘探季完成3.9万米后，本季完成7万米"
+      },
+      {
+        "y": "2024",
+        "m": 8,
+        "t": "与YPF Luz签署100%可再生能源供电谅解备忘录"
+      },
+      {
+        "y": "2024",
+        "m": 12,
+        "t": "取得建设及运营环境许可"
+      },
+      {
+        "y": "2025",
+        "m": 6,
+        "t": "以Los Azules矿石在实验室规模下产出首批阴极铜"
+      },
+      {
+        "y": "2025",
+        "m": 9,
+        "t": "与国际金融公司（IFC）签署合作协议；26.7亿美元投资计划获RIGI批准，为首个获批的铜矿项目"
+      },
+      {
+        "y": "2025",
+        "m": 10,
+        "t": "发布可行性研究"
+      },
+      {
+        "y": "2026",
+        "m": 3,
+        "t": "Los Azules在纽约Argentina Week期间获阿根廷美国商会（AmCham Argentina）表彰"
+      },
+      {
+        "y": "2026",
+        "m": 5,
+        "t": "法国兴业银行受聘担任项目债务融资财务顾问"
+      },
+      {
+        "y": "2026",
+        "m": 8,
+        "t": "与Sprott、Rob McEwen及其他贷款方完成2.4亿美元优先有担保定期贷款"
+      },
+      {
+        "y": "2027",
+        "m": null,
+        "mid": true,
+        "t": "最终投资决定及项目全额融资",
+        "target": true
+      },
+      {
+        "y": "2030",
+        "m": null,
+        "t": "首批商业阴极铜",
+        "target": true
+      }
+    ],
+    "mid_year": "年中",
+    "h_honours": "荣誉",
+    "honours_cap_1": "年度矿业企业家，布宜诺斯艾利斯，2025年12月。",
+    "honours_cap_2": "Diploma Migrante destacado，圣胡安，2024年9月4日。",
+    "honours_alt_1": "迈克尔·梅丁领取2025年度矿业企业家奖",
+    "honours_alt_2": "迈克尔·梅丁手持Diploma Migrante destacado证书，圣胡安，2024年9月",
+    "honours": [
+      {
+        "y": "2025",
+        "n": "年度矿业企业家",
+        "d": "La Noche de las Distinciones, Argentina: Oro, Plata y Cobre，布宜诺斯艾利斯，2025年12月。",
+        "by": "Panorama Minero",
+        "to": "personal",
+        "url": "https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html"
+      },
+      {
+        "y": "2024",
+        "n": "年度矿业企业家",
+        "d": "Panorama Minero评选委员会认为他兼具“战略眼光与扎实的技术能力”。布宜诺斯艾利斯，2024年12月。",
+        "by": "Panorama Minero",
+        "to": "personal",
+        "url": "https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano"
+      },
+      {
+        "y": "2024",
+        "n": "杰出移民",
+        "d": "“Diploma Migrante destacado”由阿根廷国家移民局颁发，于2024年9月4日移民日在圣胡安举行的官方仪式上授予，表彰他为阿根廷发展及其文化多元作出的贡献。",
+        "by": "阿根廷国家移民局（Dirección Nacional de Migraciones）",
+        "to": "personal",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7237125204592730112/"
+      },
+      {
+        "y": "2026",
+        "n": "特别表彰，Argentina Week",
+        "d": "阿根廷美国商会（AmCham Argentina）表彰Andes Corporación Minera在RIGI框架下致力于生产性投资。由经济部长路易斯·卡普托（Luis Caputo）于2026年3月Argentina Week闭幕时在纽约颁发；梅丁与Rob McEwen共同领奖。",
+        "by": "阿根廷美国商会（AmCham Argentina）",
+        "to": "la",
+        "url": "https://www.diariodecuyo.com.ar/cuyo-minero/los-azules-fue-reconocido-argentina-week-2026-su-compromiso-la-inversion-productiva-n6568044"
+      },
+      {
+        "y": "2026",
+        "n": "企业社会责任杰出矿业企业",
+        "d": "Premios Argentina Mining，萨尔塔，2026年9月。",
+        "by": "Argentina Mining",
+        "to": "la",
+        "url": "https://www.losandes.com.ar/empresas-y-negocios/argentina-mining-2026-mas-12200-personas-participaron-del-encuentro-que-reunio-al-sector-minero-salta-n6005433"
+      },
+      {
+        "y": "2026",
+        "n": "识字教育承诺标识",
+        "d": "表彰其支持圣胡安省识字教育计划Comprendo y Aprendo。圣胡安，2026年7月。",
+        "by": "圣胡安省政府",
+        "to": "la",
+        "url": "https://www.panorama-minero.com/es/news/los-azules-recibio-el-sello-compromiso-por-la-alfabetizacion"
+      },
+      {
+        "y": "2025",
+        "n": "Premio INVERTIR（矿业类）",
+        "d": "在XIII Fórum Empresarial de Buenos Aires上代表麦克尤恩铜业领奖，2025年12月。",
+        "by": "LIDE Argentina",
+        "to": "la",
+        "url": "https://lideargentina.com/lide-argentina-cerro-su-agenda-2025-con-el-xiii-forum-empresarial-y-la-entrega-del-premio-invertir/"
+      },
+      {
+        "y": "2023",
+        "n": "年度勘探企业",
+        "d": "表彰2022–23年度在卡林加斯塔开展的勘探工作。布宜诺斯艾利斯，2023年11月。",
+        "by": "Panorama Minero",
+        "to": "la",
+        "url": "https://www.sanjuan8.com/san-juan/los-azules-recibio-el-premio-mejor-exploradora-minera-del-ano-n1257040"
+      }
+    ],
+    "h_roles": "职务与履历",
+    "h_current": "现任职务",
+    "current": [
+      {
+        "role": "董事总经理",
+        "o": "麦克尤恩铜业（McEwen Copper）",
+        "x": "2022年2月起领导Los Azules项目"
+      },
+      {
+        "role": "总裁兼总经理",
+        "o": "Andes Corporación Minera（Los Azules）",
+        "x": ""
+      },
+      {
+        "role": "会长",
+        "o": "GEMERA",
+        "x": "2024年起 · 首位外籍会长"
+      },
+      {
+        "role": "副会长",
+        "o": "CAEM",
+        "x": "2025–2027年 · 代表Andes Corporación Minera"
+      },
+      {
+        "role": "理事",
+        "o": "Cámara Minera de San Juan",
+        "x": "2025–2027年"
+      },
+      {
+        "role": "主席",
+        "o": "Argentina Cobre",
+        "x": "2026年 · 2025年任名誉主席"
+      },
+      {
+        "role": "名誉主席",
+        "o": "Expo San Juan Minera 2026",
+        "x": ""
+      }
+    ],
+    "h_career": "职业经历",
+    "career": [
+      {
+        "o": "普华永道（PwC）",
+        "d": "生产与财务咨询；在瑞士工作七年",
+        "p": "瑞士"
+      },
+      {
+        "o": "诺华（Novartis）",
+        "d": "首席财务官培养计划；任一个国际业务单元的财务负责人；后调往智利",
+        "p": "瑞士 · 智利"
+      },
+      {
+        "o": "跨国公司",
+        "d": "在智利和阿根廷担任首席财务官",
+        "p": "智利 · 阿根廷"
+      },
+      {
+        "o": "巴里克黄金（Barrick Gold）",
+        "d": "2010年起负责阿根廷业务财务：贝拉德罗金矿扭转颓势、延长矿山服务年限、与山东黄金合作",
+        "p": "圣胡安"
+      },
+      {
+        "o": "托克（Trafigura）",
+        "d": "一座多金属矿山的首席财务与行政官（CFAO）",
+        "p": "拉丁美洲"
+      },
+      {
+        "o": "麦克尤恩铜业（McEwen Copper）",
+        "d": "2022年2月起领导Los Azules项目；董事总经理",
+        "p": "圣胡安 · 多伦多"
+      }
+    ],
+    "h_education": "教育背景",
+    "education": [
+      "理学学士，Ruhr-Universität Bochum（波鸿鲁尔大学）",
+      "工商管理硕士（MBA），HHL Leipzig Graduate School of Management（莱比锡管理研究生院）",
+      "工商管理硕士（MBA），Indiana University of Pennsylvania（宾夕法尼亚印第安纳大学）",
+      "矿业管理硕士（在读），Universidad Católica de Cuyo（库约天主教大学）"
+    ],
+    "h_research": "学术研究",
+    "h_quotes": "本人言论",
+    "h_sel_speaking": "近期演讲",
+    "h_sel_press": "近期报道",
+    "h_faq": "问答",
+    "faq": [
+      {
+        "q": "迈克尔·梅丁（Michael Meding）是谁？",
+        "a": "德国矿业高管，自2022年2月起领导阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目，现任麦克尤恩铜业（McEwen Copper）董事总经理。他担任GEMERA会长，并于2024年和2025年两度获评年度矿业企业家。[[r:join,mux-bio,fm-2024,fm-2025]]"
+      },
+      {
+        "q": "他在Los Azules取得了哪些成果？",
+        "a": "在他的领导下，项目取得环境许可（2024年12月），发布可行性研究（2025年10月），成为首个获阿根廷RIGI批准的铜矿项目，并完成2.4亿美元定期贷款（2026年8月）。Stellantis和力拓旗下的Nuton作为战略股东入股，国际金融公司（IFC）签署了合作协议。[[r:eia,fs,rigi-ln,loan-pr,stellantis,ifc]]"
+      },
+      {
+        "q": "迈克尔·梅丁获得过哪些奖项？",
+        "a": "2024年和2025年年度矿业企业家（Panorama Minero），以及2024年阿根廷国家移民局（Dirección Nacional de Migraciones）颁发的Diploma Migrante destacado。在他的领导下，Los Azules获得2023年年度勘探企业、2025年LIDE INVERTIR矿业奖、2026年阿根廷美国商会（AmCham Argentina）特别表彰等荣誉。[[r:fm-2024,fm-2025,li-dnm,li-champ]]"
+      },
+      {
+        "q": "GEMERA是什么组织？",
+        "a": "即Grupo de Empresas Mineras Exploradoras de la República Argentina，阿根廷矿业勘探企业商会。梅丁自2024年起担任会长，是首位出任该职的外籍人士；他主张阿根廷应将勘探支出提高至目前的三倍。[[r:gemera-ej,handelsblatt,gemera-ambito]]"
+      },
+      {
+        "q": "他的职业背景如何？",
+        "a": "企业财务与矿业金融：在瑞士任职于普华永道（PwC）和诺华（Novartis），在智利和阿根廷的跨国公司担任首席财务官，2010年起负责巴里克黄金（Barrick Gold）阿根廷业务（包括贝拉德罗金矿）的财务工作，并曾在托克（Trafigura）担任一座多金属矿山的首席财务与行政官（CFAO）。[[r:mux-bio,mp2014]]"
+      },
+      {
+        "q": "迈克尔·梅丁常驻何地？",
+        "a": "往返于阿根廷圣胡安和多伦多两地：Los Azules项目在圣胡安运营，麦克尤恩铜业总部设在多伦多。[[r:fy24]]"
+      },
+      {
+        "q": "他会说哪些语言？",
+        "a": "德语、英语和西班牙语。[[r:mux-bio]]"
+      }
+    ],
+    "card_role": "职务",
+    "card_role_v": "麦克尤恩铜业（McEwen Copper）董事总经理",
+    "card_leads": "领导项目",
+    "card_leads_v": "Los Azules铜矿项目，2022年2月起",
+    "card_also": "其他职务",
+    "card_also_v": "GEMERA会长 · CAEM副会长 · Argentina Cobre大会主席",
+    "card_born": "出生地",
+    "card_born_v": "杜塞尔多夫",
+    "card_based": "常驻地",
+    "card_based_v": "阿根廷圣胡安 · 加拿大多伦多",
+    "card_langs": "语言",
+    "card_langs_v": "德语、英语、西班牙语",
+    "card_honours": "荣誉",
+    "card_honours_v": "年度矿业企业家（2024年、2025年）",
+    "card_edu": "教育背景",
+    "card_edu_v": "理学学士（Bochum）· MBA（HHL Leipzig）· MBA（IUP）",
+    "card_contact": "媒体联络",
+    "card_photo_cap": "斯德哥尔摩，2025年10月",
+    "card_photo_alt": "迈克尔·梅丁在斯德哥尔摩Nordic Funds and Mines会议上介绍Los Azules项目",
+    "card_born_r": "tsj2023",
+    "hero_lede": "迈克尔·梅丁（Michael Meding）是德国矿业高管，自2022年2月起领导位于阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目，并担任麦克尤恩铜业（McEwen Copper）董事总经理。他由企业财务领域转入矿业：先在瑞士任职于普华永道（PwC）和诺华（Novartis），随后在拉丁美洲工作逾十五年，之后又任职于巴里克黄金（Barrick Gold）和托克（Trafigura）。在他的领导下，Los Azules取得环境许可，发布可行性研究，成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目，并完成2.4亿美元定期贷款。[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
+    "rail": [
+      "加入麦克尤恩铜业",
+      "取得环境许可",
+      "纳入RIGI，发布可行性研究",
+      "2.4亿美元定期贷款",
+      "最终投资决定",
+      "首批商业阴极铜"
+    ],
+    "rail_today": "当前",
+    "partners": [
+      {
+        "k": "战略股东",
+        "v": "Stellantis · Nuton（力拓）",
+        "r": "stellantis,nuton35"
+      },
+      {
+        "k": "合作协议",
+        "v": "IFC（国际金融公司）",
+        "r": "ifc"
+      },
+      {
+        "k": "项目债务融资顾问",
+        "v": "Société Générale（法国兴业银行）",
+        "r": "sg"
+      },
+      {
+        "k": "定期贷款，2026年",
+        "v": "Sprott、Rob McEwen及其他贷款方",
+        "r": "loan-pr"
+      }
+    ],
+    "hero_cred": "2024年和2025年年度矿业企业家 · 阿根廷矿业勘探企业商会GEMERA会长[[r:fm-2024,fm-2025,gemera-ej]]",
+    "h_partners": "合作伙伴与融资",
+    "stat_placements": "2021年以来通过私募配售募集的资金，投资方包括Stellantis和Nuton",
+    "stats_note": "可行性研究数据、目标、合资格人士及警示性说明详见Los Azules页面。"
+  },
+  "la": {
+    "kicker": "阿根廷圣胡安 · 阴极铜 · 2025年可行性研究",
+    "h1": "Los Azules铜矿项目",
+    "lede": "洛斯阿苏莱斯（Los Azules）是位于阿根廷圣胡安省（San Juan）卡林加斯塔（Calingasta）安第斯山区的一座斑岩型铜矿，由麦克尤恩铜业（McEwen Copper）持有，迈克尔·梅丁（Michael Meding）领导。根据2025年10月的可行性研究，项目设计采用露天开采、堆浸及溶剂萃取-电积（SX-EW）工艺，拟在矿山现场产出纯度99.99%的阴极铜，不建尾矿坝，全部使用可再生能源电力。该项目是首个纳入阿根廷大型投资激励制度（RIGI）的铜矿项目。项目预计于2027年年中作出最终投资决定，目标于2030年实现阴极铜商业化生产。[[r:fs,mux-bio,ypf,rigi-ln,loan-pr]]",
+    "stat_reserves": "证实及概略储量所含铜金属量",
+    "stat_output": "第1至5年阴极铜年产量",
+    "stat_capex": "初始资本支出",
+    "stat_npv": "税后净现值（NPV8），铜价4.35美元/磅",
+    "stat_irr": "税后内部收益率",
+    "stat_kt": "千吨",
+    "h_facts": "项目概况",
+    "facts": [
+      {
+        "k": "位置",
+        "v": "阿根廷圣胡安省卡林加斯塔；海拔约3,500米，位于卡林加斯塔镇西北偏西约80公里、智利边境以东6公里处",
+        "r": "mux-la"
+      },
+      {
+        "k": "所有者",
+        "v": "麦克尤恩铜业（McEwen Copper Inc.），通过Andes Corporación Minera S.A.持有",
+        "r": "fy25"
+      },
+      {
+        "k": "负责人",
+        "v": "麦克尤恩铜业董事总经理迈克尔·梅丁；2022年2月起领导Los Azules",
+        "r": "join,mux-bio"
+      },
+      {
+        "k": "矿床",
+        "v": "安第斯斑岩型铜矿床，发育次生富集带",
+        "r": "fs"
+      },
+      {
+        "k": "工艺",
+        "v": "露天开采、堆浸及溶剂萃取-电积（SX-EW）；拟在现场产出纯度99.99%的LME A级阴极铜",
+        "r": "fs"
+      },
+      {
+        "k": "产量",
+        "v": "第1至5年每年20.48万吨；21年矿山服务期内年均14.82万吨",
+        "r": "fs"
+      },
+      {
+        "k": "成本",
+        "v": "C1现金成本1.71美元/磅；全维持成本（AISC）2.11美元/磅",
+        "r": "fs"
+      },
+      {
+        "k": "用水",
+        "v": "较传统磨矿选矿工艺节水74%；矿山服务期内平均用水量158升/秒",
+        "r": "fs"
+      },
+      {
+        "k": "碳排放",
+        "v": "每吨铜1,082千克二氧化碳当量（范围一和范围二），行业平均水平估计为4,026千克（Skarn Associates）；目标于2038年实现碳中和",
+        "r": "fs"
+      },
+      {
+        "k": "电力",
+        "v": "计划100%使用可再生能源，经由YPF Luz自费建设的高压输电线路供电",
+        "r": "ypf,fs"
+      },
+      {
+        "k": "尾矿",
+        "v": "不建尾矿坝",
+        "r": "fs"
+      },
+      {
+        "k": "环境许可",
+        "v": "2024年12月取得，涵盖建设及运营",
+        "r": "eia,dia-md"
+      },
+      {
+        "k": "RIGI",
+        "v": "Resolución 1553/2025：投资计划26.72亿美元；首个获批的铜矿项目；承诺将供应商、货物及工程支出的61.1%用于本地供应商",
+        "r": "rigi-bo,rigi-ln"
+      },
+      {
+        "k": "排名",
+        "v": "据麦克尤恩铜业披露，按矿产资源总量计，该项目在全球未开发斑岩型铜矿床中位列第十；按标普全球（S&P Global）2024年数据，其预计产量在投产后将在423座生产矿山中排名第26位",
+        "r": "fs"
+      },
+      {
+        "k": "增长潜力",
+        "v": "在可行性研究范围之外，麦克尤恩铜业已识别出：采用Nuton浸出技术或传统选矿厂处理原生硫化矿，可能使矿山服务年限延长30年或更久。该潜力不包含在基准情景中，且部分依赖推断资源量",
+        "r": "fs"
+      },
+      {
+        "k": "下一步",
+        "v": "预计于2027年年中作出最终投资决定并完成项目全额融资；目标于2030年实现阴极铜商业化生产",
+        "r": "loan-pr"
+      }
+    ],
+    "fig_alt": "来自日本和德国的商务代表团与Los Azules团队在项目现场",
+    "fig_cap": "日本和德国商务代表团考察Los Azules项目现场，2025年11月。",
+    "h_reserves": "矿产储量与资源量",
+    "reserves_intro": "估算数据来自2025年10月的可行性研究，生效日期为2025年9月3日。[[r:fs,trs]]",
+    "h_res_table": "矿产储量（证实及概略）",
+    "res_proven": "证实",
+    "res_probable": "概略",
+    "res_total": "证实及概略储量合计",
+    "res_note": "储量估算采用的铜价：4.25美元/磅。采用可变边界值，为每吨净冶炼收益（NSR）4.79至7.23美元。储量按100%权益口径报告。",
+    "h_resources_table": "矿产资源量（不含储量）",
+    "rs_mi": "探明及控制",
+    "rs_inf": "推断",
+    "resources_note": "资源量估算采用的铜价：4.80美元/磅（金价2,500美元/盎司，银价32美元/盎司）。所列资源量不含矿产储量，亦未与储量相加。其中大部分资源量（包括全部推断资源量）是以磨矿选矿或Nuton等先进浸出工艺处理为前提报告的，而可行性研究基准情景并不包含这些工艺。",
+    "unit_mlb": "百万磅",
+    "unit_blb": "十亿磅",
+    "h_econ": "可行性研究经济指标",
+    "econ": [
+      {
+        "k": "初始资本支出",
+        "v": "31.68亿美元"
+      },
+      {
+        "k": "税后净现值（折现率8%）",
+        "v": "29.40亿美元"
+      },
+      {
+        "k": "税后内部收益率",
+        "v": "19.8%"
+      },
+      {
+        "k": "投资回收期",
+        "v": "3.9年"
+      },
+      {
+        "k": "矿山服务年限",
+        "v": "21年"
+      },
+      {
+        "k": "基准情景铜价",
+        "v": "4.35美元/磅"
+      },
+      {
+        "k": "维持性资本支出（矿山服务期内）",
+        "v": "21.31亿美元"
+      }
+    ],
+    "econ_note": "2025年10月7日公布的可行性研究基准情景。[[r:fs]]",
+    "h_fin": "融资",
+    "h_loan": "2.4亿美元定期贷款，2026年8月",
+    "loan_intro": "2026年8月27日，麦克尤恩铜业完成2.4亿美元优先有担保定期贷款，用于继续推进Los Azules的工程设计和早期工程，以及一般公司用途。[[r:loan-pr,loan]]",
+    "loan_terms": [
+      {
+        "k": "金额",
+        "v": "2.4亿美元，优先有担保"
+      },
+      {
+        "k": "期限",
+        "v": "4年"
+      },
+      {
+        "k": "利率",
+        "v": "年利率12.0%，按月付息"
+      },
+      {
+        "k": "认股权证",
+        "v": "每100万美元本金配发15,000份麦克尤恩铜业五年期普通股认股权证，行权价每股40美元"
+      },
+      {
+        "k": "资金用途",
+        "v": "Los Azules工程设计和早期工程；一般公司用途"
+      }
+    ],
+    "lenders": [
+      {
+        "k": "Sprott Natural Resource Investment Partners",
+        "v": "1.12亿美元"
+      },
+      {
+        "k": "Rob McEwen",
+        "v": "8,500万美元"
+      },
+      {
+        "k": "其他贷款方",
+        "v": "4,300万美元"
+      }
+    ],
+    "loan_quote_attr": "麦克尤恩铜业董事总经理迈克尔·梅丁",
+    "h_fin_record": "融资记录",
+    "fin_record": [
+      {
+        "k": "2021年",
+        "v": "麦克尤恩铜业成立，专门推进Los Azules项目，同时完成8,000万美元B轮私募配售",
+        "r": "create"
+      },
+      {
+        "k": "2021年以来",
+        "v": "通过私募配售累计募资4.53亿美元（含2021年B轮），Stellantis和力拓旗下的Nuton作为战略投资者参与",
+        "r": "mux-la"
+      },
+      {
+        "k": "2025年9月",
+        "v": "与国际金融公司（IFC）签署合作协议，使Los Azules符合IFC环境、社会和治理标准，为未来可能的债务和股权融资做准备",
+        "r": "ifc"
+      },
+      {
+        "k": "2025年9–10月",
+        "v": "以26.72亿美元投资计划获准纳入RIGI",
+        "r": "rigi-bo"
+      },
+      {
+        "k": "2026年5月",
+        "v": "法国兴业银行受聘担任项目债务融资独家财务顾问",
+        "r": "sg"
+      },
+      {
+        "k": "2026年8月",
+        "v": "完成2.4亿美元优先有担保定期贷款",
+        "r": "loan-pr"
+      },
+      {
+        "k": "计划",
+        "v": "在麦克尤恩公司（McEwen Inc.）2026年第二季度业绩电话会议上，迈克尔·梅丁表示，麦克尤恩铜业正在寻求总额约40亿美元的整体融资方案，涵盖资本支出、营运资金、利息及超支备用融资。该融资尚未获得承诺。",
+        "r": "q2call"
+      }
+    ],
+    "h_mcewen": "麦克尤恩铜业",
+    "mcewen": [
+      {
+        "k": "公司",
+        "v": "麦克尤恩铜业（McEwen Copper Inc.），在艾伯塔省注册，由McEwen Mining于2021年7月设立，专门推进Los Azules项目",
+        "r": "create,fy25"
+      },
+      {
+        "k": "总部",
+        "v": "多伦多King Street West 150号",
+        "r": "fy24"
+      },
+      {
+        "k": "资产",
+        "v": "Los Azules（通过Andes Corporación Minera S.A.持有）及内华达州Elder Creek矿权",
+        "r": "fy25"
+      },
+      {
+        "k": "董事总经理",
+        "v": "迈克尔·梅丁",
+        "r": "mux-bio"
+      }
+    ],
+    "h_shareholders": "股东",
+    "shareholders_src": "麦克尤恩公司（McEwen Inc.）项目页面，查阅日期：2026年9月26日。[[r:mux-la]]",
+    "sh_mux": "McEwen Inc.",
+    "sh_stellantis": "Stellantis",
+    "sh_nuton": "Nuton / 力拓",
+    "sh_rob": "Rob McEwen",
+    "sh_vsg": "Victor Smorgon Group",
+    "sh_other": "其他",
+    "ifc_alt": "迈克尔·梅丁签署与国际金融公司（IFC）的合作协议",
+    "ifc_cap": "签署国际金融公司（IFC）合作协议，2025年9月。",
+    "h_argentina": "阿根廷与铜业",
+    "argentina": [
+      "自Bajo de la Alumbrera矿于2018年关闭以来，阿根廷再无规模化铜矿生产。[[r:alumbrera]]",
+      "阿根廷国家矿业秘书处的一份报告预计，到2035年全国铜产量可能超过每年150万吨。[[r:pipeline]]",
+      "RIGI（第27,742号法律）为2亿美元以上的投资提供为期30年的激励政策稳定保障。[[r:rigi-gob]]",
+      "标普全球（S&P Global）预计，到2040年全球铜需求将达到4,200万吨，较当前水平增长50%。[[r:sp]]",
+      "国际能源署（IEA）预计，铜将成为需求量增长最大的矿产，到2040年需求增加约700万吨。[[r:iea]]"
+    ],
+    "h_tech": "技术信息与合资格人士",
+    "tech_p1": "本页所载科学和技术信息取自麦克尤恩公司（McEwen Inc.）于2025年10月7日公布的Los Azules可行性研究（生效日期为2025年9月3日），以及作为麦克尤恩公司2025年年度报告附件向美国证券交易委员会提交的S-K 1300技术报告摘要（报告日期为2025年12月31日）。下列合资格人士已依据NI 43-101审阅并核实2025年10月的公告。本页未在上述文件之外新增任何科学或技术信息。[[r:fs,trs]]",
+    "tech_p2": "麦克尤恩公司2025年10月7日公告中的可行性研究及相关披露，已由以下合资格人士依据NI 43-101审阅并核实：James L. Sorensen, FAusIMM，Samuel Engineering（项目执行、开发及其他信息，不含矿产资源量披露）；W. David Tyler, SME Registered Member，麦克尤恩铜业项目总监，不独立于发行人（麦克尤恩相关信息及其他信息，不含矿产资源量披露）；Michael McGlynn, SME Registered Member，Samuel Engineering（冶金及工艺）；Jeff Sullivan, FAusIMM，CRM-SA, LLC（矿产资源量估算）；Gordon Zurowski, P.Eng.，AGP Mining Consultants（采矿及矿产储量估算）；以及Steve Pozder, P.E.，Samuel Engineering（财务建模）。[[r:fs]]",
+    "tech_p3": "不属于矿产储量的矿产资源量尚未证实具有经济可行性。矿产资源量估算可能受到环境、许可、法律、产权、社会政治、市场营销或其他相关因素的重大影响。推断资源量在地质上推测性过高，无法对其应用可使其归类为矿产储量的经济因素考量；其勘探程度不足，不能归类为控制资源量或探明资源量，进一步勘探能否将其升级尚不确定。[[r:fs]]",
+    "tech_p4": "本页有关未来事件的陈述属于前瞻性陈述，包括预计于2027年年中作出最终投资决定并完成项目全额融资、目标于2030年实现阴极铜商业化生产、2038年碳中和目标、矿山服务年限的潜在延长以及融资计划。这些陈述反映麦克尤恩铜业当前的预期，并非保证，取决于融资、工程设计、许可、金属价格、阿根廷国内状况，以及麦克尤恩公司向美国证券交易委员会（SEC）提交及在SEDAR+上发布的文件中所述的其他风险。实际结果可能与之存在重大差异。关键假设、参数及估算方法详见可行性研究公告及技术报告。",
+    "tech_translation_note": "本译文仅为方便读者而提供，技术信息和警示性信息以英文版本为准。",
+    "h_faq": "问答",
+    "faq": [
+      {
+        "q": "Los Azules是什么项目？",
+        "a": "洛斯阿苏莱斯（Los Azules）是位于圣胡安省卡林加斯塔（Calingasta）安第斯山区的斑岩型铜矿项目，由麦克尤恩铜业（McEwen Copper）持有。根据2025年10月的可行性研究，项目将采用露天开采、堆浸及溶剂萃取-电积（SX-EW）工艺，在现场产出纯度99.99%的阴极铜，投产后前五年年均产量20.48万吨。[[r:fs]]"
+      },
+      {
+        "q": "Los Azules具体位于何处？",
+        "a": "位于圣胡安省卡林加斯塔县，海拔约3,500米，地处卡林加斯塔镇西北偏西约80公里、智利边境以东6公里。[[r:mux-la]]"
+      },
+      {
+        "q": "谁领导Los Azules项目？",
+        "a": "麦克尤恩铜业董事总经理迈克尔·梅丁（Michael Meding）自2022年2月起领导该项目。[[r:join,mux-bio]]"
+      },
+      {
+        "q": "麦克尤恩铜业的股东有哪些？",
+        "a": "麦克尤恩公司（McEwen Inc.）持股46.3%，Stellantis持股18.2%，Nuton（力拓旗下企业）持股17.2%，Rob McEwen持股13.0%，Victor Smorgon Group持股3.0%，其他股东合计持股2.3%。[[r:mux-la]]"
+      },
+      {
+        "q": "Los Azules何时产铜？",
+        "a": "麦克尤恩铜业预计于2027年年中作出最终投资决定并完成项目全额融资，目标于2030年实现阴极铜商业化生产。上述均为前瞻性目标，取决于融资、许可及其他风险。[[r:loan-pr]]"
+      },
+      {
+        "q": "Los Azules的设计有何不同？",
+        "a": "按照设计，项目将在矿山现场直接产出阴极铜成品，而非精矿；不建尾矿坝，全部使用可再生能源电力，用水量较传统磨矿选矿工艺减少74%，碳排放强度为每吨铜1,082千克二氧化碳当量，而行业平均水平估计为4,026千克。[[r:fs,ypf]]"
+      },
+      {
+        "q": "Los Azules是否已获阿根廷RIGI批准？",
+        "a": "是的。2025年10月14日公布的Resolución 1553/2025批准Los Azules以26.72亿美元投资计划纳入该制度。这是该制度下首个获批的铜矿项目。[[r:rigi-bo,rigi-ln]]"
+      },
+      {
+        "q": "Los Azules的规模有多大？",
+        "a": "可行性研究报告的证实及概略储量含铜102亿磅（矿石量10.23亿吨，铜品位0.453%），生效日期为2025年9月3日。此外，该研究另行报告了不含上述储量的资源量：探明及控制资源量含铜54亿磅，推断资源量含铜200亿磅。不属于矿产储量的矿产资源量尚未证实具有经济可行性，推断资源量具有较高的地质不确定性，各类别不得相加。[[r:fs]]"
+      },
+      {
+        "q": "Los Azules可以运营多久？",
+        "a": "可行性研究基准情景以证实及概略储量为基础，矿山服务年限为21年。在该研究范围之外，麦克尤恩铜业已识别出：采用力拓的Nuton技术或传统选矿厂处理原生硫化矿，可能使矿山服务年限延长30年或更久。这一潜力不属于基准情景，部分依赖推断资源量，尚需进一步研究、许可和融资。[[r:fs]]"
+      },
+      {
+        "q": "2.4亿美元定期贷款是什么？",
+        "a": "这是麦克尤恩铜业于2026年8月27日完成的一笔四年期优先有担保贷款，年利率12.0%，贷款方为Sprott Natural Resource Investment Partners（1.12亿美元）、Rob McEwen（8,500万美元）及其他贷款方（4,300万美元）。资金用于最终投资决定前的工程设计和早期工程。[[r:loan-pr]]"
+      },
+      {
+        "q": "项目如何融资？",
+        "a": "自2021年以来，麦克尤恩铜业已通过私募配售募资4.53亿美元，投资方包括Stellantis和Nuton，并于2026年8月完成2.4亿美元定期贷款。公司已聘请法国兴业银行担任项目债务融资独家财务顾问，并与国际金融公司（IFC）签署合作协议，使项目符合IFC标准，为未来可能的融资做准备。麦克尤恩铜业表示，正在寻求总额约40亿美元的整体融资方案，该融资尚未获得承诺。[[r:mux-la,loan-pr,sg,ifc,q2call]]"
+      }
+    ],
+    "loan_quote": "This financing reflects our lenders' confidence in Los Azules and in the progress Argentina has made over the past two and a half years. The initiatives of President Javier Milei have helped make Argentina an increasingly attractive destination for large-scale foreign investment. Economic stabilization, stronger credit ratings, lower country risk and the RIGI are bringing long-term capital back to the country. San Juan continues to demonstrate the qualities of a dependable mining jurisdiction, supported by strong institutions, rigorous processes and sound governance. We are proud to be building Los Azules here.",
+    "loan_quote_tr": "此次融资体现了贷款方对Los Azules的信心，也体现了他们对阿根廷过去两年半所取得进展的信心。哈维尔·米莱总统推行的举措，助力阿根廷日益成为大规模外国投资青睐的目的地。经济企稳、信用评级提升、国家风险下降以及RIGI，正在推动长期资本重返阿根廷。圣胡安持续展现出可靠矿业辖区的特质，拥有健全的制度、严谨的程序和良好的治理。我们为在这里建设Los Azules而自豪。",
+    "loan_quote_note": "英文原声明的译文",
+    "stat_mi": "探明及控制资源量所含铜金属量（不含储量）",
+    "stat_inf": "推断资源量所含铜金属量（不含储量）",
+    "stat_lom": "可行性研究基准情景下的矿山服务年限",
+    "stat_upside": "上行情景下可能延长的年限",
+    "h_life": "21年开采计划，仍有增长空间",
+    "life_p": "可行性研究基准情景以证实及概略储量为基础，矿山服务年限为21年。麦克尤恩铜业还在可行性研究范围之外识别出若干增长机会：力拓的Nuton浸出技术可能使原生硫化矿得以利用现有基础设施进行处理；传统选矿厂则可能带来更高的铜回收率，并可同时回收金和银。麦克尤恩铜业表示，两种方式均可能使矿山服务年限延长30年或更久。上述机会均未纳入可行性研究基准情景。[[r:fs]]",
+    "life_base": "可行性研究基准情景：21年",
+    "life_up": "研究范围以外的潜在延长：30年或更久",
+    "life_opts": "Nuton浸出技术或传统选矿厂；不属于基准情景；部分依赖推断资源量",
+    "life_axis": "年",
+    "life_note": "这一潜在延长源自考虑了推断资源量的战略规划工作。推断资源量在地质上推测性过高，无法对其应用经济因素考量，且无法确定其最终能否转化为矿产储量。目前尚未与Nuton达成任何商业协议。与基准情景的堆浸设计不同，选矿厂需要尾矿储存设施，用水量也更大。两种方式均需进一步研究、许可和融资。",
+    "h_inventory": "储量及资源量所含铜金属量",
+    "inventory_note": "各类别分别列示，不得与其他类别相加。不属于储量的矿产资源量尚未证实具有经济可行性，推断资源量具有较高的地质不确定性。",
+    "inv_reserves": "证实及概略储量",
+    "inv_mi": "探明及控制资源量",
+    "inv_inf": "推断资源量",
+    "la_notice": "迈克尔·梅丁个人网站。本页汇总麦克尤恩公司（McEwen Inc.）和麦克尤恩铜业发布的信息，并非由上述任何一家公司发布。官方披露信息请参阅：mcewenmining.com、SEDAR+及EDGAR。",
+    "stats_note": "可行性研究基准情景，生效日期为2025年9月3日。请参阅下方的技术信息及警示性说明。",
+    "h_inv_res": "资源量（不含储量）",
+    "loan_quote_short_tr": "此次融资体现了贷款方对Los Azules的信心，也体现了他们对阿根廷过去两年半所取得进展的信心。[…]我们为在这里建设Los Azules而自豪。",
+    "loan_quote_short": "This financing reflects our lenders' confidence in Los Azules and in the progress Argentina has made over the past two and a half years. […] We are proud to be building Los Azules here."
+  },
+  "speaking": {
+    "h1": "演讲",
+    "sub": "2022年以来共57场活动，另有一场已确认：南美洲27场，北美洲17场，欧洲11场，线上2场。资料来源：主办方、媒体报道及本人发布的帖子。",
+    "cap_ny": "纽约，Benchmark World Tour，由彭博行业研究（Bloomberg Intelligence）主办，2024年10月。",
+    "alt_ny": "迈克尔·梅丁在彭博于纽约主办的Benchmark活动上介绍Los Azules项目",
+    "cap_dc": "华盛顿特区，Benchmark Giga US，2026年6月。",
+    "alt_dc": "迈克尔·梅丁在华盛顿Benchmark Giga US会议上发言",
+    "cities": {
+      "Argentina": "阿根廷",
+      "Beaver Creek": "比弗克里克",
+      "Berlin": "柏林",
+      "Boca Raton": "博卡拉顿",
+      "Brussels": "布鲁塞尔",
+      "Buenos Aires": "布宜诺斯艾利斯",
+      "Buenos Aires (virtual)": "布宜诺斯艾利斯（线上）",
+      "Buenos Aires · Mendoza": "布宜诺斯艾利斯 · 门多萨",
+      "Canada": "加拿大",
+      "Cologne": "科隆",
+      "Hamburg": "汉堡",
+      "London": "伦敦",
+      "Mendoza": "门多萨",
+      "Munich": "慕尼黑",
+      "New York": "纽约",
+      "San Juan": "圣胡安",
+      "Santiago de Chile": "智利圣地亚哥",
+      "Stockholm": "斯德哥尔摩",
+      "Toronto": "多伦多",
+      "Virtual": "线上",
+      "Washington, DC": "华盛顿特区",
+      "Zurich": "苏黎世"
+    },
+    "roles": {
+      "s01": "已确认演讲嘉宾",
+      "s02": "接受Investing News Network采访",
+      "s03": "“Minerales críticos y desarrollo federal”（关键矿产与联邦发展），与圣胡安、胡胡伊和卡塔马卡三省省长同台",
+      "s04": "“En Foco”，与Fernando Heredia同台对谈",
+      "s05": "“Perspectivas de la Minería en la Región”（地区矿业展望），与两国矿业主管部门负责人同台",
+      "s06": "与José Del Rio对谈",
+      "s07": "铜需求高级别对话",
+      "s08": "铜业主旨演讲：麦克尤恩铜业",
+      "s09": "Bullpen问答环节，由The Northern Miner主持",
+      "s10": "大会主席；主旨演讲；与Santiago Spaltro对谈",
+      "s11": "矿区与新的地质吸引力",
+      "s12": "发挥阿根廷矿业潜力",
+      "s13": "与安大略省经济发展部长同台参加铜业专题讨论",
+      "s14": "Los Azules项目介绍；GEMERA勘探展望",
+      "s15": "阿根廷矿业勘探现状",
+      "s16": "Los Azules项目介绍",
+      "s17": "以GEMERA会长身份参加勘探专题讨论",
+      "s18": "与Rob McEwen共同介绍Los Azules项目",
+      "s19": "Los Azules项目介绍",
+      "s20": "与Rob McEwen共同演讲",
+      "s21": "智慧矿业，智慧伙伴：面向安第斯地区矿业新时代的德国解决方案",
+      "s22": "“La nueva era del cobre”（铜的新时代）专题讨论",
+      "s23": "与Rob McEwen共同举行投资者推介",
+      "s24": "可持续商业领导力专题讨论",
+      "s25": "名誉主席；与五位省长出席开幕式",
+      "s26": "与Rob McEwen共同介绍Los Azules项目",
+      "s27": "技术、创新与人才：矿业竞争力的驱动因素",
+      "s28": "铜业：起飞之时",
+      "s29": "Los Azules：阿根廷新时代的智慧矿业与绿色铜",
+      "s30": "Los Azules项目介绍",
+      "s31": "主讲嘉宾；与欧洲投资银行（EIB）、美洲开发银行（IDB）及KfW IPEX举行双边会谈",
+      "s32": "2024年回顾与展望专题讨论；以GEMERA会长身份介绍勘探指标",
+      "s33": "首席执行官专题讨论",
+      "s34": "与Rob McEwen共同举行投资者推介",
+      "s35": "Los Azules项目介绍；关键矿产供应链圆桌会议",
+      "s36": "专题讨论“Infrastructure for Growth: Energy, Logistics & Mining”",
+      "s37": "矿业专题讨论，圣胡安、门多萨和胡胡伊三省省长在座",
+      "s38": "专题讨论“Mining the Energy Transition”；Los Azules项目介绍",
+      "s39": "与Rob McEwen同台",
+      "s40": "与Rob McEwen共同举行30场投资者推介",
+      "s41": "投资者推介",
+      "s42": "投资者推介",
+      "s43": "与Fernando Heredia同台对谈",
+      "s44": "“Grandes proyectos de inversión que transforman la Argentina”（改变阿根廷的大型投资项目）",
+      "s45": "与加拿大大使共同主持国际铜业大会；参加私营部门专题讨论",
+      "s46": "麦克尤恩铜业公司介绍",
+      "s47": "在阿根廷大使馆作为私营部门代表发言",
+      "s48": "与Rob McEwen共同举行投资者推介",
+      "s49": "能源转型与可持续发展",
+      "s50": "与Rob McEwen共同举行投资者推介",
+      "s51": "Los Azules项目介绍",
+      "s52": "“Los Azules, Portal for Copper Development in San Juan”，与Rob McEwen共同演讲",
+      "s53": "可持续发展与社会沟通专题讨论；Los Azules项目介绍",
+      "s54": "San Juan Tierra Minera研讨会：Los Azules项目进展",
+      "s55": "与Rob McEwen共同举行逾25场投资者推介",
+      "s56": "Los Azules项目介绍",
+      "s57": "麦克尤恩铜业与Los Azules",
+      "s58": "麦克尤恩铜业与Los Azules"
+    },
+    "cta": "演讲邀请：michael@meding.dev"
+  },
+  "press": {
+    "h1": "媒体",
+    "sub": "2022年以来阿根廷、国际及德国媒体对迈克尔·梅丁和Los Azules的报道。标题以原文语言呈现。",
+    "h_kit": "新闻资料",
+    "kit_sub": "经迈克尔·梅丁审定、供编辑和活动主办方使用的文字和图片。注明来源即可免费使用。",
+    "h_bio_short": "简短版简介（约200字）",
+    "bio_short": "迈克尔·梅丁（Michael Meding）是麦克尤恩铜业（McEwen Copper）董事总经理，自2022年2月起领导位于阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目。在此期间，项目取得环境许可，发布可行性研究，成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目，并完成2.4亿美元定期贷款。他现任GEMERA会长，并于2024年和2025年两度获评年度矿业企业家。",
+    "h_bio_long": "完整版简介（约470字）",
+    "bio_long": "迈克尔·梅丁（Michael Meding）是德国矿业高管，现任麦克尤恩铜业（McEwen Copper）董事总经理。自2022年2月起，他领导位于阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目；据麦克尤恩铜业披露，按矿产资源总量计，该项目在全球未开发斑岩型铜矿床中位列第十。在他的领导下，项目取得环境许可，发布可行性研究，成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目，并于2026年完成2.4亿美元定期贷款。Stellantis和力拓旗下的Nuton作为战略股东入股。加入Los Azules之前，他在欧洲和拉丁美洲从事企业财务和矿业金融工作，先后任职于普华永道、诺华、巴里克黄金和托克。他现任GEMERA会长、阿根廷矿业企业家商会（CAEM）副会长，并于2024年和2025年两度获评年度矿业企业家。他拥有Ruhr-Universität Bochum（波鸿鲁尔大学）理学学士学位，以及HHL Leipzig（莱比锡管理研究生院）和Indiana University of Pennsylvania（宾夕法尼亚印第安纳大学）的MBA学位。",
+    "h_photos": "照片",
+    "photo_headshot": "头像，正方形，423 × 423像素",
+    "photo_stage": "演讲现场，斯德哥尔摩，2025年，1600 × 1066像素",
+    "photo_dc": "Benchmark Giga US，华盛顿，2026年，1600 × 1066像素",
+    "download": "下载",
+    "h_data": "供编辑和AI助手使用的事实数据",
+    "data_p": "以机器可读形式提供的相同事实，每项均附来源。",
+    "data_llms": "llms.txt：通俗文字摘要",
+    "data_facts": "facts.json：五种语言的结构化事实",
+    "h_video": "视频",
+    "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper",
+    "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots",
+    "h_coverage": "媒体报道",
+    "contact": "媒体联络"
+  },
+  "quotes_reference_do_not_translate": [
+    {
+      "orig_lang": "en",
+      "text": "I’ve learned how to get things done in Argentina. Sometimes it is a matter of persistence, other times it is more about relationships than about formalities.",
+      "source": "Fastmarkets, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Me enamoré de su gente, de sus paisajes, de su cultura, de cómo ha ido creciendo con la minería.",
+      "source": "Tiempo de San Juan, 2023"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Argentina no se va a convertir en Suiza de la noche a la mañana. Para ser exitoso en la Argentina, necesitás un buen equipo acostumbrado a manejar aguas turbulentas.",
+      "source": "Forbes Argentina, 2023"
+    },
+    {
+      "orig_lang": "en",
+      "text": "We believe in the future of Argentina. It’s in a good spot geopolitically and has what the world needs.",
+      "source": "Bloomberg, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Queremos ser un buen vecino y que digan que somos un ejemplo de cómo se debería hacer minería.",
+      "source": "Ámbito, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Cuando uno quiere liderar equipos en Argentina tiene que conectarse personalmente, emocionalmente, con el personal, con los pares, para ser reconocido como un líder que la gente sigue.",
+      "source": "Tiempo de San Juan, 2023"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Hasta diciembre del 2023, todo el mundo decía qué lástima que el proyecto está en Argentina. Hoy la respuesta es la opuesta: qué interesante que está en Argentina.",
+      "source": "Forbes Argentina, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Todos mis geólogos están trabajando hoy tanto con IA como con machine learning para multiplicar sus capacidades de análisis.",
+      "source": "Forbes Argentina, 2026"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Cuando trabajas en minería, te das cuenta que es absolutamente necesario el apoyo de la comunidad donde estás operando.",
+      "source": "elDiarioAR, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Nada funciona sin minería: los zapatos, el celular, el saco, el micro.",
+      "source": "LA NACION, 2026"
+    },
+    {
+      "orig_lang": "en",
+      "text": "Our main challenge isn’t engineering … it’s mobilizing the necessary funding so we can move at the pace we’d like.",
+      "source": "Reuters, 2025"
+    },
+    {
+      "orig_lang": "de",
+      "text": "Es gibt in Argentinien eine große Übereinstimmung zwischen allen großen politischen Kräften. […] Das ist nicht in allen Ländern so.",
+      "source": "ZDFheute, 2025"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Es una joya en la montaña. No solo buscaremos minimizar los impactos sino también ver qué podemos hacer para crear más biodiversidad.",
+      "source": "Reuters, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "La confianza se gana en gramos y se pierde en kilos.",
+      "source": "Editorial RN, 2024"
+    },
+    {
+      "orig_lang": "es",
+      "text": "Tenemos una oportunidad muy grande de desarrollar cuatro o cinco proyectos de gran escala en los próximos diez años.",
+      "source": "Los Andes, 2026"
+    },
+    {
+      "orig_lang": "es",
+      "text": "San Juan ya juega en la Champions League, pero todavía tiene que creérsela un poco más.",
+      "source": "Canal 13 San Juan, 2025"
+    }
+  ],
+  "quotes_tr": [
+    "我已经学会了如何在阿根廷把事情办成。有时靠的是坚持，有时靠的更多是人际关系，而不是正式程序。",
+    "我爱上了这里的人、这里的风景、这里的文化，也爱上了它伴随矿业一路成长的样子。",
+    "阿根廷不会一夜之间变成瑞士。要在阿根廷取得成功，你需要一支习惯在风浪中航行的好团队。",
+    "我们相信阿根廷的未来。它在地缘政治上处于有利位置，而且拥有世界所需要的东西。",
+    "我们希望做一个好邻居，也希望人们说，我们是个榜样，矿业就该这样做。",
+    "在阿根廷，想要带领团队，就必须在个人层面、情感层面与员工、与同侪建立联系，才能被认可为一位大家愿意追随的领导者。",
+    "直到2023年12月，所有人都说：真可惜，这个项目在阿根廷。如今的反应正好相反：这个项目在阿根廷，真有意思。",
+    "我的所有地质学家如今都在同时运用人工智能和机器学习，成倍提升他们的分析能力。",
+    "从事矿业工作，你会意识到，作业所在社区的支持是绝对必要的。",
+    "离开矿业，什么都运转不了：鞋子、手机、外套、公交车。",
+    "我们的主要挑战不在工程……而在于筹集必要的资金，以便按照我们希望的节奏推进。",
+    "在阿根廷，所有主要政治力量之间存在高度共识。[……]并非所有国家都是如此。",
+    "它是山中的一颗明珠。我们不仅要尽量减少影响，还要看看能做些什么来增加生物多样性。",
+    "信任是一克一克赢得的，却是一公斤一公斤失去的。",
+    "未来十年，我们有很大的机会开发四到五个大型项目。",
+    "圣胡安已经在踢欧冠了，但还得对自己再多一点信心。"
+  ]
+}

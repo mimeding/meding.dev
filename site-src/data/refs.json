@@ -1,0 +1,345 @@
+{
+ "mux-bio": {
+  "key": "mux-bio",
+  "publisher": "McEwen Inc.",
+  "title": "Management team: Michael Meding, Managing Director, McEwen Copper",
+  "date": "2026",
+  "url": "https://www.mcewenmining.com/about-us/management-team/management-details/default.aspx?ItemId=14f233db-6a66-4b48-b6d6-6ae6426ec645"
+ },
+ "join": {
+  "key": "join",
+  "publisher": "GlobeNewswire",
+  "title": "McEwen Copper Announces Management Addition",
+  "date": "2022-02-17",
+  "url": "https://www.globenewswire.com/news-release/2022/02/17/2387012/0/en/McEwen-Copper-Announces-Management-Addition.html"
+ },
+ "eia": {
+  "key": "eia",
+  "publisher": "McEwen Inc. (SEC 8-K)",
+  "title": "Los Azules receives environmental approval for construction and operation",
+  "date": "2024-12-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/314203/000110465924125949/tm2430312d1_ex99-1.htm"
+ },
+ "fs": {
+  "key": "fs",
+  "publisher": "McEwen Inc.",
+  "title": "Los Azules Feasibility Study Confirms Economically Robust Copper Project With Leading ESG Performance",
+  "date": "2025-10-07",
+  "url": "https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2025/Los-Azules-Feasibility-Study-Confirms-Economically-Robust-Copper-Project-With-Leading-ESG-Performance/default.aspx"
+ },
+ "rigi-ln": {
+  "key": "rigi-ln",
+  "publisher": "LA NACION",
+  "title": "El Gobierno aprobó un nuevo proyecto RIGI: una minera invertirá US$2700 millones en San Juan",
+  "date": "2025-09-26",
+  "url": "https://www.lanacion.com.ar/economia/negocios/el-gobierno-aprobo-un-nuevo-proyecto-rigi-una-minera-invertira-us2700-millones-en-san-juan-nid26092025/"
+ },
+ "fm-2024": {
+  "key": "fm-2024",
+  "publisher": "Minería & Desarrollo",
+  "title": "Eligieron a Michael Meding de Los Azules como el Empresario Minero del Año",
+  "date": "2024-12-05",
+  "url": "https://www.mineriaydesarrollo.com/noticias/2024/12/05/17256-eligieron-a-michael-meding-de-los-azules-como-el-empresario-minero-del-ano"
+ },
+ "fm-2025": {
+  "key": "fm-2025",
+  "publisher": "Diario de Cuyo",
+  "title": "El vicepresidente de McEwen Copper, Michael Meding, fue elegido como 'Empresario Minero del Año 2025'",
+  "date": "2025-12-04",
+  "url": "https://www.diariodecuyo.com.ar/cuyominero/el-vicepresidente-de-los-azules-michael-meding-fue-elegido-como-empresario-minero-del-ano-2025-1806481.html"
+ },
+ "gemera-ej": {
+  "key": "gemera-ej",
+  "publisher": "EconoJournal",
+  "title": "Michael Meding, nuevo presidente de Gemera",
+  "date": "2024-10-07",
+  "url": "https://econojournal.com.ar/2024/10/michael-meding-nuevo-presidente-de-gemera-el-rigi-es-significativo-pero-el-desafio-de-la-mineria-es-el-desarrollo-de-infraestructura/"
+ },
+ "mux-la": {
+  "key": "mux-la",
+  "publisher": "McEwen Inc.",
+  "title": "Los Azules project page",
+  "date": "2026",
+  "url": "https://www.mcewenmining.com/operations/los-azules/default.aspx"
+ },
+ "li-team": {
+  "key": "li-team",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "2022 achievements at Los Azules (team 32 to 142)",
+  "date": "2023-01-02",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7015825807675686912/"
+ },
+ "li-champ": {
+  "key": "li-champ",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "RIGI Champion, AmCham Argentina",
+  "date": "2026-03-12",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7437921959902023681/"
+ },
+ "stellantis": {
+  "key": "stellantis",
+  "publisher": "Stellantis",
+  "title": "Stellantis announces strategic copper investment in Argentina",
+  "date": "2023-02-27",
+  "url": "https://www.stellantis.com/en/news/press-releases/2023/february/stellantis-announces-strategic-copper-investment-in-argentina-reinforcing-commitment-to-reaching-carbon-net-zero-by-2038"
+ },
+ "nuton35": {
+  "key": "nuton35",
+  "publisher": "GlobeNewswire",
+  "title": "McEwen Copper announces an additional US$35 million investment by Nuton",
+  "date": "2024-10-24",
+  "url": "https://www.globenewswire.com/news-release/2024/10/24/2968612/37420/en/McEwen-Copper-Announces-an-Additional-US-35-Million-Investment-by-Nuton-a-Rio-Tinto-Venture.html"
+ },
+ "ifc": {
+  "key": "ifc",
+  "publisher": "IFC, World Bank Group",
+  "title": "IFC supports McEwen Copper on sustainable financing for Los Azules",
+  "date": "2025-09-24",
+  "url": "https://www.ifc.org/en/pressroom/2025/ifc-supports-mcewen-copper-on-sustainable-financing-for-los-azules"
+ },
+ "sg": {
+  "key": "sg",
+  "publisher": "McEwen Inc.",
+  "title": "McEwen Copper appoints Société Générale as financial advisor for project debt financing of Los Azules",
+  "date": "2026-05-14",
+  "url": "https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Appoints-Societe-Generale-as-Financial-Advisor-for-Project-Debt-Financing-of-Los-Azules/default.aspx"
+ },
+ "loan": {
+  "key": "loan",
+  "publisher": "McEwen Inc. (SEC 8-K)",
+  "title": "McEwen Copper completes US$240 million term loan",
+  "date": "2026-08-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/tm2624401d1_ex99-1.htm"
+ },
+ "li-abitur": {
+  "key": "li-abitur",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "Abitur at the Alfred Krupp Schule, Essen",
+  "date": "2026-01-23",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7420260428548644864/"
+ },
+ "li-ruhr": {
+  "key": "li-ruhr",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "My grandfather, an underground coal miner in the Ruhr",
+  "date": "2026-01-23",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7420528097889832960/"
+ },
+ "tsj2023": {
+  "key": "tsj2023",
+  "publisher": "Tiempo de San Juan",
+  "title": "Cómo piensa, qué hace y los secretos del gerente de Los Azules",
+  "date": "2023-05-07",
+  "url": "https://www.tiempodesanjuan.com/economia/como-piensa-que-hace-y-los-secretos-del-gerente-los-azules-la-mina-cobre-que-esperanza-san-juan-n349156"
+ },
+ "mp2014": {
+  "key": "mp2014",
+  "publisher": "Mining Press",
+  "title": "Michael Meding (Barrick): San Juan, por la minería, más independiente",
+  "date": "2014-09-08",
+  "url": "https://miningpress.com/265133/michael-meding-barrick-san-juan-por-la-mineria-mas-independiente"
+ },
+ "handelsblatt": {
+  "key": "handelsblatt",
+  "publisher": "Handelsblatt",
+  "title": "Global Risk: Das erwartet Investoren in Mileis Argentinien",
+  "date": "2024-12-10",
+  "url": "https://www.handelsblatt.com/politik/international/global-risk-das-erwartet-investoren-in-mileis-argentinien-01/100092576.html"
+ },
+ "cmsj": {
+  "key": "cmsj",
+  "publisher": "CAEM",
+  "title": "La Cámara Minera de San Juan eligió nuevas autoridades",
+  "date": "2025-07-07",
+  "url": "https://caem.com.ar/la-camara-minera-de-san-juan-eligio-nuevas-autoridades/"
+ },
+ "li-cobre25": {
+  "key": "li-cobre25",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "Honorary President, Argentina Cobre 2025",
+  "date": "2025-08-05",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7358520441449193473/"
+ },
+ "la-cobre26": {
+  "key": "la-cobre26",
+  "publisher": "LinkedIn, Los Azules",
+  "title": "Los Azules en Expo San Juan Minera 2026",
+  "date": "2026-05-07",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7458206305724489729/"
+ },
+ "veredas": {
+  "key": "veredas",
+  "publisher": "Veredas do Direito",
+  "title": "The Legitimacy Trilemma (Meding, Arias-Valle, Ocampo Abadía, 2026)",
+  "date": "2026-01-09",
+  "url": "https://doi.org/10.18623/rvd.v23.n1.3939"
+ },
+ "fastmarkets": {
+  "key": "fastmarkets",
+  "publisher": "Fastmarkets",
+  "title": "Goldcorp founder Rob McEwen bets big on Argentine copper",
+  "date": "2025-06-03",
+  "url": "https://www.fastmarkets.com/insights/goldcorp-founder-rob-mcewen-bets-big-on-argentine-copper/"
+ },
+ "dia-md": {
+  "key": "dia-md",
+  "publisher": "Minería & Desarrollo",
+  "title": "El proyecto de cobre Los Azules en San Juan obtuvo luz verde para su explotación",
+  "date": "2024-12-03",
+  "url": "https://www.mineriaydesarrollo.com/noticias/2024/12/03/17213-el-proyecto-de-cobre-los-azules-en-san-juan-obtuvo-luz-verde-para-su-explotacion"
+ },
+ "rigi-bo": {
+  "key": "rigi-bo",
+  "publisher": "Boletín Oficial de la República Argentina",
+  "title": "Resolución 1553/2025, Ministerio de Economía: Proyecto Los Azules admitted to RIGI",
+  "date": "2025-10-14",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/332807/20251014"
+ },
+ "li-drill": {
+  "key": "li-drill",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "Feasibility drilling completed: 70,000 metres this season",
+  "date": "2024-05-16",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7196943683429060609/"
+ },
+ "q2call": {
+  "key": "q2call",
+  "publisher": "The Motley Fool (transcript)",
+  "title": "McEwen (MUX) Q2 2026 earnings call transcript",
+  "date": "2026-08-13",
+  "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/mcewen-mux-q2-2026-earnings-call-transcript/"
+ },
+ "local": {
+  "key": "local",
+  "publisher": "Minería & Desarrollo",
+  "title": "Los Azules invirtió USD 83,9 millones en los últimos 16 meses",
+  "date": "2026-06-08",
+  "url": "https://www.mineriaydesarrollo.com/noticias/2026/06/08/24749-los-azules-en-san-juan-invirtio-usd-83_9-millones-en-los-ultimos-16-meses"
+ },
+ "forbes-ai": {
+  "key": "forbes-ai",
+  "publisher": "Forbes Argentina",
+  "title": "Con el uso de IA, Los Azules espera descubrir nuevos recursos",
+  "date": "2026-09-03",
+  "url": "https://www.forbesargentina.com/summit/con-uso-ia-azules-espera-descubrir-nuevos-recursos-aumentar-vida-util-proyecto-n97156"
+ },
+ "li-ai": {
+  "key": "li-ai",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "Whole team trained on AI",
+  "date": "2026-04-26",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7454163428308393984/"
+ },
+ "alumbrera": {
+  "key": "alumbrera",
+  "publisher": "Reuters via MINING.COM",
+  "title": "Vicuña could double investment in Argentina copper project to $800m in 2026",
+  "date": "2026-02-09",
+  "url": "https://www.mining.com/web/vicuna-could-double-investment-in-argentina-copper-project-to-800m-in-2026-executive-says/"
+ },
+ "pipeline": {
+  "key": "pipeline",
+  "publisher": "Panorama Minero",
+  "title": "Cobre: cartera de proyectos en Argentina podría superar 1,5 millones de toneladas de producción hacia 2035",
+  "date": "2026",
+  "url": "https://www.panorama-minero.com/es/news/cobre-cartera-de-proyectos-en-argentina-podria-superar-1-5-millones-de-toneladas-de-produccion-hacia-2035"
+ },
+ "rigi-gob": {
+  "key": "rigi-gob",
+  "publisher": "Gobierno de la Argentina",
+  "title": "RIGI: qué es",
+  "date": "2026",
+  "url": "https://www.argentina.gob.ar/economia/rigi/que-es"
+ },
+ "sp": {
+  "key": "sp",
+  "publisher": "S&P Global",
+  "title": "Copper in the Age of AI: substantial shortfall in copper supply widens",
+  "date": "2026-01-08",
+  "url": "https://press.spglobal.com/2026-01-08-Substantial-Shortfall-in-Copper-Supply-Widens-as-the-Race-for-AI-and-Growing-Defense-Spending-Add-to-Accelerating-Demand,-New-S-P-Global-Study-Finds"
+ },
+ "iea": {
+  "key": "iea",
+  "publisher": "International Energy Agency",
+  "title": "Global Critical Minerals Outlook 2026, outlook",
+  "date": "2026-07-16",
+  "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2026/outlook"
+ },
+ "ypf": {
+  "key": "ypf",
+  "publisher": "YPF Luz",
+  "title": "YPF Luz y Los Azules firman acuerdo exclusivo de energía renovable",
+  "date": "2024-08-26",
+  "url": "https://www.ypfluz.com/Noticias/NoticiaCompleta/176"
+ },
+ "mi2022": {
+  "key": "mi2022",
+  "publisher": "MINING.COM",
+  "title": "Ranked: World's top 10 copper mining projects, 2022 (Mining Intelligence data)",
+  "date": "2022-02-16",
+  "url": "https://www.mining.com/featured-article/ranked-worlds-top-10-copper-mining-projects-2022/"
+ },
+ "li-dnm": {
+  "key": "li-dnm",
+  "publisher": "LinkedIn, Michael Meding",
+  "title": "Diploma from the Dirección Nacional de Migraciones, San Juan",
+  "date": "2024-09-04",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7237125204592730112/"
+ },
+ "gemera-ambito": {
+  "key": "gemera-ambito",
+  "publisher": "Ámbito",
+  "title": "GEMERA advirtió que Argentina desconoce el 80% de sus recursos mineros",
+  "date": "2026-05-12",
+  "url": "https://www.ambito.com/energia/gemera-advirtio-que-argentina-desconoce-el-80-sus-recursos-mineros-y-reclamo-triplicar-la-inversion-exploracion-n6276735"
+ },
+ "fy24": {
+  "key": "fy24",
+  "publisher": "McEwen Inc. (SEC 10-K/A)",
+  "title": "McEwen Copper Inc. financial statements 2024 (head office)",
+  "date": "2025-05-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/314203/000155837025006193/mux-20241231xex99d1.htm"
+ },
+ "create": {
+  "key": "create",
+  "publisher": "GlobeNewswire",
+  "title": "MUX Creates McEwen Copper Which Announces $80 Million Series B Private Placement to Advance the Los Azules Copper Project",
+  "date": "2021-07-06",
+  "url": "https://www.globenewswire.com/news-release/2021/07/06/2258019/37420/en/MUX-Creates-McEwen-Copper-Which-Announces-80-Million-Series-B-Private-Placement-to-Advance-the-Los-Azules-Copper-Project.html"
+ },
+ "fy25": {
+  "key": "fy25",
+  "publisher": "McEwen Inc. (SEC 10-K/A)",
+  "title": "McEwen Copper Inc. consolidated financial statements 2025",
+  "date": "2026-05-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926064573/mux-20251231xex99d1.htm"
+ },
+ "gbm": {
+  "key": "gbm",
+  "publisher": "Reuters via GBM",
+  "title": "Cobre y cerveza: ejecutivo minero alemán abre fábrica en Argentina",
+  "date": "2026-05-12",
+  "url": "https://gbm.com/media/noticia/cobre-y-cerveza-ejecutivo-minero-aleman-abre-en-fabrica-en-argentina-para-saciar-su-sed"
+ },
+ "loan-pr": {
+  "key": "loan-pr",
+  "publisher": "McEwen Inc.",
+  "title": "McEwen Copper Completes US$240 Million Term Loan to Advance Los Azules Toward Final Investment Decision",
+  "date": "2026-08-27",
+  "url": "https://www.mcewenmining.com/investor-relations/press-releases/press-release-details/2026/McEwen-Copper-Completes-US240-Million-Term-Loan-to-Advance-Los-Azules-Toward-Final-Investment-Decision/default.aspx"
+ },
+ "trs": {
+  "key": "trs",
+  "publisher": "McEwen Inc. (SEC, Exhibit 96)",
+  "title": "S-K 1300 Technical Report Summary, Feasibility Study: Los Azules Copper Mining Project, Argentina. Effective date 3 September 2025; report date 31 December 2025",
+  "date": "2025-12-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926028705/mux-20251231xex96.htm"
+ },
+ "ssrn": {
+  "key": "ssrn",
+  "publisher": "SSRN",
+  "title": "Mapping the Knowledge Landscape of Social License to Operate in Mining: A Bibliometric Study (Meding, Arias Valle, Ocampo Abadía, 2025)",
+  "date": "2025",
+  "url": "https://doi.org/10.2139/ssrn.5407877"
+ }
+}
