@@ -469,7 +469,7 @@ def person_node(l, full=True):
         'memberOf': [
             {'@type': 'OrganizationRole', 'roleName': 'President', 'startDate': '2024', 'memberOf': {'@type': 'Organization', 'name': 'GEMERA (Grupo de Empresas Mineras Exploradoras de la República Argentina)'}},
             {'@type': 'OrganizationRole', 'roleName': 'Vice President', 'startDate': '2025', 'memberOf': {'@type': 'Organization', 'name': 'CAEM (Cámara Argentina de Empresarios Mineros)'}},
-            {'@type': 'OrganizationRole', 'roleName': 'Board member', 'startDate': '2025', 'memberOf': {'@type': 'Organization', 'name': 'Cámara Minera de San Juan'}},
+            {'@type': 'OrganizationRole', 'roleName': 'Executive committee member', 'startDate': '2025', 'memberOf': {'@type': 'Organization', 'name': 'Cámara Minera de San Juan'}},
         ],
         'alumniOf': [{'@type': 'CollegeOrUniversity', 'name': n} for n in ('Ruhr-Universität Bochum', 'HHL Leipzig Graduate School of Management', 'Indiana University of Pennsylvania')],
         'sameAs': [
@@ -701,7 +701,6 @@ def render_la(l):
 </div>
 {stats_html(p, "la", [("reserves", a["stat_reserves"] + "[[r:fs]]"), ("output", a["stat_output"] + "[[r:fs]]"), ("capex", a["stat_capex"] + "[[r:fs]]"), ("npv", a["stat_npv"] + "[[r:fs]]"), ("irr", a["stat_irr"] + "[[r:fs]]")])}
 <p class="snote"><a href="#technical">{esc(a["stats_note"])}</a></p>
-<p class="hnote">{esc(a["la_notice"])}</p>
 </div></section>'''
     secs = []
     secs.append(section('life', esc(a['h_life']), f'<p>{p.t(a["life_p"])}</p>{life_bar(p)}<p class="note">{esc(a["life_note"])} <a href="#technical">{esc(a["h_tech"])} ↓</a></p>', 's s-first'))
@@ -740,7 +739,7 @@ def render_la(l):
     secs.append(section('mcewen-copper', esc(a['h_mcewen']), mc))
     secs.append(section('argentina', esc(a['h_argentina']), '<ul class="ar">' + ''.join(f'<li>{p.t(x)}</li>' for x in a['argentina']) + '</ul>'))
     tn = f'<p class="note tnote">{esc(a["tech_translation_note"])}</p>' if a['tech_translation_note'] else ''
-    tech = ''.join(f'<p>{p.t(a[k])}</p>' for k in ('tech_p1', 'tech_p2', 'tech_p3', 'tech_p4')) + tn
+    tech = f'<p>{esc(a["la_notice"])}</p>' + ''.join(f'<p>{p.t(a[k])}</p>' for k in ('tech_p1', 'tech_p2', 'tech_p3', 'tech_p4')) + tn
     secs.append(section('technical', esc(a['h_tech']), tech, 's s-legal'))
     faq = ''.join(f'<details class="faq"><summary>{esc(f["q"])}</summary><p>{p.t(f["a"])}</p></details>' for f in a['faq'])
     secs.append(section('faq', esc(a['h_faq']), faq))
@@ -893,8 +892,7 @@ def llms_full_txt():
     lines += ['', '## Questions and answers', '']
     for f in h['faq'] + a['faq']:
         lines += [f'### {f["q"]}', '', src(f['a']), '']
-    past = sum(1 for x in X['speaking'] if not x['upcoming'])
-    lines += [f'## Speaking ({past} appearances since 2022, plus {len(X["speaking"]) - past} confirmed)', '']
+    lines += ['## Speaking engagements (selected conferences since 2022)', '', '- ' + C['en']['speaking']['sub'], '']
     for s in X['speaking']:
         lines.append(f'- {event_date(s)}: {s["event"]}, {s["city"]}. {C["en"]["speaking"]["roles"][s["id"]]}' + (' (upcoming)' if s['upcoming'] else ''))
     lines += ['', '## Press coverage', ''] + [f'- {it["iso"]}, {it["outlet"]}: [{it["headline"]}]({it["url"]})' for it in X['press']]
