@@ -94,7 +94,7 @@
     "stat_cathode": "first commercial cathode target",
     "h_overview": "Overview",
     "overview": [
-      "Michael Meding leads Los Azules, a copper porphyry in the Andes of Calingasta, San Juan, and the 10th largest undeveloped copper porphyry in the world by total mineral resources. He joined McEwen Copper in February 2022 to run the project, first as Vice President and General Manager and, since 2026, as Managing Director. In his first year the team grew from 32 to 142 direct employees, and over the three drilling seasons that led to the feasibility study it drilled more than 120,000 metres. Since then Los Azules has published an updated preliminary economic assessment and a feasibility study, secured its environmental permit for construction and operation, and became the first copper project admitted to Argentina's RIGI. Stellantis and Rio Tinto's Nuton came in as strategic investors, the IFC signed a collaboration agreement, Société Générale was appointed financial advisor for project debt, and in August 2026 McEwen Copper closed a US$240 million term loan. The final investment decision is expected in mid-2027, with first commercial cathode targeted for 2030.[[r:fs,join,li-team,eia,rigi-ln,stellantis,nuton35,ifc,sg,loan-pr]]",
+      "Los Azules is the 10th largest undeveloped copper porphyry in the world by total mineral resources, high in the Andes of Calingasta, San Juan. Michael Meding took charge in February 2022, first as Vice President and General Manager and, since 2026, as Managing Director of McEwen Copper. In his first year the team grew from 32 to 142 direct employees, and over the three drilling seasons that led to the feasibility study it drilled more than 120,000 metres. In the same years he brought in Stellantis and Rio Tinto's Nuton as strategic investors, signed a collaboration agreement with the IFC and appointed Société Générale as financial advisor for project debt. The final investment decision is expected in mid-2027, with first commercial cathode targeted for 2030.[[r:fs,join,li-team,stellantis,nuton35,ifc,sg,loan-pr]]",
       "He was born in Düsseldorf and finished school at the Alfred Krupp Schule in Essen, in the Ruhr, where his grandfather worked underground as a coal miner. He started at PwC, which sent him to Switzerland; he stayed seven years and joined Novartis through its CFO development programme. A move to Chile began more than fifteen years in Latin America, with CFO roles at multinational companies in Chile and Argentina. He came to mining in 2010 as CFO of Barrick Gold's Argentine operations, where he played a key role in the turnaround and mine life extension of Veladero and in the strategic partnership with Shandong Gold. At Trafigura he was CFAO of a polymetallic mining operation. He has worked in eight countries across Europe and the Americas and lives between San Juan and Toronto.[[r:li-abitur,li-ruhr,tsj2023,mp2014,mux-bio]]",
       "He is president of GEMERA, the first foreigner to hold the role, vice president of CAEM and a member of the executive committee of the Cámara Minera de San Juan. He chaired Argentina Cobre, the country's copper conference, as honorary president in 2025 and president in 2026. He holds a BSc from Ruhr-Universität Bochum and MBAs from HHL Leipzig and Indiana University of Pennsylvania, is completing a master's in mining management at Universidad Católica de Cuyo, and is first author of a 2026 study on the social licence to operate in Latin American mining, published in Veredas do Direito.[[r:gemera-ej,handelsblatt,cmsj,li-cobre25,la-cobre26,veredas]]"
     ],
@@ -103,11 +103,11 @@
     "latest_quote_attr": "Michael Meding, Managing Director of McEwen Copper, in the company's announcement",
     "latest_more": "Loan terms, lenders and the full financing record",
     "h_caps": "Track record",
-    "caps_sub": "What changed at Los Azules on his watch, and what he brought to it.",
+    "caps_sub": "What he has delivered at Los Azules, and the experience he brought to it.",
     "caps": [
       {
         "t": "Capital for a greenfield mine",
-        "c": "Strategic investors, an IFC collaboration agreement, a project debt advisor and a US$240 million term loan for an undeveloped copper project.",
+        "c": "He built the capital base of a greenfield copper project: two strategic shareholders, the IFC, a project debt advisor and a US$240 million term loan.",
         "e": [
           "Fastmarkets: with Meding on board, McEwen Copper raised US$453 million and brought in Stellantis and Rio Tinto.[[r:fastmarkets]]",
           "Nuton, a Rio Tinto venture, invested a cumulative US$100 million; Stellantis became a strategic shareholder.[[r:li-champ]]",
@@ -118,7 +118,7 @@
       },
       {
         "t": "Permits and public policy",
-        "c": "Los Azules received its environmental permit and became the first copper project admitted to the RIGI.",
+        "c": "He took Los Azules through its environmental permit and made it the first copper project approved under the RIGI.",
         "e": [
           "Environmental permit for construction and operation granted in December 2024; the provincial technical evaluation was completed in under a year.[[r:dia-md]]",
           "Resolución 1553/2025 admits Los Azules to the RIGI with a plan of US$2,672 million.[[r:rigi-bo]]",
@@ -137,7 +137,7 @@
       },
       {
         "t": "A San Juan team",
-        "c": "A project organisation rooted in the province.",
+        "c": "He built the project team in San Juan, with people from San Juan.",
         "e": [
           "32 employees in December 2021, 142 direct employees in December 2022.[[r:li-team]]",
           "2023: management “99% integrada por sanjuaninos” (99% from San Juan).[[r:tsj2023]]",
@@ -163,7 +163,7 @@
       },
       {
         "t": "AI in the business",
-        "c": "Los Azules geologists work with AI and machine learning, and the whole team trained on AI in 2026.",
+        "c": "He put AI to work in exploration and trained the whole team to use it.",
         "e": [
           "“Todos mis geólogos están trabajando hoy tanto con IA como con machine learning” (all my geologists now work with AI and machine learning).[[r:forbes-ai]]",
           "Forbes Argentina, 2026: how the Los Azules team applies AI to exploration.[[r:forbes-ai]]",
@@ -217,7 +217,7 @@
       {
         "y": "2024",
         "m": 5,
-        "t": "Feasibility drilling completed: 70,000 metres this season, after 39,000 metres in 2022/23"
+        "t": "Feasibility drilling completed: 70,000 metres in 2023/24, after 39,000 metres in 2022/23"
       },
       {
         "y": "2024",
@@ -397,7 +397,7 @@
         "p": "Switzerland · Chile"
       },
       {
-        "o": "Multinationals",
+        "o": "Multinational companies",
         "d": "CFO roles in Chile and Argentina",
         "p": "Chile · Argentina"
       },
@@ -413,7 +413,7 @@
       },
       {
         "o": "McEwen Copper",
-        "d": "Leads Los Azules since February 2022; Managing Director",
+        "d": "Leading Los Azules since February 2022; Managing Director since 2026",
         "p": "San Juan · Toronto"
       }
     ],
@@ -658,7 +658,7 @@
     "econ_note": "Base case of the feasibility study announced on 7 October 2025.[[r:fs]]",
     "h_fin": "Financing",
     "h_loan": "US$240 million term loan, August 2026",
-    "loan_intro": "On 27 August 2026 McEwen Copper completed a US$240 million senior secured term loan to continue advancing engineering and early works at Los Azules, and for general corporate purposes.[[r:loan-pr,loan]]",
+    "loan_intro": "On 27 August 2026 McEwen Copper closed a US$240 million senior secured term loan to fund engineering and early works at Los Azules and for general corporate purposes.[[r:loan-pr,loan]]",
     "loan_terms": [
       {
         "k": "Amount",
@@ -836,7 +836,7 @@
     "stat_lom": "mine life in the feasibility study base case",
     "stat_upside": "potential extension in the upside case",
     "h_life": "21 years in the plan, with room for decades more",
-    "life_p": "The feasibility study base case is a 21-year mine life on proven and probable reserves, and there is more beyond it. Rio Tinto's Nuton leaching technology could allow the primary sulphides to be processed with the same infrastructure, and a conventional concentrator would lift copper recoveries and also recover gold and silver. McEwen Copper has said either route could extend mine life by 30 years or more, which could make Los Azules a mine for more than one generation.[[r:fs]]",
+    "life_p": "The feasibility study base case is a 21-year mine life on proven and probable reserves. The deposit offers more. Rio Tinto's Nuton leaching technology could allow the primary sulphides to be processed with the same infrastructure, and a conventional concentrator would lift copper recoveries and also recover gold and silver. McEwen Copper has said either route could extend mine life by 30 years or more, which could make Los Azules a mine for more than one generation.[[r:fs]]",
     "life_base": "Feasibility study: 21 years",
     "life_up": "Growth case: 30 years or more",
     "life_opts": "Nuton leaching or a concentrator for the primary sulphides",
@@ -952,9 +952,9 @@
     "h_kit": "Press kit",
     "kit_sub": "Bios and photographs for editors and event organisers, free to use with credit.",
     "h_bio_short": "Short bio (about 60 words)",
-    "bio_short": "Michael Meding is Managing Director of McEwen Copper and has led the Los Azules copper project in San Juan, Argentina, since February 2022. In that time the project received its environmental permit, published its feasibility study, became the first copper project approved under Argentina's RIGI and closed a US$240 million term loan. He is president of GEMERA and was named Mining Entrepreneur of the Year in 2024 and 2025.",
+    "bio_short": "Michael Meding is Managing Director of McEwen Copper and has led the Los Azules copper project in San Juan, Argentina, since February 2022. In that time the project secured its environmental permit, completed its feasibility study, became the first copper project approved under Argentina's RIGI and closed a US$240 million term loan. He is president of GEMERA and was named Mining Entrepreneur of the Year in 2024 and 2025.",
     "h_bio_long": "Long bio (about 150 words)",
-    "bio_long": "Michael Meding is a German mining executive and Managing Director of McEwen Copper. Since February 2022 he has led Los Azules, a copper project in San Juan, Argentina, that McEwen Copper reports ranks 10th globally by total mineral resources among undeveloped copper porphyry deposits. Under his leadership the project received its environmental permit, published a feasibility study, became the first copper project approved under Argentina's RIGI investment regime and closed a US$240 million term loan in 2026. Stellantis and Rio Tinto's Nuton joined as strategic shareholders. Before Los Azules he worked in corporate and mine finance with PwC, Novartis, Barrick Gold and Trafigura, in Europe and Latin America. He is president of GEMERA, vice president of CAEM and was named Mining Entrepreneur of the Year in 2024 and 2025. He holds a BSc from Ruhr-Universität Bochum and MBAs from HHL Leipzig and Indiana University of Pennsylvania.",
+    "bio_long": "Michael Meding is a German mining executive and Managing Director of McEwen Copper. Since February 2022 he has led Los Azules in San Juan, Argentina, the 10th largest undeveloped copper porphyry in the world by total mineral resources. Under his leadership the project secured its environmental permit, completed a feasibility study, became the first copper project approved under Argentina's RIGI investment regime and closed a US$240 million term loan in 2026, with Stellantis and Rio Tinto's Nuton as strategic shareholders. He came to mining from corporate finance: PwC and Novartis in Switzerland, CFO roles in Chile and Argentina, then Barrick Gold, as CFO of its Argentine operations, and Trafigura. He is president of GEMERA and vice president of CAEM, and was named Mining Entrepreneur of the Year in 2024 and 2025. He holds a BSc from Ruhr-Universität Bochum and MBAs from HHL Leipzig and Indiana University of Pennsylvania.",
     "h_photos": "Photographs",
     "photo_headshot": "Headshot, square, 423 × 423 px",
     "photo_stage": "On stage, Stockholm 2025, 1600 × 1066 px",
