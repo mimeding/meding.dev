@@ -23,6 +23,9 @@ Manual alternative from the repo root:
 3. Overview or AI Crawl Control: "Manage robots.txt" (Cloudflare's managed robots.txt) off, so the site's own robots.txt is served.
 4. Caching > Configuration: Crawler Hints on (sends IndexNow pings to Bing, Yandex and others).
 
+## IndexNow
+The key file `91a11054d3a9439d5822987f0985c101.txt` sits in `public/` (source: `site-src/assets/`). After a content change, ping `https://api.indexnow.org/indexnow?url=<page URL>&key=91a11054d3a9439d5822987f0985c101` for each changed page, or rely on Cloudflare Crawler Hints once it is on.
+
 ## After upload
 1. Google Search Console: add the domain property meding.dev, submit https://meding.dev/sitemap.xml, request indexing for / and /los-azules/.
 2. Bing Webmaster Tools: import from Search Console, submit the sitemap.
