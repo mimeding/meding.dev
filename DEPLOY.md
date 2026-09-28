@@ -18,7 +18,7 @@ Manual alternative from the repo root:
 - `images/`: photos of the previous site, kept so old links keep working.
 
 ## Cloudflare settings (dashboard)
-1. Rules > Redirect Rules: redirect `www.meding.dev/*` to `https://meding.dev/${1}` with status 301 (Pages `_redirects` cannot redirect between hostnames).
+1. The www redirect is handled in the repo by `functions/_middleware.js` (301 from www.meding.dev to meding.dev). No dashboard rule is needed.
 2. Security > Bots: Bot Fight Mode off; "Block AI bots" off.
 3. Overview or AI Crawl Control: "Manage robots.txt" (Cloudflare's managed robots.txt) off, so the site's own robots.txt is served.
 4. Caching > Configuration: Crawler Hints on (sends IndexNow pings to Bing, Yandex and others).
