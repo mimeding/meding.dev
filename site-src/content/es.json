@@ -476,8 +476,8 @@
     "card_edu": "Formación",
     "card_edu_v": "BSc Bochum · MBA HHL Leipzig · MBA IUP",
     "card_contact": "Contacto de prensa",
-    "card_photo_cap": "Estocolmo, octubre de 2025",
-    "card_photo_alt": "Michael Meding presenta Los Azules en Nordic Funds and Mines, en Estocolmo",
+    "card_photo_cap": "",
+    "card_photo_alt": "Retrato de Michael Meding",
     "card_born_r": "tsj2023",
     "hero_lede": "Michael Meding, ejecutivo minero alemán, conduce desde febrero de 2022 el proyecto de cobre Los Azules, en San Juan, Argentina, y es director general de McEwen Copper. Llegó a la minería desde las finanzas corporativas: PwC y Novartis en Suiza, más de quince años en América Latina y luego Barrick Gold y Trafigura. Bajo su liderazgo Los Azules obtuvo su Declaración de Impacto Ambiental, publicó su estudio de factibilidad, se convirtió en el primer proyecto de cobre aprobado en el RIGI (Régimen de Incentivo para Grandes Inversiones) y cerró un préstamo a plazo de US$240 millones.[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
     "rail": [
@@ -944,7 +944,10 @@
       "s57": "McEwen Copper y Los Azules",
       "s58": "McEwen Copper y Los Azules"
     },
-    "cta": "Invitaciones como orador y pedidos de entrevista: michael@meding.dev"
+    "cta": "Invitaciones como orador y pedidos de entrevista: michael@meding.dev",
+    "alt_forbes": "Michael Meding en el escenario del Forbes Mining Summit de Forbes Argentina",
+    "cap_forbes": "Forbes Mining Summit, Argentina.",
+    "alt_forbes_sp": "Michael Meding en el Forbes Mining Summit, con los logos de McEwen Copper y Los Azules en el panel de patrocinadores"
   },
   "press": {
     "h1": "Prensa",
@@ -956,8 +959,8 @@
     "h_bio_long": "Biografía extensa (unas 150 palabras)",
     "bio_long": "Michael Meding, ejecutivo minero alemán, es director general de McEwen Copper. Desde febrero de 2022 conduce Los Azules, en San Juan, Argentina, el décimo mayor pórfido de cobre sin desarrollar del mundo por recursos minerales totales. Bajo su liderazgo el proyecto obtuvo su Declaración de Impacto Ambiental, concluyó un estudio de factibilidad, se convirtió en el primer proyecto de cobre aprobado en el RIGI (Régimen de Incentivo para Grandes Inversiones) y cerró en 2026 un préstamo a plazo de US$240 millones, con Stellantis y Nuton, de Rio Tinto, como accionistas estratégicos. Llegó a la minería desde las finanzas corporativas: PwC y Novartis en Suiza, cargos de CFO en Chile y la Argentina, luego Barrick Gold, como CFO de sus operaciones argentinas, y Trafigura. Preside GEMERA, es vicepresidente de CAEM y fue elegido Empresario Minero del Año en 2024 y 2025. Es licenciado (BSc) por la Ruhr-Universität Bochum y tiene sendos MBA de HHL Leipzig y de Indiana University of Pennsylvania.",
     "h_photos": "Fotografías",
-    "photo_headshot": "Retrato, cuadrado, 423 × 423 px",
-    "photo_stage": "En el escenario, Estocolmo 2025, 1600 × 1066 px",
+    "photo_headshot": "Retrato, cuadrado, 1200 × 1200 px",
+    "photo_stage": "En el escenario, Forbes Mining Summit, 2000 × 1126 px",
     "photo_dc": "Benchmark Giga US, Washington 2026, 1600 × 1066 px",
     "download": "Descargar",
     "h_data": "Datos para editores y asistentes de IA",
@@ -968,7 +971,8 @@
     "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper",
     "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots",
     "h_coverage": "Cobertura",
-    "contact": "Contacto de prensa"
+    "contact": "Contacto de prensa",
+    "photo_studio": "Retrato de estudio, 1200 × 1800 px"
   },
   "quotes_reference_do_not_translate": [
     {

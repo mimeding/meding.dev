@@ -476,8 +476,8 @@
     "card_edu": "Education",
     "card_edu_v": "BSc Bochum · MBA HHL Leipzig · MBA IUP",
     "card_contact": "Press contact",
-    "card_photo_cap": "Stockholm, October 2025",
-    "card_photo_alt": "Michael Meding presenting Los Azules at Nordic Funds and Mines in Stockholm",
+    "card_photo_cap": "",
+    "card_photo_alt": "Portrait of Michael Meding",
     "card_born_r": "tsj2023",
     "hero_lede": "Michael Meding is a German mining executive who has led the Los Azules copper project in San Juan, Argentina, since February 2022 and is Managing Director of McEwen Copper. He came to mining from corporate finance: PwC and Novartis in Switzerland, more than fifteen years in Latin America, then Barrick Gold and Trafigura. Under his leadership Los Azules received its environmental permit, published its feasibility study, became the first copper project approved under Argentina's RIGI and closed a US$240 million term loan.[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
     "rail": [
@@ -944,7 +944,10 @@
       "s57": "McEwen Copper and Los Azules",
       "s58": "McEwen Copper and Los Azules"
     },
-    "cta": "Speaking and interview requests: michael@meding.dev"
+    "cta": "Speaking and interview requests: michael@meding.dev",
+    "alt_forbes": "Michael Meding speaking on stage at the Forbes Argentina Mining Summit",
+    "cap_forbes": "Forbes Mining Summit, Argentina.",
+    "alt_forbes_sp": "Michael Meding on stage at the Forbes Mining Summit, with the McEwen Copper and Los Azules logos on the sponsor wall"
   },
   "press": {
     "h1": "Press",
@@ -956,8 +959,8 @@
     "h_bio_long": "Long bio (about 150 words)",
     "bio_long": "Michael Meding is a German mining executive and Managing Director of McEwen Copper. Since February 2022 he has led Los Azules in San Juan, Argentina, the 10th largest undeveloped copper porphyry in the world by total mineral resources. Under his leadership the project secured its environmental permit, completed a feasibility study, became the first copper project approved under Argentina's RIGI investment regime and closed a US$240 million term loan in 2026, with Stellantis and Rio Tinto's Nuton as strategic shareholders. He came to mining from corporate finance: PwC and Novartis in Switzerland, CFO roles in Chile and Argentina, then Barrick Gold, as CFO of its Argentine operations, and Trafigura. He is president of GEMERA and vice president of CAEM, and was named Mining Entrepreneur of the Year in 2024 and 2025. He holds a BSc from Ruhr-Universität Bochum and MBAs from HHL Leipzig and Indiana University of Pennsylvania.",
     "h_photos": "Photographs",
-    "photo_headshot": "Headshot, square, 423 × 423 px",
-    "photo_stage": "On stage, Stockholm 2025, 1600 × 1066 px",
+    "photo_headshot": "Headshot, square, 1200 × 1200 px",
+    "photo_stage": "On stage, Forbes Mining Summit, 2000 × 1126 px",
     "photo_dc": "Benchmark Giga US, Washington 2026, 1600 × 1066 px",
     "download": "Download",
     "h_data": "Facts for editors and AI assistants",
@@ -968,7 +971,8 @@
     "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper",
     "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots",
     "h_coverage": "Coverage",
-    "contact": "Press contact"
+    "contact": "Press contact",
+    "photo_studio": "Studio portrait, 1200 × 1800 px"
   },
   "quotes_reference_do_not_translate": [
     {

@@ -476,8 +476,8 @@
     "card_edu": "学歴",
     "card_edu_v": "BSc Bochum／MBA HHL Leipzig／MBA IUP",
     "card_contact": "報道関係者窓口",
-    "card_photo_cap": "ストックホルム、2025年10月",
-    "card_photo_alt": "ストックホルムのNordic Funds and Minesでロス・アスレスを紹介するマイケル・メディング（Michael Meding）氏",
+    "card_photo_cap": "",
+    "card_photo_alt": "マイケル・メディングの肖像写真",
     "card_born_r": "tsj2023",
     "hero_lede": "マイケル・メディング（Michael Meding）氏はドイツ人の鉱業経営者で、2022年2月からアルゼンチン・サン・フアン州のロス・アスレス（Los Azules）銅プロジェクトを率いており、マッキュアン・カッパー（McEwen Copper）のマネージングディレクターを務める。鉱業へは企業財務の世界から転じた。スイスのPwCとノバルティスで経験を積み、中南米で15年以上働いた後、バリック・ゴールド、トラフィグラへと移った。同氏の下でロス・アスレスは環境許可を取得し、フィージビリティ・スタディ（FS）を公表した。アルゼンチンの大型投資奨励制度（RIGI）では銅プロジェクトとして初めて承認を受け、2億4,000万米ドルのタームローンで資金も確保している。[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
     "rail": [
@@ -944,7 +944,10 @@
       "s57": "マッキュアン・カッパーとロス・アスレス",
       "s58": "マッキュアン・カッパーとロス・アスレス"
     },
-    "cta": "講演・取材依頼：michael@meding.dev"
+    "cta": "講演・取材依頼：michael@meding.dev",
+    "alt_forbes": "Forbes Argentina主催のForbes Mining Summitで登壇するマイケル・メディング",
+    "cap_forbes": "Forbes Mining Summit（アルゼンチン）。",
+    "alt_forbes_sp": "Forbes Mining Summitの壇上のマイケル・メディング。背景のスポンサーボードにMcEwen CopperとLos Azulesのロゴ"
   },
   "press": {
     "h1": "報道",
@@ -956,8 +959,8 @@
     "h_bio_long": "略歴（詳細版、約500字）",
     "bio_long": "マイケル・メディング（Michael Meding）氏はドイツ人の鉱業経営者で、マッキュアン・カッパー（McEwen Copper）のマネージングディレクターを務める。2022年2月から、アルゼンチン・サン・フアン州のロス・アスレス（Los Azules）を率いている。同プロジェクトは鉱物資源量の総量でみて、未開発の斑岩銅鉱床として世界10位の規模を持つ。同氏の指揮の下、プロジェクトは環境許可を取得し、フィージビリティ・スタディを完了した。アルゼンチンの大型投資奨励制度（RIGI）では銅プロジェクトとして初めて承認を受け、2026年には2億4,000万米ドルのタームローンで資金を確保した。戦略的株主にはステランティスとリオ・ティント傘下のヌートンが名を連ねる。鉱業へは企業財務の世界から転じた。スイスでPwCとノバルティスに勤務した後、チリとアルゼンチンでCFOを歴任し、バリック・ゴールドでアルゼンチン事業のCFOを務め、トラフィグラに移った。GEMERA会長、CAEM副会長を務め、2024年と2025年に年間最優秀鉱業経営者に選ばれた。Ruhr-Universität Bochumで理学士号を、HHL LeipzigとIndiana University of PennsylvaniaでMBAを取得している。",
     "h_photos": "写真",
-    "photo_headshot": "顔写真、正方形、423 × 423ピクセル",
-    "photo_stage": "登壇写真、ストックホルム、2025年、1600×1066ピクセル",
+    "photo_headshot": "顔写真、正方形、1200 × 1200ピクセル",
+    "photo_stage": "登壇写真、Forbes Mining Summit、2000 × 1126ピクセル",
     "photo_dc": "Benchmark Giga US、ワシントン、2026年、1600×1066ピクセル",
     "download": "ダウンロード",
     "h_data": "編集者・AIアシスタント向けの基本データ",
@@ -968,7 +971,8 @@
     "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper（エネルギー転換の原動力としての銅：マッキュアン・カッパーのマネージングディレクター、マイケル・メディング）",
     "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots（銅、投資、戦争、ロボットの入門講座）",
     "h_coverage": "報道一覧",
-    "contact": "報道関係者窓口"
+    "contact": "報道関係者窓口",
+    "photo_studio": "スタジオ撮影のポートレート、1200 × 1800ピクセル"
   },
   "quotes_reference_do_not_translate": [
     {

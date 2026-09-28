@@ -231,7 +231,8 @@ def domain(u):
 IMG = {  # file: (width, height)
     'portrait.jpg': (1600, 1066), 'site-delegations.jpg': (1400, 1048), 'ifc-2025.jpg': (1400, 788),
     'entrepreneur-2025.jpg': (1167, 1600), 'diploma-2024.jpg': (1400, 785), 'new-york-2024.jpg': (1400, 1050),
-    'washington-2026-colour.jpg': (1600, 1067),
+    'washington-2026-colour.jpg': (1600, 1067), 'portrait-studio-2026.jpg': (1200, 1800),
+    'forbes-summit-stage.jpg': (2000, 1126), 'forbes-summit-sponsors.jpg': (1600, 901),
 }
 
 
@@ -271,7 +272,7 @@ def head(p, title, desc, jsonld, og_type='website'):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{p.url()}">
-<meta property="og:image" content="{SITE}/img/og-{l}.jpg">
+<meta property="og:image" content="{SITE}/img/og2-{l}.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Michael Meding">
@@ -433,7 +434,7 @@ def aside_card(p):
             ('card_honours', 'card_honours_v', 'fm-2024,fm-2025'), ('card_edu', 'card_edu_v', '')]
     dl = ''.join(f'<div><dt>{esc(h[a])}</dt><dd>{esc(h[b])}{p.tr(r)}</dd></div>' for a, b, r in rows)
     return f'''<aside class="ib">
-<figure class="ib-p">{img(p, "portrait.jpg", h["card_photo_alt"], "69% 20%", eager=load, sizes="(min-width: 960px) 320px, 100vw")}<figcaption>{esc(h["card_photo_cap"])}</figcaption></figure>
+<figure class="ib-p">{img(p, "portrait-studio-2026.jpg", h["card_photo_alt"], "50% 8%", eager=load, sizes="(min-width: 960px) 320px, 100vw")}{f'<figcaption>{esc(h["card_photo_cap"])}</figcaption>' if h["card_photo_cap"] else ''}</figure>
 <p class="ib-n">Michael Meding</p>
 <dl>{dl}</dl>
 <div class="ib-l"><a href="https://www.linkedin.com/in/michaelmeding" rel="me noopener">LinkedIn</a><a href="https://x.com/mmeding" rel="me noopener">X</a><a href="{p.link(key="press")}#kit">{esc(p.c["press"]["h_kit"])}</a></div>
@@ -456,7 +457,7 @@ def person_node(l, full=True):
     return {
         '@type': 'Person', '@id': PERSON_ID, 'name': 'Michael Meding', 'givenName': 'Michael', 'familyName': 'Meding',
         'alternateName': ['Mike Meding', 'Michael E. Meding', 'マイケル・メディング', '迈克尔·梅丁'],
-        'url': f'{SITE}/', 'image': {'@type': 'ImageObject', 'url': f'{SITE}/img/michael-meding-headshot.jpg', 'width': 423, 'height': 423},
+        'url': f'{SITE}/', 'image': {'@type': 'ImageObject', 'url': f'{SITE}/img/michael-meding-headshot-2026.jpg', 'width': 1200, 'height': 1200},
         'jobTitle': 'Managing Director', 'worksFor': {'@id': MC_ID},
         'description': strip_tokens(h['lede']),
         'email': 'michael@meding.dev', 'nationality': {'@type': 'Country', 'name': 'Germany'},
@@ -535,7 +536,7 @@ def breadcrumb(p, name):
 def webpage(p, typ, name, desc, extra=None):
     n = {'@type': typ, '@id': p.url() + '#page', 'url': p.url(), 'name': name, 'description': desc, 'inLanguage': HREFLANG[p.lang],
          'isPartOf': {'@id': SITE_ID}, 'dateModified': TODAY.isoformat(), 'author': {'@id': PERSON_ID},
-         'primaryImageOfPage': {'@type': 'ImageObject', 'url': f'{SITE}/img/og-{p.lang}.jpg'}}
+         'primaryImageOfPage': {'@type': 'ImageObject', 'url': f'{SITE}/img/og2-{p.lang}.jpg'}}
     if extra:
         n.update(extra)
     return n
@@ -567,8 +568,8 @@ def page_home(l):
     cta = (f'<p class="cta"><a class="btn btn-p" href="{p.link(key="la")}">{esc(ui["open_la"])}</a>'
            f'<a class="btn" href="{p.link(key="press")}#kit">{esc(c["press"]["h_kit"])}</a>'
            f'<a class="btn btn-t" href="https://www.linkedin.com/in/michaelmeding" rel="me noopener">LinkedIn</a></p>')
-    photo = (f'<figure class="hp">{img(p, "new-york-2024.jpg", c["speaking"]["alt_ny"], "50% 35%", eager=True, sizes="(min-width: 860px) 45vw, 100vw")}'
-             f'<figcaption>{esc(c["speaking"]["cap_ny"])}</figcaption></figure>')
+    photo = (f'<figure class="hp">{img(p, "forbes-summit-stage.jpg", c["speaking"]["alt_forbes"], "52% 30%", eager=True, sizes="(min-width: 860px) 45vw, 100vw")}'
+             f'<figcaption>{esc(c["speaking"]["cap_forbes"])}</figcaption></figure>')
     # milestone rail, drawn to scale from Jan 2022 to Dec 2030
     span = 108.0
     ticks = ''.join(f'<span class="rt" data-t="{y}" style="--x:{(y - 2022) * 12 / span * 100:.2f}%"></span>' for y in range(2022, 2031))
@@ -760,7 +761,8 @@ def render_speaking(l):
     cta = esc(s['cta']).replace('michael@meding.dev', '<a href="mailto:michael@meding.dev">michael@meding.dev</a>')
     hero = f'<section class="hero hero-s"><div class="wrap"><h1>{esc(s["h1"])}</h1><p class="lead">{esc(s["sub"])}</p><p class="cred">{cta}</p></div></section>'
     figs = (f'<div class="figs2"><figure class="fig">{img(p, "new-york-2024.jpg", s["alt_ny"], "74% 32%", eager=True)}<figcaption>{esc(s["cap_ny"])}</figcaption></figure>'
-            f'<figure class="fig">{img(p, "washington-2026-colour.jpg", s["alt_dc"], "71% 28%", eager="plain")}<figcaption>{esc(s["cap_dc"])}</figcaption></figure></div>')
+            f'<figure class="fig">{img(p, "washington-2026-colour.jpg", s["alt_dc"], "71% 28%", eager="plain")}<figcaption>{esc(s["cap_dc"])}</figcaption></figure></div>'
+            f'<figure class="fig">{img(p, "forbes-summit-sponsors.jpg", s["alt_forbes_sp"], "55% 30%", sizes="(min-width: 960px) 780px, 100vw")}<figcaption>{esc(s["cap_forbes"])}</figcaption></figure>')
     years = ['2026', '2025', '2024', '2023', '2022']
     cnt = {y: sum(1 for r in X['speaking'] if r['year'] == y) for y in years}
     filt = (f'<div class="filt" data-filter-for="sp"><button type="button" data-f="all" aria-pressed="true">{esc(ui["all"])} <small>{len(X["speaking"])}</small></button>' +
@@ -798,8 +800,9 @@ def render_press(l):
            f'<h3>{esc(pr["h_bio_short"])}</h3><div class="bio" id="bio-s" lang="{HTML_LANG[l]}"><p>{esc(pr["bio_short"])}</p></div><button class="cp" type="button" data-copy="bio-s" data-done="{esc(ui["copied"])}">{esc(ui["copy"])}</button>'
            f'<h3>{esc(pr["h_bio_long"])}</h3><div class="bio" id="bio-l" lang="{HTML_LANG[l]}"><p>{esc(pr["bio_long"])}</p></div><button class="cp" type="button" data-copy="bio-l" data-done="{esc(ui["copied"])}">{esc(ui["copy"])}</button>'
            f'<h3>{esc(pr["h_photos"])}</h3><ul class="kitp">'
-           f'<li><img src="{p.asset("img/michael-meding-headshot.jpg")}" alt="Michael Meding" width="423" height="423" loading="lazy"><span>{esc(pr["photo_headshot"])}</span><a href="{p.asset("img/michael-meding-headshot.jpg")}" download>{esc(pr["download"])}</a></li>'
-           f'<li><img src="{p.asset("img/portrait-800.jpg")}" alt="{esc(c["home"]["card_photo_alt"])}" width="800" height="533" loading="lazy"><span>{esc(pr["photo_stage"])}</span><a href="{p.asset("img/portrait.jpg")}" download>{esc(pr["download"])}</a></li>'
+           f'<li><img src="{p.asset("img/michael-meding-headshot-2026.jpg")}" alt="Michael Meding" width="1200" height="1200" loading="lazy"><span>{esc(pr["photo_headshot"])}</span><a href="{p.asset("img/michael-meding-headshot-2026.jpg")}" download>{esc(pr["download"])}</a></li>'
+           f'<li><img src="{p.asset("img/portrait-studio-2026-800.jpg")}" alt="{esc(c["home"]["card_photo_alt"])}" width="800" height="1200" loading="lazy" style="object-position:50% 12%"><span>{esc(pr["photo_studio"])}</span><a href="{p.asset("img/portrait-studio-2026.jpg")}" download>{esc(pr["download"])}</a></li>'
+           f'<li><img src="{p.asset("img/forbes-summit-stage-800.jpg")}" alt="{esc(c["speaking"]["alt_forbes"])}" width="800" height="450" loading="lazy"><span>{esc(pr["photo_stage"])}</span><a href="{p.asset("img/forbes-summit-stage.jpg")}" download>{esc(pr["download"])}</a></li>'
            f'<li><img src="{p.asset("img/washington-2026-colour-800.jpg")}" alt="{esc(c["speaking"]["alt_dc"])}" width="800" height="534" loading="lazy"><span>{esc(pr["photo_dc"])}</span><a href="{p.asset("img/washington-2026-colour.jpg")}" download>{esc(pr["download"])}</a></li></ul>'
            f'<h3>{esc(pr["h_data"])}</h3><p>{esc(pr["data_p"])}</p><ul class="mfiles"><li><a href="{p.asset("llms.txt")}">{esc(pr["data_llms"])}</a> · <a href="{p.asset("llms-full.txt")}">llms-full.txt</a></li><li><a href="{p.asset("facts.json")}">{esc(pr["data_facts"])}</a></li></ul>'
            f'<p class="kitc">{esc(pr["contact"])}: <a href="mailto:michael@meding.dev">michael@meding.dev</a></p>')
@@ -976,9 +979,9 @@ def facts_json():
     return json.dumps(out, ensure_ascii=False, indent=1)
 
 
-SITEMAP_IMGS = {'home': ['new-york-2024.jpg', 'portrait.jpg', 'michael-meding-headshot.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
-                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg'],
-                'press': ['michael-meding-headshot.jpg', 'portrait.jpg', 'washington-2026-colour.jpg']}
+SITEMAP_IMGS = {'home': ['forbes-summit-stage.jpg', 'portrait-studio-2026.jpg', 'michael-meding-headshot-2026.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
+                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg'],
+                'press': ['michael-meding-headshot-2026.jpg', 'portrait-studio-2026.jpg', 'forbes-summit-stage.jpg', 'washington-2026-colour.jpg']}
 
 
 def sitemap():

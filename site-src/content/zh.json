@@ -476,8 +476,8 @@
     "card_edu": "教育背景",
     "card_edu_v": "理学学士（Bochum）· MBA（HHL Leipzig）· MBA（IUP）",
     "card_contact": "媒体联络",
-    "card_photo_cap": "斯德哥尔摩，2025年10月",
-    "card_photo_alt": "迈克尔·梅丁在斯德哥尔摩Nordic Funds and Mines会议上介绍Los Azules项目",
+    "card_photo_cap": "",
+    "card_photo_alt": "迈克尔·梅丁肖像",
     "card_born_r": "tsj2023",
     "hero_lede": "迈克尔·梅丁（Michael Meding）是德国矿业高管，自2022年2月起领导位于阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目，并担任麦克尤恩铜业（McEwen Copper）董事总经理。他从企业财务领域转入矿业：早年在瑞士任职于普华永道（PwC）和诺华（Novartis），此后在拉丁美洲工作逾十五年，再先后加入巴里克黄金（Barrick Gold）和托克（Trafigura）。在他的领导下，Los Azules取得环境许可，发布可行性研究，成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目，并完成2.4亿美元定期贷款。[[r:join,mux-bio,tsj2023,eia,fs,rigi-ln,loan-pr]]",
     "rail": [
@@ -944,7 +944,10 @@
       "s57": "麦克尤恩铜业与Los Azules",
       "s58": "麦克尤恩铜业与Los Azules"
     },
-    "cta": "演讲及采访邀请：michael@meding.dev"
+    "cta": "演讲及采访邀请：michael@meding.dev",
+    "alt_forbes": "迈克尔·梅丁在福布斯阿根廷（Forbes Argentina）矿业峰会上发言",
+    "cap_forbes": "福布斯矿业峰会（Forbes Mining Summit），阿根廷。",
+    "alt_forbes_sp": "迈克尔·梅丁在福布斯矿业峰会台上，身后赞助商墙上有McEwen Copper和Los Azules的标志"
   },
   "press": {
     "h1": "媒体",
@@ -956,8 +959,8 @@
     "h_bio_long": "完整版简介（约470字）",
     "bio_long": "迈克尔·梅丁（Michael Meding）是德国矿业高管，现任麦克尤恩铜业（McEwen Copper）董事总经理。自2022年2月起，他领导位于阿根廷圣胡安省的洛斯阿苏莱斯（Los Azules）铜矿项目；按矿产资源总量计，该项目是全球第十大未开发斑岩型铜矿。在他的领导下，项目取得环境许可，完成可行性研究，成为首个获阿根廷大型投资激励制度（RIGI）批准的铜矿项目，并于2026年获得2.4亿美元定期贷款；Stellantis和力拓旗下的Nuton也作为战略股东入股。他从企业财务领域转入矿业：先在瑞士任职于普华永道（PwC）和诺华（Novartis），再到智利和阿根廷担任首席财务官，随后出任巴里克黄金（Barrick Gold）阿根廷业务首席财务官，此后又加入托克（Trafigura）。他还担任GEMERA会长和阿根廷矿业企业家商会（CAEM）副会长，并于2024年和2025年两度获评年度矿业企业家。他拥有Ruhr-Universität Bochum（波鸿鲁尔大学）理学学士学位，以及HHL Leipzig（莱比锡管理研究生院）和Indiana University of Pennsylvania（宾夕法尼亚印第安纳大学）的MBA学位。",
     "h_photos": "照片",
-    "photo_headshot": "头像，正方形，423 × 423像素",
-    "photo_stage": "演讲现场，斯德哥尔摩，2025年，1600 × 1066像素",
+    "photo_headshot": "头像，正方形，1200 × 1200像素",
+    "photo_stage": "演讲现场，福布斯矿业峰会，2000 × 1126像素",
     "photo_dc": "Benchmark Giga US，华盛顿，2026年，1600 × 1066像素",
     "download": "下载",
     "h_data": "供编辑和AI助手使用的事实数据",
@@ -968,7 +971,8 @@
     "video_yt1": "El cobre como motor de la transición energética: Michael Meding, director general de McEwen Copper",
     "video_yt2": "Michael Meding (McEwen Copper / Los Azules): Un tutorial de cobre, inversiones, guerras y robots",
     "h_coverage": "媒体报道",
-    "contact": "媒体联络"
+    "contact": "媒体联络",
+    "photo_studio": "影棚肖像，1200 × 1800像素"
   },
   "quotes_reference_do_not_translate": [
     {
