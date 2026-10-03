@@ -233,6 +233,7 @@ IMG = {  # file: (width, height)
     'entrepreneur-2025.jpg': (1167, 1600), 'diploma-2024.jpg': (1400, 785), 'new-york-2024.jpg': (1400, 1050),
     'washington-2026-colour.jpg': (1600, 1067), 'portrait-studio-2026.jpg': (1200, 1800),
     'forbes-summit-stage.jpg': (2000, 1126), 'forbes-summit-sponsors.jpg': (1600, 901),
+    'los-azules-camp-2024.jpg': (1600, 900),
 }
 
 
@@ -689,6 +690,9 @@ def render_home(l):
     return p, assemble(p, hero, secs, aside, tocitems, c['meta']['home_title'], c['meta']['home_desc'], jl, 'profile')
 
 
+COMMONS_CAMP = 'https://commons.wikimedia.org/wiki/File:Los_Azules_project_camp,_San_Juan,_Argentina,_2024.png'
+
+
 def render_la(l):
     p = Page(l, 'la')
     c, a, ui = p.c, p.c['la'], p.c['ui']
@@ -706,7 +710,10 @@ def render_la(l):
 </div></section>'''
     secs = []
     secs.append(section('life', esc(a['h_life']), f'<p>{p.t(a["life_p"])}</p>{life_bar(p)}<p class="note">{esc(a["life_note"])} <a href="#technical">{esc(a["h_tech"])} ↓</a></p>', 's s-first'))
-    secs.append(section('facts', esc(a['h_facts']), facts_table(p, a['facts'])))
+    camp = (f'<figure class="fig">{img(p, "los-azules-camp-2024.jpg", a["camp_alt"], sizes="(min-width: 960px) 780px, 100vw")}'
+            f'<figcaption>{esc(a["camp_cap"])} {esc(a["camp_credit"])}: <a href="{COMMONS_CAMP}" rel="noopener">McEwen Copper Inc.</a>, '
+            f'<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener">CC BY-SA 4.0</a></figcaption></figure>')
+    secs.append(section('facts', esc(a['h_facts']), facts_table(p, a['facts']) + camp))
     # reserves & resources
     def rtable(rows, unit):
         th = f'<tr><th scope="col">{esc(ui["th_category"])}</th><th scope="col" class="r">{esc(ui["th_tonnes"])}</th><th scope="col" class="r">{esc(ui["th_grade"])}</th><th scope="col" class="r">{esc(ui["th_contained"])}{f"（{esc(unit)}）" if l in ("ja", "zh") else f" ({esc(unit)})"}</th></tr>'
@@ -981,7 +988,7 @@ def facts_json():
 
 
 SITEMAP_IMGS = {'home': ['forbes-summit-stage.jpg', 'portrait-studio-2026.jpg', 'michael-meding-headshot-2026.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
-                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg'],
+                'la': ['site-delegations.jpg', 'los-azules-camp-2024.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg'],
                 'press': ['michael-meding-headshot-2026.jpg', 'portrait-studio-2026.jpg', 'forbes-summit-stage.jpg', 'washington-2026-colour.jpg']}
 
 
