@@ -477,6 +477,7 @@ def person_node(l, full=True):
             'https://www.linkedin.com/in/michaelmeding', 'https://x.com/mmeding',
             'https://www.mcewenmining.com/about-us/management-team/management-details/default.aspx?ItemId=14f233db-6a66-4b48-b6d6-6ae6426ec645',
             'https://www.bloomberg.com/profile/person/22717063', 'https://github.com/mimeding',
+            'https://www.wikidata.org/wiki/Q141629944', 'https://orcid.org/0009-0001-5670-1012',
         ],
         'mainEntityOfPage': f'{SITE}/',
     }
