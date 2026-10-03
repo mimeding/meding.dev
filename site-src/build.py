@@ -308,6 +308,7 @@ def header(p):
 <a class="brand" href="{p.link(key="home")}">Michael Meding</a>
 <nav class="nav" aria-label="{esc(ui["nav_home"])}">{nav}</nav>
 <nav class="lang" aria-label="{esc(ui["lang_label"])}">{langs}</nav>
+<details class="lang-m"><summary aria-label="{esc(ui["lang_label"])}">{LANG_CODE_LABEL[p.lang]}</summary><nav>{langs}</nav></details>
 </div></header>
 '''
 
@@ -321,6 +322,7 @@ def footer(p):
 <p class="fl">{langs}</p>
 <p>© Michael Meding · San Juan · Toronto · <a href="mailto:michael@meding.dev">michael@meding.dev</a> · <a href="https://www.linkedin.com/in/michaelmeding" rel="me">LinkedIn</a> · <a href="https://x.com/mmeding" rel="me">X</a></p>
 </div></footer>
+<a class="dock" href="mailto:michael@meding.dev"><span>{esc(C[p.lang]["home"]["card_contact"])}</span> michael@meding.dev</a>
 <script src="{p.asset("site.js")}?v={VER["site.js"]}" defer></script>
 <!--/email_off--></body>
 </html>
@@ -588,10 +590,14 @@ def page_home(l):
     stats_s = stats_html(p, "home", [("reserves", h["stat_reserves"] + "[[r:fs]]"), ("npv", h["stat_npv"] + "[[r:fs]]"), ("loan", h["stat_loan"] + "[[r:loan-pr]]"), ("rigi", h["stat_rigi"] + "[[r:rigi-ln]]"), ("placements", h["stat_placements"] + "[[r:mux-la]]")])
     prt = ''.join(f'<li><span>{esc(x["k"])}</span><b>{esc(x["v"])}</b>{p.tr(x["r"])}</li>' for x in h['partners'])
     partners = f'<div class="prt"><p class="rail-h">{esc(h["h_partners"])}</p><ul>{prt}</ul></div>'
+    idrows = ''.join(f'<div><dt>{esc(h[a])}</dt><dd>{esc(h[b])}</dd></div>' for a, b in (('card_role', 'card_role_v'), ('card_leads', 'card_leads_v'), ('card_also', 'card_also_v'), ('card_honours', 'card_honours_v')))
+    idcard = (f'<div class="idm"><img src="{p.asset("img/portrait-studio-2026-800.jpg")}" width="800" height="1200" alt="{esc(h["card_photo_alt"])}" fetchpriority="high">'
+              f'<dl>{idrows}</dl></div>')
     hero = f'''<section class="hero"><div class="wrap"><div class="hg">
 <div class="ht">
 <p class="kick">{esc(h["kicker"])}</p>
 <h1><span class="h1-l">Michael Meding</span>{name_extra}</h1>
+{idcard}
 <p class="role"><b>{esc(role1)}</b><span>{role2}</span></p>
 <p class="lead">{lede_html}</p>
 <p class="cred">{cred_html}</p>

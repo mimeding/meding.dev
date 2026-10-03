@@ -24,4 +24,27 @@
       try { navigator.clipboard.writeText(txt).then(done, select); } catch (e) { select(); }
     });
   });
+  // Phones: every section after the first opens on tap; the text stays in the page.
+  var mq = window.matchMedia('(max-width: 719px)');
+  var art = document.querySelector('.art');
+  if (art && mq.matches) {
+    var secs = [].slice.call(art.querySelectorAll(':scope > section'));
+    var keep = secs[0] && secs[0].id === 'latest' ? 2 : 1;
+    secs.slice(keep).forEach(function (s) {
+      var h = s.querySelector(':scope > h2');
+      if (!h) return;
+      s.classList.add('fold');
+      h.setAttribute('role', 'button'); h.setAttribute('tabindex', '0'); h.setAttribute('aria-expanded', 'false');
+      function toggle() { var o = s.classList.toggle('open'); h.setAttribute('aria-expanded', o); }
+      h.addEventListener('click', toggle);
+      h.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } });
+    });
+    function openHash() {
+      var id = location.hash.slice(1); if (!id) return;
+      var el = document.getElementById(id); if (!el) return;
+      var s = el.closest('section.fold');
+      if (s && !s.classList.contains('open')) { s.classList.add('open'); s.querySelector(':scope > h2').setAttribute('aria-expanded', 'true'); el.scrollIntoView(); }
+    }
+    openHash(); window.addEventListener('hashchange', openHash);
+  }
 })();
