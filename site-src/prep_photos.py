@@ -4,7 +4,7 @@ import os, sys, json
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 B = os.path.dirname(os.path.abspath(__file__)); A = os.path.join(B, 'assets', 'img')
-UP = sys.argv[1] if len(sys.argv) > 1 else '/root/.claude/uploads/3e6d935b-75c2-51e7-92ac-87d8ed38d14f'
+UP = sys.argv[1] if len(sys.argv) > 1 else os.path.join(B, 'originals')
 def op(k): return ImageOps.exif_transpose(Image.open(f'{UP}/{k}-image.jpg')).convert('RGB')
 def save(im, name, w, q=86):
     im = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
