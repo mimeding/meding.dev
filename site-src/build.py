@@ -490,7 +490,7 @@ def org_node():
         'subOrganization': {'@type': 'Organization', 'name': 'Andes Corporación Minera S.A.', 'address': {'@type': 'PostalAddress', 'addressRegion': 'San Juan', 'addressCountry': 'AR'}},
         'employee': {'@id': PERSON_ID},
         'url': 'https://www.mcewenmining.com/',
-        'sameAs': ['https://www.linkedin.com/company/mcewencopper'],
+        'sameAs': ['https://www.linkedin.com/company/mcewencopper', 'https://www.wikidata.org/wiki/Q141629919'],
     }
 
 
