@@ -1490,6 +1490,21 @@
    ]
   },
   {
+   "k": "ar 2026",
+   "date": {
+    "en": "16 May 2026",
+    "es": "16 may 2026"
+   },
+   "outlet": "Clarín",
+   "headline": "Del cobre a la cerveza: el alemán que apuesta millones a la minería en San Juan y produce IPA en el desierto",
+   "url": "https://www.clarin.com/economia/cobre-cerveza-aleman-apuesta-millones-mineria-san-juan-produce-ipa-desierto_0_4Jgim3040G.html",
+   "lang": "es",
+   "iso": "2026-05-16",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
    "k": "intl 2026",
    "date": {
     "en": "12 May 2026",
@@ -1517,6 +1532,21 @@
    "iso": "2026-05-11",
    "cats": [
     "ar"
+   ]
+  },
+  {
+   "k": "intl 2026",
+   "date": {
+    "en": "8 May 2026",
+    "es": "8 may 2026"
+   },
+   "outlet": "Reuters",
+   "headline": "Rio Tinto considers raising stake in Argentina’s Los Azules copper project",
+   "url": "https://www.mining.com/web/rio-tinto-considers-raising-stake-in-argentinas-los-azules-copper-project-sources-say/",
+   "lang": "en",
+   "iso": "2026-05-08",
+   "cats": [
+    "intl"
    ]
   },
   {
@@ -1622,6 +1652,36 @@
    "iso": "2026-03-01",
    "cats": [
     "ar"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "29 Jan 2026",
+    "es": "29 ene 2026"
+   },
+   "outlet": "manager magazin",
+   "headline": "Kupferpreis auf Rekordhoch - Aurubis-Aktie profitiert",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/aurubis-kupferhausse-treibt-aktienkurs-auf-neue-rekorde-a-52330e5a-ac71-44e3-bf90-d51636c7610e",
+   "lang": "de",
+   "iso": "2026-01-29",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "2 Jan 2026",
+    "es": "2 ene 2026"
+   },
+   "outlet": "manager magazin",
+   "headline": "Kupfer auf Rekordhoch: Wie Anleger von der Kursrallye profitieren",
+   "url": "https://www.manager-magazin.de/finanzen/kupfer-rausch-an-der-boerse-wie-anleger-vom-kupferboom-profitieren-a-a908f727-4efe-4646-ae4d-c9e52dc11a03",
+   "lang": "de",
+   "iso": "2026-01-02",
+   "cats": [
+    "de"
    ]
   },
   {
@@ -1745,6 +1805,21 @@
    ]
   },
   {
+   "k": "ar 2025",
+   "date": {
+    "en": "26 Sep 2025",
+    "es": "26 sep 2025"
+   },
+   "outlet": "Forbes Argentina",
+   "headline": "Se aprobó el primer proyecto RIGI de cobre: invertirán US$ 2.700 millones y será uno de los más grandes del mundo",
+   "url": "https://www.forbesargentina.com/negocios/se-aprobo-primer-proyecto-rigi-cobre-invertiran-us-2700-millones-sera-uno-mas-grandes-mundo-n78895",
+   "lang": "es",
+   "iso": "2025-09-26",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
    "k": "de 2025",
    "date": {
     "en": "12 Aug 2025",
@@ -1807,6 +1882,21 @@
   {
    "k": "de 2025",
    "date": {
+    "en": "28 Jul 2025",
+    "es": "28 jul 2025"
+   },
+   "outlet": "Die Presse",
+   "headline": "Kupfer-Investor: „Milei ist besonnener aufgetreten als vor TV-Kameras“",
+   "url": "https://www.diepresse.com/19938635/kupfer-investor-milei-ist-besonnener-aufgetreten-als-vor-tv-kameras",
+   "lang": "de",
+   "iso": "2025-07-28",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
     "en": "7 Jun 2025",
     "es": "7 jun 2025"
    },
@@ -1832,6 +1922,21 @@
    "iso": "2025-06-03",
    "cats": [
     "intl"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "30 May 2025",
+    "es": "30 may 2025"
+   },
+   "outlet": "WELT",
+   "headline": "Glücksfall für Milei – Argentiniens bemerkenswerter Rohstoff-Aufstieg",
+   "url": "https://www.welt.de/wirtschaft/plus256162896/Argentinien-Gluecksfall-fuer-Milei-der-bemerkenswerte-Rohstoff-Fund.html",
+   "lang": "de",
+   "iso": "2025-05-30",
+   "cats": [
+    "de"
    ]
   },
   {

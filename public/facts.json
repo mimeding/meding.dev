@@ -1085,6 +1085,13 @@
    "language": "en"
   },
   {
+   "date": "2026-05-16",
+   "outlet": "Clarín",
+   "headline": "Del cobre a la cerveza: el alemán que apuesta millones a la minería en San Juan y produce IPA en el desierto",
+   "url": "https://www.clarin.com/economia/cobre-cerveza-aleman-apuesta-millones-mineria-san-juan-produce-ipa-desierto_0_4Jgim3040G.html",
+   "language": "es"
+  },
+  {
    "date": "2026-05-12",
    "outlet": "Reuters",
    "headline": "Cobre y cerveza: ejecutivo minero alemán abre fábrica en Argentina para saciar su sed",
@@ -1097,6 +1104,13 @@
    "headline": "Los Azules acelera hacia 2027: los detalles del plan de inversión de US$ 4.000 millones",
    "url": "https://www.mdzol.com/dinero/los-azules-acelera-2027-los-detalles-del-plan-inversion-us-4000-millones-n1517848",
    "language": "es"
+  },
+  {
+   "date": "2026-05-08",
+   "outlet": "Reuters",
+   "headline": "Rio Tinto considers raising stake in Argentina’s Los Azules copper project",
+   "url": "https://www.mining.com/web/rio-tinto-considers-raising-stake-in-argentinas-los-azules-copper-project-sources-say/",
+   "language": "en"
   },
   {
    "date": "2026-05-06",
@@ -1146,6 +1160,20 @@
    "headline": "DIARIO DE CUYO en Canadá: Los Azules busca un socio estratégico para iniciar su construcción en 2027",
    "url": "https://www.diariodecuyo.com.ar/cuyo-minero/diario-cuyo-canada-los-azules-busca-un-socio-estrategico-iniciar-su-construccion-2027-n6567107",
    "language": "es"
+  },
+  {
+   "date": "2026-01-29",
+   "outlet": "manager magazin",
+   "headline": "Kupferpreis auf Rekordhoch - Aurubis-Aktie profitiert",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/aurubis-kupferhausse-treibt-aktienkurs-auf-neue-rekorde-a-52330e5a-ac71-44e3-bf90-d51636c7610e",
+   "language": "de"
+  },
+  {
+   "date": "2026-01-02",
+   "outlet": "manager magazin",
+   "headline": "Kupfer auf Rekordhoch: Wie Anleger von der Kursrallye profitieren",
+   "url": "https://www.manager-magazin.de/finanzen/kupfer-rausch-an-der-boerse-wie-anleger-vom-kupferboom-profitieren-a-a908f727-4efe-4646-ae4d-c9e52dc11a03",
+   "language": "de"
   },
   {
    "date": "2025-12-26",
@@ -1204,6 +1232,13 @@
    "language": "es"
   },
   {
+   "date": "2025-09-26",
+   "outlet": "Forbes Argentina",
+   "headline": "Se aprobó el primer proyecto RIGI de cobre: invertirán US$ 2.700 millones y será uno de los más grandes del mundo",
+   "url": "https://www.forbesargentina.com/negocios/se-aprobo-primer-proyecto-rigi-cobre-invertiran-us-2700-millones-sera-uno-mas-grandes-mundo-n78895",
+   "language": "es"
+  },
+  {
    "date": "2025-08-12",
    "outlet": "ARIVA.DE",
    "headline": "Kupfer-Goldrausch in den Anden: Das Megaprojekt, das Argentinien verändern könnte",
@@ -1232,6 +1267,13 @@
    "language": "es"
   },
   {
+   "date": "2025-07-28",
+   "outlet": "Die Presse",
+   "headline": "Kupfer-Investor: „Milei ist besonnener aufgetreten als vor TV-Kameras“",
+   "url": "https://www.diepresse.com/19938635/kupfer-investor-milei-ist-besonnener-aufgetreten-als-vor-tv-kameras",
+   "language": "de"
+  },
+  {
    "date": "2025-06-07",
    "outlet": "ZDFheute",
    "headline": "Rohstoff-Hype in Argentinien: Umweltschützer kritisieren Bergbau",
@@ -1244,6 +1286,13 @@
    "headline": "Goldcorp founder Rob McEwen bets big on Argentine copper",
    "url": "https://www.fastmarkets.com/insights/goldcorp-founder-rob-mcewen-bets-big-on-argentine-copper/",
    "language": "en"
+  },
+  {
+   "date": "2025-05-30",
+   "outlet": "WELT",
+   "headline": "Glücksfall für Milei – Argentiniens bemerkenswerter Rohstoff-Aufstieg",
+   "url": "https://www.welt.de/wirtschaft/plus256162896/Argentinien-Gluecksfall-fuer-Milei-der-bemerkenswerte-Rohstoff-Fund.html",
+   "language": "de"
   },
   {
    "date": "2025-05-20",
