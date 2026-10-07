@@ -347,6 +347,25 @@
    "k": "2026",
    "year": "2026",
    "date": {
+    "en": "Oct 6",
+    "es": "oct 6"
+   },
+   "city": "Buenos Aires",
+   "event": "Ámbito Debate · Energía y Minería",
+   "upcoming": false,
+   "role": {
+    "en": "Copper in San Juan, one-on-one with Sebastián D. Penelli",
+    "es": "El cobre en San Juan, mano a mano con Sebastián D. Penelli"
+   },
+   "links": [],
+   "month": 10,
+   "day": "6",
+   "id": "s59"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
     "en": "Sep 23",
     "es": "sep 23"
    },
