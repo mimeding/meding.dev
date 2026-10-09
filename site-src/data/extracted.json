@@ -1479,6 +1479,21 @@
    ]
   },
   {
+   "k": "intl 2026",
+   "date": {
+    "en": "1 Oct 2026",
+    "es": "1 oct 2026"
+   },
+   "outlet": "France 24 / AFP",
+   "headline": "Milei ofrece a Europa una Argentina con \"energía abundante\" y TotalEnergies anuncia una millonaria inversión",
+   "url": "https://www.france24.com/es/minuto-a-minuto/20261001-milei-ofrece-a-europa-una-argentina-con-energ%C3%ADa-abundante-y-lejos-de-conflictos",
+   "lang": "es",
+   "iso": "2026-10-01",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
    "k": "ar 2026",
    "date": {
     "en": "3 Sep 2026",
