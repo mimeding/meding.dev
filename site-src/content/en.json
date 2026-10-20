@@ -883,7 +883,7 @@
       "s01": "Confirmed speaker",
       "s62": "Copper keynote: Los Azules",
       "s61": "Spotlight session: McEwen Copper",
-      "s60": "McEwen presentation, main stage",
+      "s60": "McEwen and Los Azules presentation with Stefan Spears",
       "s59": "Copper in San Juan, one-on-one with Sebastián D. Penelli",
       "s02": "Interview with the Investing News Network",
       "s03": "“Minerales críticos y desarrollo federal” (critical minerals and federal development), with the governors of San Juan, Jujuy and Catamarca",
@@ -946,7 +946,9 @@
     "cta": "Speaking and interview requests: michael@meding.dev",
     "alt_forbes": "Michael Meding speaking on stage at the Forbes Argentina Mining Summit",
     "cap_forbes": "Forbes Mining Summit, Argentina.",
-    "alt_forbes_sp": "Michael Meding on stage at the Forbes Mining Summit, with the McEwen Copper and Los Azules logos on the sponsor wall"
+    "alt_forbes_sp": "Michael Meding on stage at the Forbes Mining Summit, with the McEwen Copper and Los Azules logos on the sponsor wall",
+    "cap_stockholm": "Stockholm, Nordic Funds & Mines, October 2026, with Stefan Spears, Vice President Corporate Development of McEwen Inc., before their main-stage presentation of McEwen and Los Azules.",
+    "alt_stockholm": "Michael Meding and Stefan Spears of McEwen Inc., wearing headset microphones, in the conference hall at Nordic Funds & Mines in Stockholm shortly before going on stage"
   },
   "press": {
     "h1": "Press",

@@ -232,7 +232,7 @@ IMG = {  # file: (width, height)
     'portrait.jpg': (1600, 1066), 'site-delegations.jpg': (1400, 1048), 'ifc-2025.jpg': (1400, 788),
     'entrepreneur-2025.jpg': (1167, 1600), 'diploma-2024.jpg': (1400, 785), 'new-york-2024.jpg': (1400, 1050),
     'washington-2026-colour.jpg': (1600, 1067), 'portrait-studio-2026.jpg': (1200, 1800),
-    'forbes-summit-stage.jpg': (2000, 1126), 'forbes-summit-sponsors.jpg': (1600, 901),
+    'forbes-summit-stage.jpg': (2000, 1126), 'forbes-summit-sponsors.jpg': (1600, 901), 'nordic-funds-mines-2026.jpg': (1600, 1200),
 }
 
 
@@ -763,7 +763,8 @@ def render_speaking(l):
     hero = f'<section class="hero hero-s"><div class="wrap"><h1>{esc(s["h1"])}</h1><p class="lead">{esc(s["sub"])}</p><p class="cred">{cta}</p></div></section>'
     figs = (f'<div class="figs2"><figure class="fig">{img(p, "new-york-2024.jpg", s["alt_ny"], "74% 32%", eager=True)}<figcaption>{esc(s["cap_ny"])}</figcaption></figure>'
             f'<figure class="fig">{img(p, "washington-2026-colour.jpg", s["alt_dc"], "71% 28%", eager="plain")}<figcaption>{esc(s["cap_dc"])}</figcaption></figure></div>'
-            f'<figure class="fig">{img(p, "forbes-summit-sponsors.jpg", s["alt_forbes_sp"], "55% 30%", sizes="(min-width: 960px) 780px, 100vw")}<figcaption>{esc(s["cap_forbes"])}</figcaption></figure>')
+            f'<figure class="fig">{img(p, "forbes-summit-sponsors.jpg", s["alt_forbes_sp"], "55% 30%", sizes="(min-width: 960px) 780px, 100vw")}<figcaption>{esc(s["cap_forbes"])}</figcaption></figure>'
+            f'<figure class="fig">{img(p, "nordic-funds-mines-2026.jpg", s["alt_stockholm"], "60% 40%", sizes="(min-width: 960px) 780px, 100vw")}<figcaption>{esc(s["cap_stockholm"])}</figcaption></figure>')
     years = ['2026', '2025', '2024', '2023', '2022']
     cnt = {y: sum(1 for r in X['speaking'] if r['year'] == y) for y in years}
     filt = (f'<div class="filt" data-filter-for="sp"><button type="button" data-f="all" aria-pressed="true">{esc(ui["all"])} <small>{len(X["speaking"])}</small></button>' +
@@ -981,7 +982,7 @@ def facts_json():
 
 
 SITEMAP_IMGS = {'home': ['forbes-summit-stage.jpg', 'portrait-studio-2026.jpg', 'michael-meding-headshot-2026.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
-                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg'],
+                'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg', 'nordic-funds-mines-2026.jpg'],
                 'press': ['michael-meding-headshot-2026.jpg', 'portrait-studio-2026.jpg', 'forbes-summit-stage.jpg', 'washington-2026-colour.jpg']}
 
 

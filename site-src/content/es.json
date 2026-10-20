@@ -883,7 +883,7 @@
       "s01": "Orador confirmado",
       "s62": "Conferencia central sobre cobre: Los Azules",
       "s61": "Sesión destacada: McEwen Copper",
-      "s60": "Presentación de McEwen en el escenario principal",
+      "s60": "Presentación de McEwen y Los Azules junto a Stefan Spears",
       "s59": "El cobre en San Juan, mano a mano con Sebastián D. Penelli",
       "s02": "Entrevista con Investing News Network",
       "s03": "“Minerales críticos y desarrollo federal”, junto a los gobernadores de San Juan, Jujuy y Catamarca",
@@ -946,7 +946,9 @@
     "cta": "Invitaciones como orador y pedidos de entrevista: michael@meding.dev",
     "alt_forbes": "Michael Meding en el escenario del Forbes Mining Summit de Forbes Argentina",
     "cap_forbes": "Forbes Mining Summit, Argentina.",
-    "alt_forbes_sp": "Michael Meding en el Forbes Mining Summit, con los logos de McEwen Copper y Los Azules en el panel de patrocinadores"
+    "alt_forbes_sp": "Michael Meding en el Forbes Mining Summit, con los logos de McEwen Copper y Los Azules en el panel de patrocinadores",
+    "cap_stockholm": "Estocolmo, Nordic Funds & Mines, octubre de 2026, con Stefan Spears, vicepresidente de Desarrollo Corporativo de McEwen Inc., antes de presentar McEwen y Los Azules en el escenario principal.",
+    "alt_stockholm": "Michael Meding y Stefan Spears, de McEwen Inc., con micrófonos de diadema en la sala de Nordic Funds & Mines en Estocolmo, poco antes de subir al escenario"
   },
   "press": {
     "h1": "Prensa",

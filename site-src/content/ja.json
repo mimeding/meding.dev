@@ -883,7 +883,7 @@
       "s01": "登壇確定",
       "s62": "銅セッション基調講演：ロス・アスレス",
       "s61": "スポットライト・セッション：マッキュアン・カッパー",
-      "s60": "メインステージでマッキュアンを紹介",
+      "s60": "ステファン・スピアーズ氏とともにマッキュアンとロス・アスレスを紹介",
       "s59": "サン・フアン州の銅をテーマに、セバスティアン・D・ペネリ氏と対談",
       "s02": "Investing News Networkによるインタビュー",
       "s03": "「Minerales críticos y desarrollo federal」（重要鉱物と連邦の発展）、サン・フアン、フフイ、カタマルカ各州の知事とともに登壇",
@@ -946,7 +946,9 @@
     "cta": "講演・取材依頼：michael@meding.dev",
     "alt_forbes": "Forbes Argentina主催のForbes Mining Summitで登壇するマイケル・メディング",
     "cap_forbes": "Forbes Mining Summit（アルゼンチン）。",
-    "alt_forbes_sp": "Forbes Mining Summitの壇上のマイケル・メディング。背景のスポンサーボードにMcEwen CopperとLos Azulesのロゴ"
+    "alt_forbes_sp": "Forbes Mining Summitの壇上のマイケル・メディング。背景のスポンサーボードにMcEwen CopperとLos Azulesのロゴ",
+    "cap_stockholm": "ストックホルム、Nordic Funds & Mines（2026年10月）。マッキュアン（McEwen Inc.）のコーポレート・デベロップメント担当副社長ステファン・スピアーズ氏と、メインステージでマッキュアンとロス・アスレスを紹介する直前に。",
+    "alt_stockholm": "ストックホルムのNordic Funds & Mines会場で、登壇直前にヘッドセットマイクを着けたマイケル・メディング氏とMcEwen Inc.のステファン・スピアーズ氏"
   },
   "press": {
     "h1": "報道",
