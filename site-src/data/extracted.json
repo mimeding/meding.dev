@@ -347,6 +347,63 @@
    "k": "2026",
    "year": "2026",
    "date": {
+    "en": "Oct 20",
+    "es": "oct 20"
+   },
+   "city": "London",
+   "event": "Benchmark Summit London · LME Week",
+   "upcoming": false,
+   "role": {
+    "en": "Copper keynote: Los Azules",
+    "es": "Conferencia central sobre cobre: Los Azules"
+   },
+   "links": [],
+   "month": 10,
+   "day": "20",
+   "id": "s62"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
+    "en": "Oct 19",
+    "es": "oct 19"
+   },
+   "city": "London",
+   "event": "LME Metals Seminar · LME Week",
+   "upcoming": false,
+   "role": {
+    "en": "Spotlight session: McEwen Copper",
+    "es": "Sesión destacada: McEwen Copper"
+   },
+   "links": [],
+   "month": 10,
+   "day": "19",
+   "id": "s61"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
+    "en": "Oct 16",
+    "es": "oct 16"
+   },
+   "city": "Stockholm",
+   "event": "Nordic Funds & Mines",
+   "upcoming": false,
+   "role": {
+    "en": "McEwen presentation, main stage",
+    "es": "Presentación de McEwen en el escenario principal"
+   },
+   "links": [],
+   "month": 10,
+   "day": "16",
+   "id": "s60"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
     "en": "Oct 6",
     "es": "oct 6"
    },
@@ -1447,6 +1504,51 @@
   }
  ],
  "press": [
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "13 Oct 2026",
+    "es": "13 oct 2026"
+   },
+   "outlet": "Ámbito · Sebastián D. Penelli",
+   "headline": "Michael Meding: \"El sector del cobre puede representar lo mismo que el campo para Argentina\"",
+   "url": "https://www.ambito.com/ambito-debate/michael-meding-el-sector-del-cobre-puede-representar-lo-mismo-que-el-campo-argentina-n6332496",
+   "lang": "es",
+   "iso": "2026-10-13",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "9 Oct 2026",
+    "es": "9 oct 2026"
+   },
+   "outlet": "Minería & Desarrollo",
+   "headline": "GEMERA ratificó a Michael Meding, de Los Azules, como presidente para el período 2026-2028",
+   "url": "https://www.mineriaydesarrollo.com/noticias/2026/10/09/27102-gemera-ratifico-a-michael-meding-de-los-azules-como-presidente-para-el-periodo-2026-2028",
+   "lang": "es",
+   "iso": "2026-10-09",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "9 Oct 2026",
+    "es": "9 oct 2026"
+   },
+   "outlet": "0264 Noticias",
+   "headline": "El líder del proyecto Los Azules, Michael Meding, fue ratificado hasta 2028 como presidente de GEMERA",
+   "url": "https://www.0264noticias.com.ar/noticias/2026/10/09/112848-el-lider-del-proyecto-los-azules-michael-meding-fue-ratificado-hasta-2028-como-presidente-de-gemera",
+   "lang": "es",
+   "iso": "2026-10-09",
+   "cats": [
+    "ar"
+   ]
+  },
   {
    "k": "ar 2026",
    "date": {

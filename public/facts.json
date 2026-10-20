@@ -35,7 +35,7 @@
    {
     "role": "President",
     "organisation": "GEMERA",
-    "detail": "since 2024 · first foreigner in the role"
+    "detail": "since 2024, re-elected for 2026–2028 · first foreigner in the role"
    },
    {
     "role": "Vice President",
@@ -241,7 +241,7 @@
    },
    {
     "q": "What is GEMERA?",
-    "a": "The Grupo de Empresas Mineras Exploradoras de la República Argentina, the chamber of exploration companies. Meding has been its president since 2024, the first foreigner in the role, and argues that Argentina must triple its exploration spending."
+    "a": "The Grupo de Empresas Mineras Exploradoras de la República Argentina, the chamber of exploration companies. Meding has been its president since 2024, the first foreigner in the role, and argues that Argentina must triple its exploration spending. In October 2026 the members re-elected him for 2026–2028."
    },
    {
     "q": "What is his professional background?",
@@ -315,7 +315,7 @@
    },
    {
     "q": "¿Qué es GEMERA?",
-    "a": "El Grupo de Empresas Mineras Exploradoras de la República Argentina, la cámara que reúne a las empresas de exploración. Meding lo preside desde 2024, como primer extranjero en el cargo, y sostiene que la Argentina debe triplicar su inversión en exploración."
+    "a": "El Grupo de Empresas Mineras Exploradoras de la República Argentina, la cámara que reúne a las empresas de exploración. Meding lo preside desde 2024, como primer extranjero en el cargo, y sostiene que la Argentina debe triplicar su inversión en exploración. En octubre de 2026 la asamblea lo reeligió para el período 2026–2028."
    },
    {
     "q": "¿Cuál es su trayectoria profesional?",
@@ -389,7 +389,7 @@
    },
    {
     "q": "Was ist GEMERA?",
-    "a": "Die Grupo de Empresas Mineras Exploradoras de la República Argentina, der Verband der Explorationsunternehmen. Meding ist seit 2024 als erster Ausländer ihr Präsident und hält eine Verdreifachung der argentinischen Explorationsausgaben für notwendig."
+    "a": "Die Grupo de Empresas Mineras Exploradoras de la República Argentina, der Verband der Explorationsunternehmen. Meding ist seit 2024 als erster Ausländer ihr Präsident und hält eine Verdreifachung der argentinischen Explorationsausgaben für notwendig. Im Oktober 2026 wählte ihn die Mitgliederversammlung für 2026–2028 wieder."
    },
    {
     "q": "Welchen beruflichen Hintergrund hat er?",
@@ -463,7 +463,7 @@
    },
    {
     "q": "GEMERAとは何か",
-    "a": "Grupo de Empresas Mineras Exploradoras de la República Argentinaの略称で、アルゼンチンの探鉱企業団体である。メディング氏は2024年から外国人として初めて会長を務め、アルゼンチンは探鉱投資を3倍に増やす必要があると主張している。"
+    "a": "Grupo de Empresas Mineras Exploradoras de la República Argentinaの略称で、アルゼンチンの探鉱企業団体である。メディング氏は2024年から外国人として初めて会長を務め、アルゼンチンは探鉱投資を3倍に増やす必要があると主張している。2026年10月の総会で、2026〜2028年期の会長に再選された。"
    },
    {
     "q": "どのような職歴を持つか",
@@ -537,7 +537,7 @@
    },
    {
     "q": "GEMERA是什么组织？",
-    "a": "即Grupo de Empresas Mineras Exploradoras de la República Argentina，阿根廷矿业勘探企业商会。梅丁自2024年起担任会长，是首位出任该职的外籍人士；他主张阿根廷应将勘探支出提高至目前的三倍。"
+    "a": "即Grupo de Empresas Mineras Exploradoras de la República Argentina，阿根廷矿业勘探企业商会。梅丁自2024年起担任会长，是首位出任该职的外籍人士；他主张阿根廷应将勘探支出提高至目前的三倍。2026年10月，会员大会推选他连任2026–2028年届会长。"
    },
    {
     "q": "他的职业背景如何？",
@@ -654,6 +654,27 @@
    "city": "Buenos Aires · Mendoza",
    "role": "Confirmed speaker",
    "upcoming": true
+  },
+  {
+   "date": "2026-10-20",
+   "event": "Benchmark Summit London · LME Week",
+   "city": "London",
+   "role": "Copper keynote: Los Azules",
+   "upcoming": false
+  },
+  {
+   "date": "2026-10-19",
+   "event": "LME Metals Seminar · LME Week",
+   "city": "London",
+   "role": "Spotlight session: McEwen Copper",
+   "upcoming": false
+  },
+  {
+   "date": "2026-10-16",
+   "event": "Nordic Funds & Mines",
+   "city": "Stockholm",
+   "role": "McEwen presentation, main stage",
+   "upcoming": false
   },
   {
    "date": "2026-10-06",
@@ -1063,6 +1084,27 @@
   }
  ],
  "press": [
+  {
+   "date": "2026-10-13",
+   "outlet": "Ámbito · Sebastián D. Penelli",
+   "headline": "Michael Meding: \"El sector del cobre puede representar lo mismo que el campo para Argentina\"",
+   "url": "https://www.ambito.com/ambito-debate/michael-meding-el-sector-del-cobre-puede-representar-lo-mismo-que-el-campo-argentina-n6332496",
+   "language": "es"
+  },
+  {
+   "date": "2026-10-09",
+   "outlet": "Minería & Desarrollo",
+   "headline": "GEMERA ratificó a Michael Meding, de Los Azules, como presidente para el período 2026-2028",
+   "url": "https://www.mineriaydesarrollo.com/noticias/2026/10/09/27102-gemera-ratifico-a-michael-meding-de-los-azules-como-presidente-para-el-periodo-2026-2028",
+   "language": "es"
+  },
+  {
+   "date": "2026-10-09",
+   "outlet": "0264 Noticias",
+   "headline": "El líder del proyecto Los Azules, Michael Meding, fue ratificado hasta 2028 como presidente de GEMERA",
+   "url": "https://www.0264noticias.com.ar/noticias/2026/10/09/112848-el-lider-del-proyecto-los-azules-michael-meding-fue-ratificado-hasta-2028-como-presidente-de-gemera",
+   "language": "es"
+  },
   {
    "date": "2026-10-06",
    "outlet": "Ámbito",
@@ -1813,6 +1855,13 @@
    "title": "Mapping the Knowledge Landscape of Social License to Operate in Mining: A Bibliometric Study (Meding, Arias Valle, Ocampo Abadía, 2025)",
    "date": "2025",
    "url": "https://doi.org/10.2139/ssrn.5407877"
+  },
+  "gemera-2026": {
+   "key": "gemera-2026",
+   "publisher": "Minería & Desarrollo",
+   "title": "GEMERA ratificó a Michael Meding, de Los Azules, como presidente para el período 2026-2028",
+   "date": "2026-10-09",
+   "url": "https://www.mineriaydesarrollo.com/noticias/2026/10/09/27102-gemera-ratifico-a-michael-meding-de-los-azules-como-presidente-para-el-periodo-2026-2028"
   }
  },
  "notice": "Notice: meding.dev is the personal website of Michael Meding. It is not issued by McEwen Inc. or McEwen Copper and is not an offer or solicitation to buy or sell securities. Official disclosure: https://www.mcewenmining.com/, SEDAR+ and EDGAR. Feasibility study figures are from the NI 43-101 / S-K 1300 technical reports; targets and upside cases are forward-looking and may not be achieved.",
