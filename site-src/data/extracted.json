@@ -1450,6 +1450,51 @@
   {
    "k": "ar 2026",
    "date": {
+    "en": "13 Oct 2026",
+    "es": "13 oct 2026"
+   },
+   "outlet": "Ámbito · Sebastián D. Penelli",
+   "headline": "Michael Meding: \"El sector del cobre puede representar lo mismo que el campo para Argentina\"",
+   "url": "https://www.ambito.com/ambito-debate/michael-meding-el-sector-del-cobre-puede-representar-lo-mismo-que-el-campo-argentina-n6332496",
+   "lang": "es",
+   "iso": "2026-10-13",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "9 Oct 2026",
+    "es": "9 oct 2026"
+   },
+   "outlet": "Minería & Desarrollo",
+   "headline": "GEMERA ratificó a Michael Meding, de Los Azules, como presidente para el período 2026-2028",
+   "url": "https://www.mineriaydesarrollo.com/noticias/2026/10/09/27102-gemera-ratifico-a-michael-meding-de-los-azules-como-presidente-para-el-periodo-2026-2028",
+   "lang": "es",
+   "iso": "2026-10-09",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "9 Oct 2026",
+    "es": "9 oct 2026"
+   },
+   "outlet": "0264 Noticias",
+   "headline": "El líder del proyecto Los Azules, Michael Meding, fue ratificado hasta 2028 como presidente de GEMERA",
+   "url": "https://www.0264noticias.com.ar/noticias/2026/10/09/112848-el-lider-del-proyecto-los-azules-michael-meding-fue-ratificado-hasta-2028-como-presidente-de-gemera",
+   "lang": "es",
+   "iso": "2026-10-09",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
     "en": "6 Oct 2026",
     "es": "6 oct 2026"
    },
@@ -1491,6 +1536,21 @@
    "iso": "2026-10-01",
    "cats": [
     "intl"
+   ]
+  },
+  {
+   "k": "video 2026",
+   "date": {
+    "en": "29 Sep 2026",
+    "es": "29 sep 2026"
+   },
+   "outlet": "Investing News Network · Charlotte McLeod",
+   "headline": "Copper Crunch — Structural Deficit “Here to Stay” | McEwen Copper’s Michael Meding",
+   "url": "https://investingnews.com/michael-meding-copper-market-forecast/",
+   "lang": "en",
+   "iso": "2026-09-29",
+   "cats": [
+    "video"
    ]
   },
   {
@@ -1552,6 +1612,111 @@
    "iso": "2026-06-11",
    "cats": [
     "video"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "9 Jun 2026",
+    "es": "9 jun 2026"
+   },
+   "outlet": "WirtschaftsWoche",
+   "headline": "Kupfer: Recycling reicht nicht – jetzt wird auch gebohrt",
+   "url": "https://www.wiwo.de/unternehmen/industrie/kupfer-recycling-reicht-nicht-jetzt-wird-auch-gebohrt/100230055.html",
+   "lang": "de",
+   "iso": "2026-06-09",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "27 May 2026",
+    "es": "27 may 2026"
+   },
+   "outlet": "El Debate / AFP",
+   "headline": "El plan de Milei para convertir a Argentina en una potencia minera",
+   "url": "https://www.eldebate.com/economia/20260527/plan-milei-convertir-argentina-potencia-minera_422111.html",
+   "lang": "es",
+   "iso": "2026-05-27",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "video 2026",
+   "date": {
+    "en": "24 May 2026",
+    "es": "24 may 2026"
+   },
+   "outlet": "AFP Español",
+   "headline": "Un boom minero se dibuja en Argentina de la mano de Milei",
+   "url": "https://www.youtube.com/watch?v=yhOg8FqvRPo",
+   "lang": "es",
+   "iso": "2026-05-24",
+   "cats": [
+    "video"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "23 May 2026",
+    "es": "23 may 2026"
+   },
+   "outlet": "RFI / AFP",
+   "headline": "Full steam ahead for Milei’s Andean mining revolution",
+   "url": "https://www.rfi.fr/en/international-news/20260523-full-steam-ahead-for-milei-s-andean-mining-revolution",
+   "lang": "en",
+   "iso": "2026-05-23",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "22 May 2026",
+    "es": "22 may 2026"
+   },
+   "outlet": "France 24 / AFP",
+   "headline": "Dans les Andes argentines, les prémices du boom minier dont rêve Milei",
+   "url": "https://www.france24.com/fr/info-en-continu/20260522-dans-les-andes-argentines-les-pr%C3%A9mices-du-boom-minier-dont-r%C3%AAve-milei",
+   "lang": "fr",
+   "iso": "2026-05-22",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "intl 2026",
+   "date": {
+    "en": "22 May 2026",
+    "es": "22 may 2026"
+   },
+   "outlet": "Folha de S.Paulo / AFP",
+   "headline": "Argentina vive um boom na mineração impulsionado por Milei",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/05/argentina-vive-um-boom-na-mineracao-impulsionado-por-milei.shtml",
+   "lang": "pt",
+   "iso": "2026-05-22",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "22 May 2026",
+    "es": "22 may 2026"
+   },
+   "outlet": "Süddeutsche Zeitung (AFP-Foto)",
+   "headline": "Momentaufnahmen im Mai: Bilder des Tages",
+   "url": "https://www.sueddeutsche.de/leben/momentaufnahmen-im-mai-bilder-des-tages-li.3487535",
+   "lang": "de",
+   "iso": "2026-05-22",
+   "cats": [
+    "de"
    ]
   },
   {
@@ -1660,6 +1825,21 @@
    ]
   },
   {
+   "k": "ar 2026",
+   "date": {
+    "en": "8 Apr 2026",
+    "es": "8 abr 2026"
+   },
+   "outlet": "Buenos Aires Times / AFP",
+   "headline": "Argentina’s Congress to debate easing glacier protection law to boost mining",
+   "url": "https://batimes.com.ar/news/argentina/argentinas-congress-to-debate-easing-glacier-protection-law-to-boost-mining.phtml",
+   "lang": "en",
+   "iso": "2026-04-08",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
    "k": "intl 2026",
    "date": {
     "en": "7 Apr 2026",
@@ -1722,6 +1902,21 @@
   {
    "k": "de 2026",
    "date": {
+    "en": "2 Feb 2026",
+    "es": "2 feb 2026"
+   },
+   "outlet": "EL PAÍS",
+   "headline": "La minería, punta de lanza de la transformación productiva de Argentina con Milei",
+   "url": "https://elpais.com/argentina/2026-02-02/la-mineria-punta-de-lanza-de-la-transformacion-productiva-de-argentina-con-milei.html",
+   "lang": "es",
+   "iso": "2026-02-02",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
     "en": "29 Jan 2026",
     "es": "29 ene 2026"
    },
@@ -1765,6 +1960,51 @@
    ]
   },
   {
+   "k": "de 2025",
+   "date": {
+    "en": "14 Dec 2025",
+    "es": "14 dic 2025"
+   },
+   "outlet": "F.A.Z.",
+   "headline": "Durchwachsene Halbzeitbilanz für Milei",
+   "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/argentinien-das-ist-die-halbzeitbilanz-von-praesident-milei-accg-200314243.html",
+   "lang": "de",
+   "iso": "2025-12-14",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "11 Dec 2025",
+    "es": "11 dic 2025"
+   },
+   "outlet": "AHK Argentinien",
+   "headline": "Kupfer, zukünftiger Champion der argentinischen Bergbauindustrie?",
+   "url": "https://www.ahkargentina.com.ar/de/news/kupfer-zukuenftiger-champion-der-argentinischen-bergbauindustrie",
+   "lang": "de",
+   "iso": "2025-12-11",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "10 Dec 2025",
+    "es": "10 dic 2025"
+   },
+   "outlet": "RND",
+   "headline": "Zwei Jahre Javier Milei: Argentinien zwischen Boom und Besorgnis",
+   "url": "https://www.rnd.de/panorama/zwei-jahre-javier-milei-argentinien-zwischen-boom-und-besorgnis-MNTPNFXLARF7FJ43JKIE2W7HXE.html",
+   "lang": "de",
+   "iso": "2025-12-10",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "ar 2025",
    "date": {
     "en": "7 Dec 2025",
@@ -1792,6 +2032,21 @@
    "iso": "2025-12-04",
    "cats": [
     "ar"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "4 Dec 2025",
+    "es": "4 dic 2025"
+   },
+   "outlet": "Berliner Zeitung",
+   "headline": "Wettkampf um Argentiniens Kupfer: Wie Milei und der Westen China ausstechen wollen",
+   "url": "https://www.berliner-zeitung.de/article/argentiniens-kupfer-wie-milei-und-der-westen-china-ausstechen-wollen-10008671",
+   "lang": "de",
+   "iso": "2025-12-04",
+   "cats": [
+    "de"
    ]
   },
   {
@@ -1870,6 +2125,21 @@
    ]
   },
   {
+   "k": "de 2025",
+   "date": {
+    "en": "2 Oct 2025",
+    "es": "2 oct 2025"
+   },
+   "outlet": "F.A.Z.",
+   "headline": "Lateinamerika soll zur Bodenschatzkammer der EU werden",
+   "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/mercosur-soll-zur-bodenschatzkammer-der-eu-werden-accg-110713113.html",
+   "lang": "de",
+   "iso": "2025-10-02",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "ar 2025",
    "date": {
     "en": "26 Sep 2025",
@@ -1882,6 +2152,21 @@
    "iso": "2025-09-26",
    "cats": [
     "ar"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "10 Sep 2025",
+    "es": "10 sep 2025"
+   },
+   "outlet": "FOCUS MONEY",
+   "headline": "Kupfer: Wieso der Preis steigen dürfte",
+   "url": "https://www.focusplus.de/finanzen/kupfer-preis-steigen-duerfte-5161",
+   "lang": "de",
+   "iso": "2025-09-10",
+   "cats": [
+    "de"
    ]
   },
   {
@@ -1975,6 +2260,36 @@
    ]
   },
   {
+   "k": "de 2025",
+   "date": {
+    "en": "7 Jun 2025",
+    "es": "7 jun 2025"
+   },
+   "outlet": "Handelsblatt",
+   "headline": "Rohstoffe: Die argentinischen Anden könnten bald viel Kupfer liefern",
+   "url": "https://www.handelsblatt.com/politik/international/rohstoffe-die-argentinischen-anden-koennten-bald-viel-kupfer-liefern/100128400.html",
+   "lang": "de",
+   "iso": "2025-06-07",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "6 Jun 2025",
+    "es": "6 jun 2025"
+   },
+   "outlet": "Miningscout",
+   "headline": "Rob McEwen setzt auf Javier Milei und argentinisches Kupfer",
+   "url": "https://www.miningscout.de/blog/2025/06/06/rob-mcewen-setzt-auf-javier-milei-und-argentinisches-kupfer/",
+   "lang": "de",
+   "iso": "2025-06-06",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "intl 2025",
    "date": {
     "en": "3 Jun 2025",
@@ -2035,6 +2350,51 @@
    ]
   },
   {
+   "k": "intl 2025",
+   "date": {
+    "en": "16 May 2025",
+    "es": "16 may 2025"
+   },
+   "outlet": "Mining Journal",
+   "headline": "McEwen building worker retention, sustainability into Los Azules",
+   "url": "https://www.mining-journal.com/miners/news-analysis/4413950/mcewen-building-worker-retention-sustainability-los-azules",
+   "lang": "en",
+   "iso": "2025-05-16",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
+   "k": "intl 2025",
+   "date": {
+    "en": "9 May 2025",
+    "es": "9 may 2025"
+   },
+   "outlet": "bne IntelliNews",
+   "headline": "INTERVIEW: McEwen Copper bets on Milei’s market reforms with $2.7bn Argentina mine",
+   "url": "https://www.intellinews.com/interview-mcewen-copper-bets-on-milei-s-market-reforms-with-2-7bn-argentina-mine-380302/",
+   "lang": "en",
+   "iso": "2025-05-09",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "8 May 2025",
+    "es": "8 may 2025"
+   },
+   "outlet": "NZZ",
+   "headline": "Argentina sets sights on global copper industry future",
+   "url": "https://www.nzz.ch/english/is-argentina-the-new-star-of-the-global-copper-industry-ld.1883010",
+   "lang": "en",
+   "iso": "2025-05-08",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "video 2025",
    "date": {
     "en": "21 Apr 2025",
@@ -2065,6 +2425,36 @@
    ]
   },
   {
+   "k": "de 2025",
+   "date": {
+    "en": "9 Apr 2025",
+    "es": "9 abr 2025"
+   },
+   "outlet": "Het Financieele Dagblad",
+   "headline": "Europese mijnbouwers jagen in Argentinië op lithium en koper",
+   "url": "https://fd.nl/economie/1550648/europese-mijnbouwers-jagen-in-argentinie-op-lithium-en-koper",
+   "lang": "nl",
+   "iso": "2025-04-09",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2025",
+   "date": {
+    "en": "5 Feb 2025",
+    "es": "5 feb 2025"
+   },
+   "outlet": "F.A.Z.",
+   "headline": "Leben unter Javier Milei: Im Land der Kettensäge",
+   "url": "https://www.faz.net/aktuell/wirtschaft/javier-milei-stellt-argentinien-auf-den-kopf-leben-im-land-der-kettensaege-110267299.html",
+   "lang": "de",
+   "iso": "2025-02-05",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "ar 2024",
    "date": {
     "en": "18 Dec 2024",
@@ -2077,6 +2467,21 @@
    "iso": "2024-12-18",
    "cats": [
     "ar"
+   ]
+  },
+  {
+   "k": "de 2024",
+   "date": {
+    "en": "16 Dec 2024",
+    "es": "16 dic 2024"
+   },
+   "outlet": "NZZ",
+   "headline": "Argentina’s Javier Milei faces critical tests amid rising optimism",
+   "url": "https://www.nzz.ch/english/javier-milei-still-faces-major-challenges-in-spite-of-renewed-confidence-ld.1862410",
+   "lang": "en",
+   "iso": "2024-12-16",
+   "cats": [
+    "de"
    ]
   },
   {
