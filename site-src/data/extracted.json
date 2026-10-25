@@ -1702,6 +1702,21 @@
    ]
   },
   {
+   "k": "de 2026",
+   "date": {
+    "en": "25 May 2026",
+    "es": "25 may 2026"
+   },
+   "outlet": "Swissinfo / AFP",
+   "headline": "Un boom minero se dibuja en Argentina de la mano de Milei",
+   "url": "https://www.swissinfo.ch/spa/un-boom-minero-se-dibuja-en-argentina-de-la-mano-de-milei/91471255",
+   "lang": "es",
+   "iso": "2026-05-25",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "video 2026",
    "date": {
     "en": "24 May 2026",
@@ -1725,6 +1740,66 @@
    "outlet": "RFI / AFP",
    "headline": "Full steam ahead for Milei’s Andean mining revolution",
    "url": "https://www.rfi.fr/en/international-news/20260523-full-steam-ahead-for-milei-s-andean-mining-revolution",
+   "lang": "en",
+   "iso": "2026-05-23",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "intl 2026",
+   "date": {
+    "en": "23 May 2026",
+    "es": "23 may 2026"
+   },
+   "outlet": "Barron’s / AFP",
+   "headline": "Full Steam Ahead For Milei’s Andean Mining Revolution",
+   "url": "https://www.barrons.com/news/full-steam-ahead-for-milei-s-andean-mining-revolution-928fe38d",
+   "lang": "en",
+   "iso": "2026-05-23",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
+   "k": "intl 2026",
+   "date": {
+    "en": "23 May 2026",
+    "es": "23 may 2026"
+   },
+   "outlet": "Emol / AFP",
+   "headline": "El “boom” minero que se dibuja en Argentina de la mano de Javier Milei",
+   "url": "https://www.emol.com/noticias/Economia/2026/05/23/1200746/boom-minero-argentina-milei.html",
+   "lang": "es",
+   "iso": "2026-05-23",
+   "cats": [
+    "intl"
+   ]
+  },
+  {
+   "k": "ar 2026",
+   "date": {
+    "en": "23 May 2026",
+    "es": "23 may 2026"
+   },
+   "outlet": "Buenos Aires Times / AFP",
+   "headline": "High in the Andes, Milei pushes Argentina’s copper revolution",
+   "url": "https://www.batimes.com.ar/news/economy/high-in-the-andes-milei-pushes-argentinas-copper-revolution.phtml",
+   "lang": "en",
+   "iso": "2026-05-23",
+   "cats": [
+    "ar"
+   ]
+  },
+  {
+   "k": "de 2026",
+   "date": {
+    "en": "23 May 2026",
+    "es": "23 may 2026"
+   },
+   "outlet": "RTL Today / AFP",
+   "headline": "Argentina: Full steam ahead for Milei’s Andean mining revolution",
+   "url": "https://today.rtl.lu/news/world/full-steam-ahead-for-mileis-andean-mining-revolution-1202858432",
    "lang": "en",
    "iso": "2026-05-23",
    "cats": [
@@ -1774,6 +1849,21 @@
    "iso": "2026-05-22",
    "cats": [
     "de"
+   ]
+  },
+  {
+   "k": "intl 2026",
+   "date": {
+    "en": "22 May 2026",
+    "es": "22 may 2026"
+   },
+   "outlet": "Gestión / AFP",
+   "headline": "Un boom minero se dibuja en Argentina de la mano de Milei",
+   "url": "https://gestion.pe/mundo/internacional/un-boom-minero-se-dibuja-en-argentina-de-la-mano-de-javier-milei-noticia/",
+   "lang": "es",
+   "iso": "2026-05-22",
+   "cats": [
+    "intl"
    ]
   },
   {
