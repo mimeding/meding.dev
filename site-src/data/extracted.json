@@ -2395,6 +2395,21 @@
    ]
   },
   {
+   "k": "de 2025",
+   "date": {
+    "en": "6 May 2025",
+    "es": "6 may 2025"
+   },
+   "outlet": "NZZ",
+   "headline": "Rohstoffe in den Anden: Wird Argentinien zum Star der weltweiten Kupfer-Industrie?",
+   "url": "https://www.nzz.ch/wirtschaft/rohstoffe-in-den-anden-wird-argentinien-zum-star-der-weltweiten-kupfer-industrie-ld.1882048",
+   "lang": "de",
+   "iso": "2025-05-06",
+   "cats": [
+    "de"
+   ]
+  },
+  {
    "k": "video 2025",
    "date": {
     "en": "21 Apr 2025",
@@ -2480,6 +2495,21 @@
    "url": "https://www.nzz.ch/english/javier-milei-still-faces-major-challenges-in-spite-of-renewed-confidence-ld.1862410",
    "lang": "en",
    "iso": "2024-12-16",
+   "cats": [
+    "de"
+   ]
+  },
+  {
+   "k": "de 2024",
+   "date": {
+    "en": "12 Dec 2024",
+    "es": "12 dic 2024"
+   },
+   "outlet": "NZZ Pro",
+   "headline": "Warum ein Big Mac in Argentinien gleich viel kostet wie in der Schweiz",
+   "url": "https://www.nzz.ch/pro/javier-milei-muss-weiterhin-knifflige-wirtschaftspolitische-probleme-loesen-warum-ein-bic-mac-in-argentinien-gleich-viel-kostet-wie-in-der-schweiz-ld.1861770",
+   "lang": "de",
+   "iso": "2024-12-12",
    "cats": [
     "de"
    ]
