@@ -804,7 +804,8 @@ def render_press(l):
            f'<li><img src="{p.asset("img/michael-meding-headshot-2026.jpg")}" alt="Michael Meding" width="1200" height="1200" loading="lazy"><span>{esc(pr["photo_headshot"])}</span><a href="{p.asset("img/michael-meding-headshot-2026.jpg")}" download>{esc(pr["download"])}</a></li>'
            f'<li><img src="{p.asset("img/portrait-studio-2026-800.jpg")}" alt="{esc(c["home"]["card_photo_alt"])}" width="800" height="1200" loading="lazy" style="object-position:50% 12%"><span>{esc(pr["photo_studio"])}</span><a href="{p.asset("img/portrait-studio-2026.jpg")}" download>{esc(pr["download"])}</a></li>'
            f'<li><img src="{p.asset("img/forbes-summit-stage-800.jpg")}" alt="{esc(c["speaking"]["alt_forbes"])}" width="800" height="450" loading="lazy"><span>{esc(pr["photo_stage"])}</span><a href="{p.asset("img/forbes-summit-stage.jpg")}" download>{esc(pr["download"])}</a></li>'
-           f'<li><img src="{p.asset("img/washington-2026-colour-800.jpg")}" alt="{esc(c["speaking"]["alt_dc"])}" width="800" height="534" loading="lazy"><span>{esc(pr["photo_dc"])}</span><a href="{p.asset("img/washington-2026-colour.jpg")}" download>{esc(pr["download"])}</a></li></ul>'
+           f'<li><img src="{p.asset("img/washington-2026-colour-800.jpg")}" alt="{esc(c["speaking"]["alt_dc"])}" width="800" height="534" loading="lazy"><span>{esc(pr["photo_dc"])}</span><a href="{p.asset("img/washington-2026-colour.jpg")}" download>{esc(pr["download"])}</a></li>'
+           f'<li><img src="{p.asset("img/los-azules-camp-2024-800.jpg")}" alt="{esc(pr["photo_camp_alt"])}" width="800" height="450" loading="lazy"><span>{esc(pr["photo_camp"])}</span><a href="{p.asset("img/los-azules-camp-2024.jpg")}" download>{esc(pr["download"])}</a></li></ul>'
            f'<h3>{esc(pr["h_data"])}</h3><p>{esc(pr["data_p"])}</p><ul class="mfiles"><li><a href="{p.asset("llms.txt")}">{esc(pr["data_llms"])}</a> · <a href="{p.asset("llms-full.txt")}">llms-full.txt</a></li><li><a href="{p.asset("facts.json")}">{esc(pr["data_facts"])}</a></li></ul>'
            f'<p class="kitc">{esc(pr["contact"])}: <a href="mailto:michael@meding.dev">michael@meding.dev</a></p>')
     secs.append(section('kit', esc(pr['h_kit']), kit, 's s-first'))
@@ -982,7 +983,7 @@ def facts_json():
 
 SITEMAP_IMGS = {'home': ['forbes-summit-stage.jpg', 'portrait-studio-2026.jpg', 'michael-meding-headshot-2026.jpg', 'entrepreneur-2025.jpg', 'diploma-2024.jpg'],
                 'la': ['site-delegations.jpg', 'ifc-2025.jpg'], 'speaking': ['new-york-2024.jpg', 'washington-2026-colour.jpg', 'forbes-summit-sponsors.jpg'],
-                'press': ['michael-meding-headshot-2026.jpg', 'portrait-studio-2026.jpg', 'forbes-summit-stage.jpg', 'washington-2026-colour.jpg']}
+                'press': ['michael-meding-headshot-2026.jpg', 'portrait-studio-2026.jpg', 'forbes-summit-stage.jpg', 'washington-2026-colour.jpg', 'los-azules-camp-2024.jpg']}
 
 
 def sitemap():
