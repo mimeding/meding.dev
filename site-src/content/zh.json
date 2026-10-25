@@ -361,7 +361,7 @@
       {
         "role": "会长",
         "o": "GEMERA",
-        "x": "2024年起 · 首位外籍会长"
+        "x": "2024年起，连任2026–2028年届 · 首位外籍会长"
       },
       {
         "role": "副会长",
@@ -439,7 +439,7 @@
       },
       {
         "q": "GEMERA是什么组织？",
-        "a": "即Grupo de Empresas Mineras Exploradoras de la República Argentina，阿根廷矿业勘探企业商会。梅丁自2024年起担任会长，是首位出任该职的外籍人士；他主张阿根廷应将勘探支出提高至目前的三倍。[[r:gemera-ej,handelsblatt,gemera-ambito]]"
+        "a": "即Grupo de Empresas Mineras Exploradoras de la República Argentina，阿根廷矿业勘探企业商会。梅丁自2024年起担任会长，是首位出任该职的外籍人士；他主张阿根廷应将勘探支出提高至目前的三倍。[[r:gemera-ej,handelsblatt,gemera-ambito]]2026年10月，会员大会推选他连任2026–2028年届会长。[[r:gemera-2026]]"
       },
       {
         "q": "他的职业背景如何？",
@@ -881,6 +881,10 @@
     },
     "roles": {
       "s01": "已确认演讲嘉宾",
+      "s62": "铜业主旨演讲：Los Azules项目",
+      "s61": "焦点环节：麦克尤恩铜业",
+      "s60": "与Stefan Spears共同介绍麦克尤恩与Los Azules项目",
+      "s59": "与Sebastián D. Penelli对谈，聚焦圣胡安省铜业",
       "s02": "接受Investing News Network采访",
       "s03": "“Minerales críticos y desarrollo federal”（关键矿产与联邦发展），与圣胡安、胡胡伊和卡塔马卡三省省长同台",
       "s04": "“En Foco”，与Fernando Heredia同台对谈",
@@ -937,13 +941,14 @@
       "s55": "与Rob McEwen共同举行逾25场投资者推介",
       "s56": "Los Azules项目介绍",
       "s57": "麦克尤恩铜业与Los Azules",
-      "s58": "麦克尤恩铜业与Los Azules",
-      "s59": "与Sebastián D. Penelli对谈，聚焦圣胡安省铜业"
+      "s58": "麦克尤恩铜业与Los Azules"
     },
     "cta": "演讲及采访邀请：michael@meding.dev",
     "alt_forbes": "迈克尔·梅丁在福布斯阿根廷（Forbes Argentina）矿业峰会上发言",
     "cap_forbes": "福布斯矿业峰会（Forbes Mining Summit），阿根廷。",
-    "alt_forbes_sp": "迈克尔·梅丁在福布斯矿业峰会台上，身后赞助商墙上有McEwen Copper和Los Azules的标志"
+    "alt_forbes_sp": "迈克尔·梅丁在福布斯矿业峰会台上，身后赞助商墙上有McEwen Copper和Los Azules的标志",
+    "cap_stockholm": "斯德哥尔摩，Nordic Funds & Mines，2026年10月。与麦克尤恩（McEwen Inc.）企业发展副总裁Stefan Spears在主会场介绍麦克尤恩与Los Azules项目之前合影。",
+    "alt_stockholm": "迈克尔·梅丁与McEwen Inc.的Stefan Spears佩戴头戴式麦克风，在斯德哥尔摩Nordic Funds & Mines会场，即将登台"
   },
   "press": {
     "h1": "媒体",

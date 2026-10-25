@@ -361,7 +361,7 @@
       {
         "role": "President",
         "o": "GEMERA",
-        "x": "since 2024 · first foreigner in the role"
+        "x": "since 2024, re-elected for 2026–2028 · first foreigner in the role"
       },
       {
         "role": "Vice President",
@@ -439,7 +439,7 @@
       },
       {
         "q": "What is GEMERA?",
-        "a": "The Grupo de Empresas Mineras Exploradoras de la República Argentina, the chamber of exploration companies. Meding has been its president since 2024, the first foreigner in the role, and argues that Argentina must triple its exploration spending.[[r:gemera-ej,handelsblatt,gemera-ambito]]"
+        "a": "The Grupo de Empresas Mineras Exploradoras de la República Argentina, the chamber of exploration companies. Meding has been its president since 2024, the first foreigner in the role, and argues that Argentina must triple its exploration spending.[[r:gemera-ej,handelsblatt,gemera-ambito]] In October 2026 the members re-elected him for 2026–2028.[[r:gemera-2026]]"
       },
       {
         "q": "What is his professional background?",
@@ -881,6 +881,10 @@
     },
     "roles": {
       "s01": "Confirmed speaker",
+      "s62": "Copper keynote: Los Azules",
+      "s61": "Spotlight session: McEwen Copper",
+      "s60": "McEwen and Los Azules presentation with Stefan Spears",
+      "s59": "Copper in San Juan, one-on-one with Sebastián D. Penelli",
       "s02": "Interview with the Investing News Network",
       "s03": "“Minerales críticos y desarrollo federal” (critical minerals and federal development), with the governors of San Juan, Jujuy and Catamarca",
       "s04": "“En Foco”, on stage with Fernando Heredia",
@@ -937,13 +941,14 @@
       "s55": "More than 25 investor presentations with Rob McEwen",
       "s56": "Los Azules presentation",
       "s57": "McEwen Copper and Los Azules",
-      "s58": "McEwen Copper and Los Azules",
-      "s59": "Copper in San Juan, one-on-one with Sebastián D. Penelli"
+      "s58": "McEwen Copper and Los Azules"
     },
     "cta": "Speaking and interview requests: michael@meding.dev",
     "alt_forbes": "Michael Meding speaking on stage at the Forbes Argentina Mining Summit",
     "cap_forbes": "Forbes Mining Summit, Argentina.",
-    "alt_forbes_sp": "Michael Meding on stage at the Forbes Mining Summit, with the McEwen Copper and Los Azules logos on the sponsor wall"
+    "alt_forbes_sp": "Michael Meding on stage at the Forbes Mining Summit, with the McEwen Copper and Los Azules logos on the sponsor wall",
+    "cap_stockholm": "Stockholm, Nordic Funds & Mines, October 2026, with Stefan Spears, Vice President Corporate Development of McEwen Inc., before their main-stage presentation of McEwen and Los Azules.",
+    "alt_stockholm": "Michael Meding and Stefan Spears of McEwen Inc., wearing headset microphones, in the conference hall at Nordic Funds & Mines in Stockholm shortly before going on stage"
   },
   "press": {
     "h1": "Press",

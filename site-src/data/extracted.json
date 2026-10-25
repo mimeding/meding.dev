@@ -347,6 +347,63 @@
    "k": "2026",
    "year": "2026",
    "date": {
+    "en": "Oct 20",
+    "es": "oct 20"
+   },
+   "city": "London",
+   "event": "Benchmark Summit London · LME Week",
+   "upcoming": false,
+   "role": {
+    "en": "Copper keynote: Los Azules",
+    "es": "Conferencia central sobre cobre: Los Azules"
+   },
+   "links": [],
+   "month": 10,
+   "day": "20",
+   "id": "s62"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
+    "en": "Oct 19",
+    "es": "oct 19"
+   },
+   "city": "London",
+   "event": "LME Metals Seminar · LME Week",
+   "upcoming": false,
+   "role": {
+    "en": "Spotlight session: McEwen Copper",
+    "es": "Sesión destacada: McEwen Copper"
+   },
+   "links": [],
+   "month": 10,
+   "day": "19",
+   "id": "s61"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
+    "en": "Oct 16",
+    "es": "oct 16"
+   },
+   "city": "Stockholm",
+   "event": "Nordic Funds & Mines",
+   "upcoming": false,
+   "role": {
+    "en": "McEwen and Los Azules presentation with Stefan Spears",
+    "es": "Presentación de McEwen y Los Azules junto a Stefan Spears"
+   },
+   "links": [],
+   "month": 10,
+   "day": "16",
+   "id": "s60"
+  },
+  {
+   "k": "2026",
+   "year": "2026",
+   "date": {
     "en": "Oct 6",
     "es": "oct 6"
    },
